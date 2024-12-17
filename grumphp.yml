@@ -1,0 +1,16 @@
+grumphp:
+    process_timeout: 180
+    tasks:
+        phpcsfixer:
+            config: .php-cs-fixer.dist.php
+        git_blacklist:
+            keywords:
+                - 'var_dump'
+                - 'exit'
+                - 'else'
+                - 'ini_set'
+                - 'error_reporting'
+                - 'die'
+        paratest:
+            always_execute: true
+        phplint: ~
