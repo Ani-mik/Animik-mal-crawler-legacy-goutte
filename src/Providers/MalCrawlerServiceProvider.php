@@ -17,12 +17,8 @@ class MalCrawlerServiceProvider extends ServiceProvider
 		});
 
 		$this->mergeConfigFrom(
-		  __DIR__.'/../../config/mal-crawler.php', 'malCrawler'
+		  __DIR__ . '/../../config/mal-crawler.php', 'malCrawler'
 		);
-
-		//		$this->mergeConfigFrom(
-		//		  __DIR__ . '/../../config/mal-crawler.php', 'mal-crawler'
-		//		);
 	}
 
 	/**
@@ -31,7 +27,7 @@ class MalCrawlerServiceProvider extends ServiceProvider
 	public function boot(): void
 	{
 		$this->publishes([
-		  __DIR__.'/../config/mal-crawler.php' => config_path('mal-crawler.php'),
+		  __DIR__ . '/../config/mal-crawler.php' => config_path('mal-crawler.php'),
 		]);
 	}
 }

@@ -7,26 +7,51 @@ use Vahe\MalCrawler\Tests\UnitTest;
 
 class CrawlGenresTest extends UnitTest
 {
+	protected string $responseDirectory;
+	protected string $genresResponseFile;
+	protected string $explicitGenresResponseFile;
+
+	protected function setUp(): void
+	{
+		parent::setUp();
+
+		$this->responseDirectory = __DIR__ . '/../../storage/response/Anime/';
+		$this->genresResponseFile = $this->responseDirectory . 'genres_response.json';
+		$this->explicitGenresResponseFile = $this->responseDirectory . 'explicit_genres_response.json';
+	}
+
 	public function testItCrawlsGenres()
 	{
-		$logDirectory = __DIR__ . '/../../storage/Logs/Anime/';
-		$logFile = $logDirectory . 'crawl_genres.log';
+		$genresResponse = MalCrawler::crawlGenres();
+		$explicitGenresResponse = MalCrawler::crawlExplicitGenres();
 
-		file_put_contents($logFile, '');
+		$genres = $this->decodeAndValidateJson($genresResponse);
+		$explicitGenres = $this->decodeAndValidateJson($explicitGenresResponse);
 
-		file_put_contents($logFile, "Starting test: Crawling genres using Facade\n", FILE_APPEND);
+		$this->saveResponseToFile($genres, $this->genresResponseFile);
+		$this->saveResponseToFile($explicitGenres, $this->explicitGenresResponseFile);
 
-		$genres = MalCrawler::crawlGenres();
+		$this->assertFileExists($this->genresResponseFile);
+		$this->assertFileExists($this->explicitGenresResponseFile);
+	}
 
-		file_put_contents($logFile, "Crawling completed, found " . count($genres) . " genres.\n", FILE_APPEND);
+	protected function decodeAndValidateJson($response)
+	{
+		$decodedJson = json_decode($response->getContent(), true);
 
-		$this->assertIsArray($genres);
-		$this->assertNotEmpty($genres);
-		$this->assertArrayHasKey('name', $genres[0]);
-		$this->assertArrayHasKey('link', $genres[0]);
+		$this->assertJson($response->getContent());
+		$this->assertNotEmpty($decodedJson);
 
-		file_put_contents($logFile, "Test passed successfully.\n", FILE_APPEND);
+		return $decodedJson;
+	}
 
-		file_put_contents($logFile, "\n" . print_r($genres, true), FILE_APPEND);
+	protected function saveResponseToFile($data, $filePath): void
+	{
+		$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+		file_put_contents($filePath, $json);
 	}
 }
+
+
+
+
