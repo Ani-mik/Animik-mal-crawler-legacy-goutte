@@ -25,4 +25,6 @@ return [
 	|
 	*/
   'genres_url' => env('MAL_CRAWLER_GENRES_URL', '/anime.php'),
+
+  'genre' => env('MAL_CRAWLER_GENRE_URL', '/anime/genre'),
 ];

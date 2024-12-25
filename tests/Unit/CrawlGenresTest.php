@@ -18,21 +18,26 @@ class CrawlGenresTest extends UnitTest
 		$this->responseDirectory = __DIR__ . '/../../storage/response/Anime/';
 		$this->genresResponseFile = $this->responseDirectory . 'genres_response.json';
 		$this->explicitGenresResponseFile = $this->responseDirectory . 'explicit_genres_response.json';
+		$this->genreDescriptionFile = $this->responseDirectory . 'genres_description.json';
 	}
 
 	public function testItCrawlsGenres()
 	{
 		$genresResponse = MalCrawler::crawlGenres();
 		$explicitGenresResponse = MalCrawler::crawlExplicitGenres();
+		$genreDescriptionResponse = MalCrawler::crawlGenreDescription(1);
 
 		$genres = $this->decodeAndValidateJson($genresResponse);
 		$explicitGenres = $this->decodeAndValidateJson($explicitGenresResponse);
+		$genreDescription = $this->decodeAndValidateJson($genreDescriptionResponse);
 
 		$this->saveResponseToFile($genres, $this->genresResponseFile);
 		$this->saveResponseToFile($explicitGenres, $this->explicitGenresResponseFile);
+		$this->saveResponseToFile($genreDescription, $this->genreDescriptionFile);
 
 		$this->assertFileExists($this->genresResponseFile);
 		$this->assertFileExists($this->explicitGenresResponseFile);
+		$this->assertFileExists($this->genreDescriptionFile);
 	}
 
 	protected function decodeAndValidateJson($response)

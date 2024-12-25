@@ -35,6 +35,28 @@ class CrawlGenres
 	}
 
 	/**
+	 * Get description of a genre by malId
+	 *
+	 * @param int $malId
+	 * @return JsonResponse
+	 */
+	public function crawlGenreDescription(int $malId): JsonResponse
+	{
+		$baseUrl = config('malCrawler.base_url');
+		$genresUrl = config('malCrawler.genre');
+		$url = $baseUrl . $genresUrl . '/' . $malId;
+
+		$crawler = $this->client->request('GET', $url);
+
+		$description = $crawler->filter('#content .genre-description')->text();
+
+		return response()->json([
+		  'malId' => $malId,
+		  'description' => trim($description)
+		]);
+	}
+
+	/**
 	 * A General Method for Genre Extraction
 	 *
 	 * @param string $genreSelector
