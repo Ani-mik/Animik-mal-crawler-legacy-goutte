@@ -35,6 +35,26 @@ class CrawlGenres
 	}
 
 	/**
+	 * Get Anime themes
+	 *
+	 * @return JsonResponse
+	 */
+	public function crawlThemes(): JsonResponse
+	{
+		return $this->crawlGenreData('.anime-manga-search .genre-link', 2);
+	}
+
+	/**
+	 * Get Anime Demographics
+	 *
+	 * @return JsonResponse
+	 */
+	public function crawlDemographics(): JsonResponse
+	{
+		return $this->crawlGenreData('.anime-manga-search .genre-link', 3);
+	}
+
+	/**
 	 * Get description of a genre by malId
 	 *
 	 * @param int $malId
@@ -48,11 +68,19 @@ class CrawlGenres
 
 		$crawler = $this->client->request('GET', $url);
 
-		$description = $crawler->filter('#content .genre-description')->text();
+		$description = $crawler->filter('#content .genre-description')->count() > 0
+		  ? $crawler->filter('#content .genre-description')->text()
+		  : null;
+
+		if (empty($description)) {
+			$description = config('malCrawler.not_found');
+		} else {
+			$description = trim($description);
+		}
 
 		return response()->json([
 		  'malId' => $malId,
-		  'description' => trim($description)
+		  'description' => $description
 		]);
 	}
 
@@ -116,8 +144,6 @@ class CrawlGenres
 	protected function generateSlug(string $slug): string
 	{
 		$slug = strtolower($slug);
-		$slug = str_replace('_', '-', $slug);
-
-		return $slug;
+		return str_replace('_', '-', $slug);
 	}
 }
