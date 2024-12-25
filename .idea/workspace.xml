@@ -5,435 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23c47111-4e28-4219-832d-2ad729f99ec4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Animik-wiki-crawler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeception.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.php-cs-fixer.dist.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grumphp.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/BadResponseException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/ParserException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Goutte/GoutteWrapper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper/Constants.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper/JString.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper/MalUrlExtractor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper/Media.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper/Parser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/Anime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeCharactersAndStaff.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeEpisode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeMoreInfo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeRecentlyUpdatedByUser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeReviewScores.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeReviews.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeStats.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeStatsScore.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeUserUpdates.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeVideos.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/AnimeVideosEpisodes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/EpisodeListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/Episodes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/MusicVideoListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/PromoListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/StaffListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Anime/StreamEpisodeListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Character/Animeography.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Character/Character.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Character/CharacterListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Character/Mangaography.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Character/VoiceActor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Club/Club.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Club/UserList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Club/UserProfile.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/AnimeCard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/AnimeMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/CharacterMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/ClubMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Collection/Pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Collection/Results.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/CommonMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/DateProp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/DateRange.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/DefaultPicture.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/ItemBasicMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/ItemMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/MagazineMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/MalUrl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/MangaCard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/MangaMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/MusicMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Ography.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/PersonMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Picture.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Recommendation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Title.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/Url.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/UserMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/UserMetaBasic.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Common/YoutubeMeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Forum/ForumPost.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Forum/ForumTopic.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Genre/AnimeGenre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Genre/AnimeGenreList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Genre/AnimeGenreListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Genre/MangaGenre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Genre/MangaGenreList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Genre/MangaGenreListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Magazine/Magazine.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Magazine/MagazineList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Magazine/MagazineListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Magazine/MagazineManga.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/CharacterListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/Manga.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaMoreInfo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaRecentlyUpdatedByUser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaReviewScores.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaReviewer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaReviews.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaStats.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaStatsScore.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Manga/MangaUserUpdates.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/News/NewsList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/News/NewsListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Person/AnimeStaffPosition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Person/Person.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Person/PublishedManga.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Person/VoiceActingRole.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Producer/Producer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Producer/ProducerAnime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Producer/ProducerList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Producer/ProducerListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Recommendations/RecentRecommendations.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Recommendations/RecommendationListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Recommendations/Recommender.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Recommendations/UserRecommendations.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/AnimeImageResource/AnimeImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/AnimeImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/AnimeImageResource/Webp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/CharacterImageResource/CharacterImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/CharacterImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/CharacterImageResource/Webp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/ClubImageResource/ClubImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/ClubImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/CommonImageResource/CommonImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/CommonImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/CommonImageResource/Webp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/PersonImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/PersonImageResource/PersonImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/UserImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/UserImageResource/UserImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/UserImageResource/Webp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/WrapImageResource/Jpg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/WrapImageResource/WrapImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Resource/YoutubeImageResource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/AnimeReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/FullAnimeReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/FullMangaReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/MangaReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/Reactions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/Review.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/Reviewer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Reviews/Reviews.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Schedule/Schedule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/AnimeSearch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/AnimeSearchListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/CharacterSearch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/CharacterSearchListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/MangaSearch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/MangaSearchListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/PersonSearch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/PersonSearchListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/Search.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/UserSearch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Search/UserSearchListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/SeasonList/SeasonArchive.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/SeasonList/SeasonListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Seasonal/Seasonal.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Seasonal/SeasonalAnime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopAnime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopAnimeListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopCharacterListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopCharacters.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopManga.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopMangaListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopPeople.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Top/TopPersonListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/AnimeListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/AnimeStats.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/BaseLastUpdate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/FavoriteAnime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/FavoriteCharacter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/FavoriteCharacterRelatedEntry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/FavoriteListEntry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/FavoriteManga.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Favorites.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Friend.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Friends.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/History.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/LastAnimeUpdate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/LastMangaUpdate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/LastUpdates.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/MangaListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/MangaStats.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Profile.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Reviews/UserAnimeReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Reviews/UserMangaReview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User/Reviews/UserReviews.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Watch/EpisodeListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Watch/Episodes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Watch/PromotionalVideoListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Watch/PromotionalVideos.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Watch/RecentEpisodeListItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyAnimeList/MalClient.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/AnimeEpisodeParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/AnimeParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/AnimeRecentlyUpdatedByUsersListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/AnimeRecentlyUpdatedByUsersParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/AnimeReviewsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/AnimeStatsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/CharactersAndStaffParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/EpisodeListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/EpisodesParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/MoreInfoParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/MusicVideoListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/PromoListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/StaffListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/StreamEpisodeListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Anime/VideosParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Character/AnimeographyParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Character/CharacterListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Character/CharacterParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Character/MangaographyParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Character/OgraphyParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Character/VoiceActorParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Club/ClubParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Club/UserListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Club/UserProfileParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/AlternativeTitleParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/AnimeCardParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/DefaultPicturesPageParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/ItemMetaParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/MalUrlParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/MangaCardParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/PictureParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/PicturesPageParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/Recommendation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/Recommendations.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Common/UrlParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Forum/ForumPageParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Forum/ForumTopicParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Genre/AnimeGenreListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Genre/AnimeGenreListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Genre/AnimeGenreParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Genre/MangaGenreListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Genre/MangaGenreListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Genre/MangaGenreParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Magazine/MagazineListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Magazine/MagazineListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Magazine/MagazineParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/CharactersParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaRecentlyUpdatedByUsersListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaRecentlyUpdatedByUsersParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaReviewScoresParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaReviewerParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaReviewsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MangaStatsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Manga/MoreInfoParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/News/NewsListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/News/NewsListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/ParserInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Person/AnimeStaffPositionParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Person/PersonParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Person/PublishedMangaParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Person/VoiceActingRoleParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Producer/ProducerListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Producer/ProducerListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Producer/ProducerParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Recommendations/RecentRecommendationsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Recommendations/RecommendationListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Recommendations/UserRecommendationsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Reviews/AnimeReviewParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Reviews/MangaReviewParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Reviews/ReactionsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Reviews/ReviewerParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Reviews/ReviewsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Schedule/ScheduleParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/AnimeSearchListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/AnimeSearchParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/CharacterSearchListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/CharacterSearchParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/MangaSearchListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/MangaSearchParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/PersonSearchListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/PersonSearchParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/UserSearchListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Search/UserSearchParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/SeasonList/SeasonListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/SeasonList/SeasonListParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Seasonal/SeasonalParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Top/TopAnimeParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Top/TopCharactersParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Top/TopListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Top/TopMangaParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Top/TopPeopleParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/ClubParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Friends/FriendParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Friends/FriendsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/History/HistoryItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/History/HistoryParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Profile/AnimeStatsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Profile/FavoritesParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Profile/LastUpdatesParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Profile/MangaStatsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Profile/UserProfileParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/Reviews/UserReviewsParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/User/UsernameByIdParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Watch/EpisodeListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Watch/PromotionalVideoListItemParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Watch/WatchEpisodesParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser/Watch/WatchPromotionalVideosParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeCharactersAndStaffRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeEpisodeRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeEpisodesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeForumRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeMoreInfoRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeNewsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimePicturesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeRecentlyUpdatedByUsersRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeRecommendationsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeReviewsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeStatsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeVideosEpisodesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Anime/AnimeVideosRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Character/CharacterPicturesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Character/CharacterRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Club/ClubRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Club/UserListRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Genre/AnimeGenreRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Genre/AnimeGenresRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Genre/MangaGenreRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Genre/MangaGenresRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Magazine/MagazineRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Magazine/MagazinesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaCharactersRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaForumRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaMoreInfoRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaNewsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaPicturesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaRecentlyUpdatedByUsersRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaRecommendationsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaReviewsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Manga/MangaStatsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Person/PersonPicturesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Person/PersonRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Producer/ProducerRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Producer/ProducersRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Recommendations/RecentRecommendationsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/RequestInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Reviews/ReviewsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Schedule/ScheduleRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Search/AnimeSearchRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Search/CharacterSearchRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Search/MangaSearchRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Search/PersonSearchRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Search/UserSearchRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/SeasonList/SeasonListRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Seasonal/SeasonalRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Top/TopAnimeRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Top/TopCharactersRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Top/TopMangaRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Top/TopPeopleRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/RecentlyOnlineUsersRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserAnimeListRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserClubsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserFriendsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserHistoryRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserMangaListRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserProfileRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserRecommendationsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UserReviewsRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/User/UsernameByIdRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Watch/PopularEpisodesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Watch/PopularPromotionalVideosRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Watch/RecentEpisodesRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/Watch/RecentPromotionalVideosRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Helper/JStringTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Helper/MediaTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Helper/ParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/HttpFilesystemCacheClientCallback.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Model/Common/DatePropTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Model/Common/DateRangeTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeEpisodeParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeEpisodesParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeMoreInfoParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeRecentlyUpdatedByUsersParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeRecommendationParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeReviewsParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Anime/AnimeStatsParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Character/AnimeographyParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Character/CharacterListItemParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Character/CharacterParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Character/StaffListItemParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Character/VoiceActorParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Club/ClubParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Club/UserListParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Common/MalUrlParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Forum/ForumTopicParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Genre/AnimeGenreParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Genre/MangaGenreParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Magazine/MagazineParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Manga/CharactersParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Manga/MangaParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Manga/MangaRecentlyUpdatedByUsersParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Manga/MangaRecommendationParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Manga/MangaReviewsParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Manga/MangaStatsParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/News/NewsListItemParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Person/PersonParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Pictures/PicturesPageParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Producer/ProducerParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Schedule/ScheduleParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Search/AnimeSearchAiringTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Search/AnimeSearchEpisodeTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Search/AnimeSearchTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Search/CharacterSearchTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Search/MangaSearchTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Search/PersonSearchTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/SeasonList/SeasonListItemParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/SeasonList/SeasonListParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Seasonal/SeasonalAnimeParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Seasonal/SeasonalParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Top/TopAnimeParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Top/TopCharacterParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Top/TopMangaParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Top/TopPeopleParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/UserFriend/FriendParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/UserHistory/UserHistoryParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/UserProfile/UserProfileParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/Parser/Video/AnimeVideoParserTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test/TestCase.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/mal-crawler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlGenres.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/Logs/Anime/crawl_genres.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/CrawlerServiceTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -459,21 +41,23 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;Z:/Animik/Animik-wiki-crawler&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "Z:/Animik/Animik-wiki-crawler",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Animik\Animik-wiki-crawler\src\Providers" />
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\Logs\Anime" />
       <recent name="Z:\Animik\Animik-wiki-crawler" />
     </key>
   </component>
@@ -505,6 +89,7 @@
       <workItem from="1735115757318" duration="586000" />
       <workItem from="1735116355841" duration="239000" />
       <workItem from="1735116603828" duration="219000" />
+      <workItem from="1735116831891" duration="7732000" />
     </task>
     <servers />
   </component>
