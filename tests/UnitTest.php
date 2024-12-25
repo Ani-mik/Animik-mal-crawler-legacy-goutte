@@ -11,7 +11,7 @@ use Vahe\MalCrawler\Providers\MalCrawlerServiceProvider;
 class UnitTest extends TestCase
 {
 	/**
-	 * Общий лог-файл для всех тестов.
+	 * Common log file for all tests.
 	 *
 	 * @var string
 	 */
@@ -28,23 +28,22 @@ class UnitTest extends TestCase
 			mkdir($directory, 0777, true);
 		}
 
-		// Создаем пустой лог-файл
 		file_put_contents($this->mainLogFile, "Log file created at: " . date('Y-m-d H:i:s') . PHP_EOL);
 	}
 
 	/**
-	 * Генерация пути для лог-файла с уникальным именем
+	 * Generate a path for a log file with a unique name
 	 *
 	 * @return string
 	 */
 	protected function generateLogFilePath(): string
 	{
-		$timestamp = date('Y-m-d_H-i-s');
-		return __DIR__ . "/../../storage/Logs/malCrawler_{$timestamp}.log";
+		$timestamp = date('Y-m-d_H');
+		return __DIR__ . "/../storage/Logs/malCrawler_{$timestamp}.log";
 	}
 
 	/**
-	 * Логирование сообщений в общий лог-файл.
+	 * Log messages to a common log file.
 	 *
 	 * @param string $message
 	 * @return void
@@ -76,7 +75,7 @@ class UnitTest extends TestCase
 	}
 
 	/**
-	 * Декодирует и валидирует JSON-ответ.
+	 * Decodes and validates the JSON response.
 	 */
 	protected function decodeAndValidateJson($response)
 	{
@@ -87,16 +86,16 @@ class UnitTest extends TestCase
 	}
 
 	/**
-	 * Сохраняет данные в файл в формате JSON.
+	 * Saves data to a file in JSON format.
 	 */
 	protected function saveResponseToFile($data, $filePath): void
 	{
 		if (!file_exists($filePath)) {
 			$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 			file_put_contents($filePath, $json);
-		} else {
-			$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-			file_put_contents($filePath, $json);
 		}
+
+		$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+		file_put_contents($filePath, $json);
 	}
 }
