@@ -1,0 +1,19 @@
+<?php
+
+
+namespace Vahe\MalCrawler\Traits;
+
+trait SlugTrait
+{
+	/**
+	 * Generate slug for genre (converts to lowercase, replaces spaces with hyphens)
+	 *
+	 * @param string $slug
+	 * @return string
+	 */
+	protected function generateSlug(string $slug): string
+	{
+		$slug = strtolower($slug);
+		return str_replace('_', '-', $slug);
+	}
+}

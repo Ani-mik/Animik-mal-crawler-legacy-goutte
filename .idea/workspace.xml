@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23c47111-4e28-4219-832d-2ad729f99ec4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/storage/Logs/Anime/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/response/Anime/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlStudios.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/BaseService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Traits/SlugTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/CrawlStudiosTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/mal-crawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mal-crawler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Facades/MalCrawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facades/MalCrawler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Services/Anime/CrawlGenres.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlGenres.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/Logs/Anime/crawl_Explicit_genres.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/Logs/Anime/crawl_genres.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/response/Anime/explicit_genres_response.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/response/Anime/genres_description.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/response/Anime/genres_response.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/CrawlGenresTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/CrawlGenresTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +174,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\response\Anime" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="Z:\Animik\Animik-wiki-crawler" />
       <recent name="Z:\Animik\Animik-wiki-crawler\src" />
@@ -214,7 +215,7 @@
       <workItem from="1735116831891" duration="7732000" />
       <workItem from="1735133566905" duration="40000" />
       <workItem from="1735133616103" duration="9651000" />
-      <workItem from="1735144048983" duration="831000" />
+      <workItem from="1735144048983" duration="5621000" />
     </task>
     <servers />
   </component>
