@@ -20,8 +20,8 @@ class CrawlGenres
 	 */
 	public function crawlGenres(): array
 	{
-		$baseUrl = config('mal-crawler.base_url');
-		$genresUrl = config('mal-crawler.genres_url');
+		$baseUrl = function_exists('config') ? config('mal-crawler.base_url') : 'https://myanimelist.net';
+		$genresUrl = function_exists('config') ? config('mal-crawler.genres_url') : '/anime.php';
 
 		$url = $baseUrl . $genresUrl;
 

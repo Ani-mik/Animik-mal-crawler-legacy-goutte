@@ -1,11 +1,12 @@
 <?php
 
-namespace Vahe\MalCrawler\Tests;
+namespace Vahe\MalCrawler\Tests\Unit;
 
-use PHPUnit\Framework\TestCase;
+
 use Vahe\MalCrawler\Services\Anime\CrawlGenres;
+use Vahe\MalCrawler\Tests\UnitTest;
 
-class CrawlGenresTest extends TestCase
+class CrawlGenresTest extends UnitTest
 {
 	private CrawlGenres $crawlerService;
 
@@ -18,18 +19,14 @@ class CrawlGenresTest extends TestCase
 
 	public function testItCrawlsGenres()
 	{
-		$logDirectory = __DIR__ . '/../storage/Logs/Anime/';
+		$logDirectory = __DIR__ . '/../../storage/Logs/Anime/';
 		$logFile = $logDirectory . 'crawl_genres.log';
 
 		file_put_contents($logFile, '');
 
 		file_put_contents($logFile, "Starting test: Crawling genres\n", FILE_APPEND);
 
-		$url = 'https://myanimelist.net/anime.php';
-
-		file_put_contents($logFile, "Crawling genres from {$url}\n", FILE_APPEND);
-
-		$genres = $this->crawlerService->crawlGenres($url);
+		$genres = $this->crawlerService->crawlGenres();
 
 		file_put_contents($logFile, "Crawling completed, found " . count($genres) . " genres.\n", FILE_APPEND);
 

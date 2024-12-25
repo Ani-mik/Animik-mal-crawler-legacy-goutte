@@ -1,2 +1,115 @@
 Starting test: Crawling genres
-Crawling genres from https://myanimelist.net/anime.php
+Crawling completed, found 18 genres.
+Test passed successfully.
+
+Array
+(
+    [0] => Array
+        (
+            [name] => Action (5,384)
+            [link] => /anime/genre/1/Action
+        )
+
+    [1] => Array
+        (
+            [name] => Adventure (4,263)
+            [link] => /anime/genre/2/Adventure
+        )
+
+    [2] => Array
+        (
+            [name] => Avant Garde (960)
+            [link] => /anime/genre/5/Avant_Garde
+        )
+
+    [3] => Array
+        (
+            [name] => Award Winning (254)
+            [link] => /anime/genre/46/Award_Winning
+        )
+
+    [4] => Array
+        (
+            [name] => Boys Love (184)
+            [link] => /anime/genre/28/Boys_Love
+        )
+
+    [5] => Array
+        (
+            [name] => Comedy (7,577)
+            [link] => /anime/genre/4/Comedy
+        )
+
+    [6] => Array
+        (
+            [name] => Drama (3,014)
+            [link] => /anime/genre/8/Drama
+        )
+
+    [7] => Array
+        (
+            [name] => Fantasy (5,803)
+            [link] => /anime/genre/10/Fantasy
+        )
+
+    [8] => Array
+        (
+            [name] => Girls Love (114)
+            [link] => /anime/genre/26/Girls_Love
+        )
+
+    [9] => Array
+        (
+            [name] => Gourmet (200)
+            [link] => /anime/genre/47/Gourmet
+        )
+
+    [10] => Array
+        (
+            [name] => Horror (571)
+            [link] => /anime/genre/14/Horror
+        )
+
+    [11] => Array
+        (
+            [name] => Mystery (965)
+            [link] => /anime/genre/7/Mystery
+        )
+
+    [12] => Array
+        (
+            [name] => Romance (2,106)
+            [link] => /anime/genre/22/Romance
+        )
+
+    [13] => Array
+        (
+            [name] => Sci-Fi (3,386)
+            [link] => /anime/genre/24/Sci-Fi
+        )
+
+    [14] => Array
+        (
+            [name] => Slice of Life (1,666)
+            [link] => /anime/genre/36/Slice_of_Life
+        )
+
+    [15] => Array
+        (
+            [name] => Sports (792)
+            [link] => /anime/genre/30/Sports
+        )
+
+    [16] => Array
+        (
+            [name] => Supernatural (1,501)
+            [link] => /anime/genre/37/Supernatural
+        )
+
+    [17] => Array
+        (
+            [name] => Suspense (441)
+            [link] => /anime/genre/41/Suspense
+        )
+
+)

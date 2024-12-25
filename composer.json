@@ -9,7 +9,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "AreaWeb\\MalCrawler\\Tests\\": "tests/"
+      "Vahe\\MalCrawler\\Tests\\": "tests/"
     }
   },
   "authors": [
