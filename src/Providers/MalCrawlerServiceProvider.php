@@ -12,13 +12,17 @@ class MalCrawlerServiceProvider extends ServiceProvider
 	 */
 	public function register(): void
 	{
-		$this->app->singleton(CrawlGenres::class, function ($app) {
+		$this->app->singleton('mal-crawler', function () {
 			return new CrawlGenres();
 		});
 
 		$this->mergeConfigFrom(
-		  __DIR__ . '/../../config/mal-crawler.php', 'mal-crawler'
+		  __DIR__.'/../../config/mal-crawler.php', 'malCrawler'
 		);
+
+		//		$this->mergeConfigFrom(
+		//		  __DIR__ . '/../../config/mal-crawler.php', 'mal-crawler'
+		//		);
 	}
 
 	/**
@@ -27,7 +31,7 @@ class MalCrawlerServiceProvider extends ServiceProvider
 	public function boot(): void
 	{
 		$this->publishes([
-		  __DIR__ . '/../../config/mal-crawler.php' => config_path('mal-crawler.php'),
+		  __DIR__.'/../config/mal-crawler.php' => config_path('mal-crawler.php'),
 		]);
 	}
 }
