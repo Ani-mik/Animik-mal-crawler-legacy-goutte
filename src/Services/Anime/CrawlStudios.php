@@ -26,6 +26,30 @@ class CrawlStudios extends BaseService
 	}
 
 	/**
+	 * Get description of a genre by malId
+	 *
+	 * @param int $malId
+	 * @return JsonResponse
+	 */
+	public function crawlStudioInformation(int $malId): JsonResponse
+	{
+		$baseUrl = config('malCrawler.base_url');
+		$genresUrl = config('malCrawler.studio_url');
+		$url = $baseUrl . $genresUrl . '/' . $malId;
+
+		$crawler = $this->client->request('GET', $url);
+
+		$title = $crawler->filter('.title-name')->count() > 0
+		  ? $crawler->filter('.title-name')->text()
+		  : null;
+
+		return response()->json([
+		  'malId' => $malId,
+		  'title' => $title,
+		]);
+	}
+
+	/**
 	 * A General Method for Genre Extraction
 	 *
 	 * @param string $selector

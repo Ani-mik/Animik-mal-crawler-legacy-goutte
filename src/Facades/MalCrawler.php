@@ -40,4 +40,9 @@ class MalCrawler extends Facade
 	{
 		return app('mal-crawler')['studios']->crawlStudios();
 	}
+
+	public static function crawlStudioInformation(int $malId)
+	{
+		return app('mal-crawler')['studios']->crawlStudioInformation($malId);
+	}
 }

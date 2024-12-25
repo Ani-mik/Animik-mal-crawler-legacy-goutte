@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23c47111-4e28-4219-832d-2ad729f99ec4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Facades/MalCrawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facades/MalCrawler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Services/Anime/CrawlStudios.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlStudios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/Logs/Anime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/CrawlGenresTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/CrawlGenresTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/CrawlStudiosTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/CrawlStudiosTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/UnitTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/UnitTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +162,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary": "PHPUnit",
     "git-widget-placeholder": "dev",
-    "last_opened_file_path": "Z:/Animik/Animik-wiki-crawler/storage/response/Anime",
+    "last_opened_file_path": "Z:/Animik/Animik-wiki-crawler/storage/Logs/Anime",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -167,6 +173,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\Logs\Anime" />
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\Logs\Anime\Studios" />
       <recent name="Z:\Animik\Animik-wiki-crawler\storage\response\Anime" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -207,7 +215,7 @@
       <workItem from="1735116831891" duration="7732000" />
       <workItem from="1735133566905" duration="40000" />
       <workItem from="1735133616103" duration="9651000" />
-      <workItem from="1735144048983" duration="5934000" />
+      <workItem from="1735144048983" duration="8356000" />
     </task>
     <servers />
   </component>

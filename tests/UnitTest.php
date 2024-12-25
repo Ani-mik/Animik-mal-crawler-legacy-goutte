@@ -10,12 +10,58 @@ use Vahe\MalCrawler\Providers\MalCrawlerServiceProvider;
  */
 class UnitTest extends TestCase
 {
+	/**
+	 * Общий лог-файл для всех тестов.
+	 *
+	 * @var string
+	 */
+	protected string $mainLogFile;
+
+	protected function setUp(): void
+	{
+		parent::setUp();
+
+		$this->mainLogFile = $this->generateLogFilePath();
+
+		$directory = dirname($this->mainLogFile);
+		if (!is_dir($directory)) {
+			mkdir($directory, 0777, true);
+		}
+
+		// Создаем пустой лог-файл
+		file_put_contents($this->mainLogFile, "Log file created at: " . date('Y-m-d H:i:s') . PHP_EOL);
+	}
+
+	/**
+	 * Генерация пути для лог-файла с уникальным именем
+	 *
+	 * @return string
+	 */
+	protected function generateLogFilePath(): string
+	{
+		$timestamp = date('Y-m-d_H-i-s');
+		return __DIR__ . "/../../storage/Logs/malCrawler_{$timestamp}.log";
+	}
+
+	/**
+	 * Логирование сообщений в общий лог-файл.
+	 *
+	 * @param string $message
+	 * @return void
+	 */
+	protected function logMessage(string $message): void
+	{
+		$logMessage = date('Y-m-d H:i:s') . ' - ' . $message . PHP_EOL;
+		file_put_contents($this->mainLogFile, $logMessage, FILE_APPEND);
+	}
+
 	protected function getPackageProviders($app): array
 	{
 		return [
 		  MalCrawlerServiceProvider::class
 		];
 	}
+
 	protected function getPackageAliases($app): array
 	{
 		return [
@@ -25,6 +71,7 @@ class UnitTest extends TestCase
 
 	public function testExample()
 	{
+		$this->logMessage('Test message');
 		$this->assertTrue(true);
 	}
 }

@@ -10,33 +10,31 @@ class CrawlStudiosTest extends UnitTest
 	protected string $responseDirectory;
 	protected string $studiosResponseFile;
 
-	protected string $loggingDirectory;
-	protected string $studiosLoggingFile;
-
 	protected function setUp(): void
 	{
 		parent::setUp();
 
-		$this->responseDirectory = __DIR__ . '/../../storage/response/Anime/';
+		$this->responseDirectory = __DIR__ . '/../../storage/response/Anime/Studios/';
 		$this->studiosResponseFile = $this->responseDirectory . 'studios_response.json';
-
-		$this->loggingDirectory = __DIR__ . '/../../storage/Logs/Anime/';
-		$this->studiosLoggingFile = $this->loggingDirectory . 'studios_response.log';
+		$this->studiosInformationResponseFile = $this->responseDirectory . 'studios_information_response.json';
 	}
 
 	public function testItCrawlsStudios()
 	{
 		$studiosResponse = MalCrawler::crawlStudios();
-
-		file_put_contents($this->studiosLoggingFile, 'Response Content: ' . $studiosResponse->getContent() . PHP_EOL, FILE_APPEND);
+		$studiosInformationResponse = MalCrawler::crawlStudioInformation(2);
 
 		$studios = $this->decodeAndValidateJson($studiosResponse);
+		$studiosInformation = $this->decodeAndValidateJson($studiosInformationResponse);
 
 		$this->saveResponseToFile($studios, $this->studiosResponseFile);
+		$this->saveResponseToFile($studiosInformation, $this->studiosInformationResponseFile);
 
-		$this->assertFileExists($this->studiosLoggingFile);
+		$this->assertFileExists($this->studiosResponseFile);
+		$this->assertFileExists($this->studiosInformationResponseFile);
 
-		$this->logMessage($this->studiosLoggingFile, 'Genres response saved successfully.');
+		$this->logMessage('Studios response saved successfully.');
+		$this->logMessage('Studio Information response saved successfully.');
 	}
 
 	protected function decodeAndValidateJson($response)
@@ -53,11 +51,5 @@ class CrawlStudiosTest extends UnitTest
 	{
 		$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 		file_put_contents($filePath, $json);
-	}
-
-	protected function logMessage($filePath, $message): void
-	{
-		$logMessage = date('Y-m-d H:i:s') . ' - ' . $message . PHP_EOL;
-		file_put_contents($filePath, $logMessage, FILE_APPEND);
 	}
 }
