@@ -58,20 +58,4 @@ class CrawlGenresTest extends UnitTest
 		$this->logMessage('Themes response saved successfully.');
 		$this->logMessage('Demographics response saved successfully.');
 	}
-
-	protected function decodeAndValidateJson($response)
-	{
-		$decodedJson = json_decode($response->getContent(), true);
-
-		$this->assertJson($response->getContent());
-		$this->assertNotEmpty($decodedJson);
-
-		return $decodedJson;
-	}
-
-	protected function saveResponseToFile($data, $filePath): void
-	{
-		$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-		file_put_contents($filePath, $json);
-	}
 }
