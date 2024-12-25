@@ -42,8 +42,8 @@ return [
 	| Studio URL
 	|---------------------------------------------------------------------------
 	|
-	| The path to retrieve a specific genre by its malId.
-	| This is used when we need to crawl genre description.
+	| The path to retrieve a specific studio by its malId.
+	| This is used when we need to crawl studio description.
 	|
 	*/
   'studio_url' => env('MAL_CRAWLER_Studio_URL', '/anime/producer'),
