@@ -16,7 +16,7 @@ class CrawlStudios extends BaseService
 	}
 
 	/**
-	 * Get genres from the specified URL with ID
+	 * Get studios from the specified URL
 	 *
 	 * @return JsonResponse
 	 */
