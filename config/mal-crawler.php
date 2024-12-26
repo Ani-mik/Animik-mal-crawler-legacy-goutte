@@ -49,6 +49,20 @@ return [
   'studio_url' => env('MAL_CRAWLER_Studio_URL', '/anime/producer'),
 
 	/*
+    |---------------------------------------------------------------------------
+    | Season URL
+    |---------------------------------------------------------------------------
+    |
+    | The path to retrieve anime seasons archive. This URL will be used to fetch
+    | information about past and upcoming anime seasons. By default, it uses
+    | '/anime/season/archive' as the path.
+    | You can change this value in the .env file by setting the MAL_CRAWLER_SEASON_URL
+    | parameter.
+    |
+    */
+  'season_url' => env('MAL_CRAWLER_SEASON_URL', '/anime/season/archive'),
+
+	/*
 	|---------------------------------------------------------------------------
 	| Description Not Found Message
 	|---------------------------------------------------------------------------

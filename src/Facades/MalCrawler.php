@@ -50,4 +50,9 @@ class MalCrawler extends Facade
 	{
 		return app('mal-crawler')['rankings']->crawlRankings();
 	}
+
+	public static function crawlSeasons()
+	{
+		return app('mal-crawler')['seasons']->crawlSeasons();
+	}
 }
