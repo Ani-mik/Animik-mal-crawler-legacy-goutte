@@ -94,10 +94,7 @@ class CrawlGenres extends BaseService
 	 */
 	protected function crawlGenreData(string $genreSelector, ?int $index = null): JsonResponse
 	{
-		$baseUrl = config('malCrawler.base_url');
-		$genresUrl = config('malCrawler.genres_url');
-
-		$url = $baseUrl . $genresUrl;
+		$url = config('malCrawler.base_url') . config('malCrawler.genres_url');
 
 		$crawler = $this->client->request('GET', $url);
 

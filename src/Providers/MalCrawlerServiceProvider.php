@@ -4,7 +4,9 @@ namespace Vahe\MalCrawler\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Vahe\MalCrawler\Services\Anime\CrawlGenres;
+use Vahe\MalCrawler\Services\Anime\CrawlRankings;
 use Vahe\MalCrawler\Services\Anime\CrawlStudios;
+
 class MalCrawlerServiceProvider extends ServiceProvider
 {
 	/**
@@ -16,6 +18,7 @@ class MalCrawlerServiceProvider extends ServiceProvider
 			return [
 			  'genres' => new CrawlGenres(),
 			  'studios' => new CrawlStudios(),
+			  'rankings' => new CrawlRankings(),
 			];
 		});
 
