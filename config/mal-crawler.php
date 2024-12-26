@@ -59,4 +59,18 @@ return [
 	*/
   'not_found' => env('MAL_CRAWLER_DESCRIPTION_NOT_FOUND', null),
 
+	/*
+	|---------------------------------------------------------------------------
+	| No Studio Picture URL
+	|---------------------------------------------------------------------------
+	|
+	| The URL that is used to check if a studio has a picture or not. If the
+	| retrieved studio image matches this URL, it means that the studio does not
+	| have its own image, and in that case, it will return `null` instead.
+	|
+	| Default: 'https://cdn.myanimelist.net/images/company_no_picture.png'
+	|
+	*/
+  'no_studio_picture' => env('MAL_CRAWLER_STUDIO_PICTURE', 'https://cdn.myanimelist.net/images/company_no_picture.png'),
+
 ];

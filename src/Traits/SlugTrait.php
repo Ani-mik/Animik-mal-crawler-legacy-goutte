@@ -13,7 +13,6 @@ trait SlugTrait
 	 */
 	protected function generateSlug(string $slug): string
 	{
-		$slug = strtolower($slug);
-		return str_replace('_', '-', $slug);
+		return str_replace([' ', '_'], '-', strtolower($slug));
 	}
 }

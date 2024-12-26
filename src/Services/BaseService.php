@@ -8,4 +8,8 @@ use Vahe\MalCrawler\Traits\SlugTrait;
 abstract class BaseService
 {
 	use SlugTrait;
+
+	function decodeUnicode($str) {
+		return json_decode('"' . $str . '"');
+	}
 }
