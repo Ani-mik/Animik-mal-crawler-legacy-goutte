@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23c47111-4e28-4219-832d-2ad729f99ec4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/storage/Logs/Anime/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/response/Anime/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlSeasons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/CrawlSeasonsTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/mal-crawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mal-crawler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Anime/CrawlGenres.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlGenres.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/Logs/Anime/crawl_Explicit_genres.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/Logs/Anime/crawl_genres.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/response/Anime/explicit_genres_response.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/response/Anime/genres_description.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/response/Anime/genres_response.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/CrawlGenresTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/CrawlGenresTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Facades/MalCrawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facades/MalCrawler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/Logs/malCrawler_2024-12-26_18.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/Logs/malCrawler_2024-12-26_18.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,21 +157,26 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary": "PHPUnit",
-    "git-widget-placeholder": "dev",
-    "last_opened_file_path": "Z:/Animik/Animik-wiki-crawler/storage/response/Anime",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary&quot;: &quot;PHPUnit&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Z:/Animik/Animik-wiki-crawler/storage/Logs/Anime&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\Logs\Anime" />
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\Logs\Anime\Studios" />
+      <recent name="Z:\Animik\Animik-wiki-crawler\storage\response\Anime" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="Z:\Animik\Animik-wiki-crawler" />
       <recent name="Z:\Animik\Animik-wiki-crawler\src" />
@@ -214,7 +215,11 @@
       <workItem from="1735116831891" duration="7732000" />
       <workItem from="1735133566905" duration="40000" />
       <workItem from="1735133616103" duration="9651000" />
-      <workItem from="1735144048983" duration="831000" />
+      <workItem from="1735144048983" duration="10719000" />
+      <workItem from="1735199726916" duration="514000" />
+      <workItem from="1735221235015" duration="3000" />
+      <workItem from="1735221243272" duration="6187000" />
+      <workItem from="1735228990261" duration="10282000" />
     </task>
     <servers />
   </component>

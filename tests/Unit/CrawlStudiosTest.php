@@ -1,0 +1,40 @@
+<?php
+
+namespace Unit;
+
+use Vahe\MalCrawler\Facades\MalCrawler;
+use Vahe\MalCrawler\Tests\UnitTest;
+
+class CrawlStudiosTest extends UnitTest
+{
+	protected string $responseDirectory;
+	protected string $studiosResponseFile;
+	protected string $studiosInformationResponseFile;
+
+	protected function setUp(): void
+	{
+		parent::setUp();
+
+		$this->responseDirectory = __DIR__ . '/../../storage/response/Anime/';
+		$this->studiosResponseFile = $this->responseDirectory . 'studios_response.json';
+		$this->studiosInformationResponseFile = $this->responseDirectory . 'studios_information_response.json';
+	}
+
+	public function testItCrawlsStudios()
+	{
+		$studiosResponse = MalCrawler::crawlStudios();
+		$studiosInformationResponse = MalCrawler::crawlStudioInformation(183);
+
+		$studios = $this->decodeAndValidateJson($studiosResponse);
+		$studiosInformation = $this->decodeAndValidateJson($studiosInformationResponse);
+
+		$this->saveResponseToFile($studios, $this->studiosResponseFile);
+		$this->saveResponseToFile($studiosInformation, $this->studiosInformationResponseFile);
+
+		$this->assertFileExists($this->studiosResponseFile);
+		$this->assertFileExists($this->studiosInformationResponseFile);
+
+		$this->logMessage('Studios response saved successfully.');
+		$this->logMessage('Studio Information response saved successfully.');
+	}
+}

@@ -4,8 +4,9 @@ namespace Vahe\MalCrawler\Services\Anime;
 
 use Goutte\Client;
 use Illuminate\Http\JsonResponse;
+use Vahe\MalCrawler\Services\BaseService;
 
-class CrawlGenres
+class CrawlGenres extends BaseService
 {
 	protected Client $client;
 
@@ -93,10 +94,7 @@ class CrawlGenres
 	 */
 	protected function crawlGenreData(string $genreSelector, ?int $index = null): JsonResponse
 	{
-		$baseUrl = config('malCrawler.base_url');
-		$genresUrl = config('malCrawler.genres_url');
-
-		$url = $baseUrl . $genresUrl;
+		$url = config('malCrawler.base_url') . config('malCrawler.genres_url');
 
 		$crawler = $this->client->request('GET', $url);
 
@@ -133,17 +131,5 @@ class CrawlGenres
 		$genres = array_filter($genres);
 
 		return response()->json(array_values($genres));
-	}
-
-	/**
-	 * Generate slug for genre (converts to lowercase, replaces spaces with hyphens)
-	 *
-	 * @param string $slug
-	 * @return string
-	 */
-	protected function generateSlug(string $slug): string
-	{
-		$slug = strtolower($slug);
-		return str_replace('_', '-', $slug);
 	}
 }
