@@ -8,30 +8,26 @@ use Vahe\MalCrawler\Tests\UnitTest;
 class CrawlSeasonsTest extends UnitTest
 {
 	protected string $responseDirectory;
-	protected string $genresResponseFile;
-	protected string $explicitGenresResponseFile;
-	protected string $genreDescriptionResponseFile;
-	protected string $themesResponseFile;
-	protected string $demographicsResponseFile;
+	protected string $seasonsResponseFile;
 
 	protected function setUp(): void
 	{
 		parent::setUp();
 
 		$this->responseDirectory = __DIR__ . '/../../storage/response/Anime/';
-		$this->genresResponseFile = $this->responseDirectory . 'seasons_response.json';
+		$this->seasonsResponseFile = $this->responseDirectory . 'seasons_response.json';
 	}
 
 	public function testItCrawlsGenres()
 	{
-		$genresResponse = MalCrawler::crawlSeasons();
+		$seasonsResponse = MalCrawler::crawlSeasons();
 
-		$genres = $this->decodeAndValidateJson($genresResponse);
+		$seasons = $this->decodeAndValidateJson($seasonsResponse);
 
-		$this->saveResponseToFile($genres, $this->genresResponseFile);
+		$this->saveResponseToFile($seasons, $this->seasonsResponseFile);
 
-		$this->assertFileExists($this->genresResponseFile);
+		$this->assertFileExists($this->seasonsResponseFile);
 
-		$this->logMessage('Genres response saved successfully.');
+		$this->logMessage('Seasons response saved successfully.');
 	}
 }

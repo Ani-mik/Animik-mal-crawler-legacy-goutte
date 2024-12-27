@@ -28,6 +28,6 @@ class CrawlRankingsTest extends UnitTest
 
 		$this->assertFileExists($this->rankingsResponseFile);
 
-		$this->logMessage('Genres response saved successfully.');
+		$this->logMessage('Rankings response saved successfully.');
 	}
 }
