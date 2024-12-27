@@ -1,5 +1,5 @@
 {
-  "name": "animik/animik-wiki-crawler",
+  "name": "vahe/mal-crawler",
   "description": "vahe/mal-crawler",
   "type": "library",
   "autoload": {
@@ -20,7 +20,6 @@
   ],
   "require": {
     "php": "^8.2",
-    "illuminate/console": "^9.52",
     "spatie/laravel-package-tools": "^1.17",
     "fabpot/goutte": "^4.0",
     "guzzlehttp/guzzle": "^7.9",
