@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "malId": 9,
+        "slug": "ecchi",
+        "name": "Ecchi",
+        "titlesCount": 817,
+        "link": "/anime/genre/9/Ecchi"
+    },
+    {
+        "id": 2,
+        "malId": 49,
+        "slug": "erotica",
+        "name": "Erotica",
+        "titlesCount": 77,
+        "link": "/anime/genre/49/Erotica"
+    },
+    {
+        "id": 3,
+        "malId": 12,
+        "slug": "hentai",
+        "name": "Hentai",
+        "titlesCount": 1553,
+        "link": "/anime/genre/12/Hentai"
+    }
+]

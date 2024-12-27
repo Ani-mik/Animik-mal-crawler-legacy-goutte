@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "malId": 50,
+        "slug": "adult-cast",
+        "name": "Adult Cast",
+        "titlesCount": 675,
+        "link": "/anime/genre/50/Adult_Cast"
+    },
+    {
+        "id": 2,
+        "malId": 51,
+        "slug": "anthropomorphic",
+        "name": "Anthropomorphic",
+        "titlesCount": 1133,
+        "link": "/anime/genre/51/Anthropomorphic"
+    },
+    {
+        "id": 3,
+        "malId": 52,
+        "slug": "cgdct",
+        "name": "CGDCT",
+        "titlesCount": 246,
+        "link": "/anime/genre/52/CGDCT"
+    },
+    {
+        "id": 4,
+        "malId": 53,
+        "slug": "childcare",
+        "name": "Childcare",
+        "titlesCount": 73,
+        "link": "/anime/genre/53/Childcare"
+    },
+    {
+        "id": 5,
+        "malId": 54,
+        "slug": "combat-sports",
+        "name": "Combat Sports",
+        "titlesCount": 93,
+        "link": "/anime/genre/54/Combat_Sports"
+    },
+    {
+        "id": 6,
+        "malId": 81,
+        "slug": "crossdressing",
+        "name": "Crossdressing",
+        "titlesCount": 57,
+        "link": "/anime/genre/81/Crossdressing"
+    },
+    {
+        "id": 7,
+        "malId": 55,
+        "slug": "delinquents",
+        "name": "Delinquents",
+        "titlesCount": 74,
+        "link": "/anime/genre/55/Delinquents"
+    },
+    {
+        "id": 8,
+        "malId": 39,
+        "slug": "detective",
+        "name": "Detective",
+        "titlesCount": 312,
+        "link": "/anime/genre/39/Detective"
+    },
+    {
+        "id": 9,
+        "malId": 56,
+        "slug": "educational",
+        "name": "Educational",
+        "titlesCount": 303,
+        "link": "/anime/genre/56/Educational"
+    },
+    {
+        "id": 10,
+        "malId": 57,
+        "slug": "gag-humor",
+        "name": "Gag Humor",
+        "titlesCount": 262,
+        "link": "/anime/genre/57/Gag_Humor"
+    },
+    {
+        "id": 11,
+        "malId": 58,
+        "slug": "gore",
+        "name": "Gore",
+        "titlesCount": 270,
+        "link": "/anime/genre/58/Gore"
+    },
+    {
+        "id": 12,
+        "malId": 35,
+        "slug": "harem",
+        "name": "Harem",
+        "titlesCount": 478,
+        "link": "/anime/genre/35/Harem"
+    },
+    {
+        "id": 13,
+        "malId": 59,
+        "slug": "high-stakes-game",
+        "name": "High Stakes Game",
+        "titlesCount": 54,
+        "link": "/anime/genre/59/High_Stakes_Game"
+    },
+    {
+        "id": 14,
+        "malId": 13,
+        "slug": "historical",
+        "name": "Historical",
+        "titlesCount": 1647,
+        "link": "/anime/genre/13/Historical"
+    },
+    {
+        "id": 15,
+        "malId": 60,
+        "slug": "idols-female",
+        "name": "Idols (Female)",
+        "titlesCount": 340,
+        "link": "/anime/genre/60/Idols_Female"
+    },
+    {
+        "id": 16,
+        "malId": 61,
+        "slug": "idols-male",
+        "name": "Idols (Male)",
+        "titlesCount": 178,
+        "link": "/anime/genre/61/Idols_Male"
+    },
+    {
+        "id": 17,
+        "malId": 62,
+        "slug": "isekai",
+        "name": "Isekai",
+        "titlesCount": 412,
+        "link": "/anime/genre/62/Isekai"
+    },
+    {
+        "id": 18,
+        "malId": 63,
+        "slug": "iyashikei",
+        "name": "Iyashikei",
+        "titlesCount": 184,
+        "link": "/anime/genre/63/Iyashikei"
+    },
+    {
+        "id": 19,
+        "malId": 64,
+        "slug": "love-polygon",
+        "name": "Love Polygon",
+        "titlesCount": 102,
+        "link": "/anime/genre/64/Love_Polygon"
+    },
+    {
+        "id": 20,
+        "malId": 74,
+        "slug": "love-status-quo",
+        "name": "Love Status Quo",
+        "titlesCount": 50,
+        "link": "/anime/genre/74/Love_Status_Quo"
+    },
+    {
+        "id": 21,
+        "malId": 65,
+        "slug": "magical-sex-shift",
+        "name": "Magical Sex Shift",
+        "titlesCount": 32,
+        "link": "/anime/genre/65/Magical_Sex_Shift"
+    },
+    {
+        "id": 22,
+        "malId": 66,
+        "slug": "mahou-shoujo",
+        "name": "Mahou Shoujo",
+        "titlesCount": 332,
+        "link": "/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+        "id": 23,
+        "malId": 17,
+        "slug": "martial-arts",
+        "name": "Martial Arts",
+        "titlesCount": 670,
+        "link": "/anime/genre/17/Martial_Arts"
+    },
+    {
+        "id": 24,
+        "malId": 18,
+        "slug": "mecha",
+        "name": "Mecha",
+        "titlesCount": 1293,
+        "link": "/anime/genre/18/Mecha"
+    },
+    {
+        "id": 25,
+        "malId": 67,
+        "slug": "medical",
+        "name": "Medical",
+        "titlesCount": 49,
+        "link": "/anime/genre/67/Medical"
+    },
+    {
+        "id": 26,
+        "malId": 38,
+        "slug": "military",
+        "name": "Military",
+        "titlesCount": 727,
+        "link": "/anime/genre/38/Military"
+    },
+    {
+        "id": 27,
+        "malId": 19,
+        "slug": "music",
+        "name": "Music",
+        "titlesCount": 4758,
+        "link": "/anime/genre/19/Music"
+    },
+    {
+        "id": 28,
+        "malId": 6,
+        "slug": "mythology",
+        "name": "Mythology",
+        "titlesCount": 652,
+        "link": "/anime/genre/6/Mythology"
+    },
+    {
+        "id": 29,
+        "malId": 68,
+        "slug": "organized-crime",
+        "name": "Organized Crime",
+        "titlesCount": 103,
+        "link": "/anime/genre/68/Organized_Crime"
+    },
+    {
+        "id": 30,
+        "malId": 69,
+        "slug": "otaku-culture",
+        "name": "Otaku Culture",
+        "titlesCount": 108,
+        "link": "/anime/genre/69/Otaku_Culture"
+    },
+    {
+        "id": 31,
+        "malId": 20,
+        "slug": "parody",
+        "name": "Parody",
+        "titlesCount": 790,
+        "link": "/anime/genre/20/Parody"
+    },
+    {
+        "id": 32,
+        "malId": 70,
+        "slug": "performing-arts",
+        "name": "Performing Arts",
+        "titlesCount": 121,
+        "link": "/anime/genre/70/Performing_Arts"
+    },
+    {
+        "id": 33,
+        "malId": 71,
+        "slug": "pets",
+        "name": "Pets",
+        "titlesCount": 130,
+        "link": "/anime/genre/71/Pets"
+    },
+    {
+        "id": 34,
+        "malId": 40,
+        "slug": "psychological",
+        "name": "Psychological",
+        "titlesCount": 435,
+        "link": "/anime/genre/40/Psychological"
+    },
+    {
+        "id": 35,
+        "malId": 3,
+        "slug": "racing",
+        "name": "Racing",
+        "titlesCount": 264,
+        "link": "/anime/genre/3/Racing"
+    },
+    {
+        "id": 36,
+        "malId": 72,
+        "slug": "reincarnation",
+        "name": "Reincarnation",
+        "titlesCount": 142,
+        "link": "/anime/genre/72/Reincarnation"
+    },
+    {
+        "id": 37,
+        "malId": 73,
+        "slug": "reverse-harem",
+        "name": "Reverse Harem",
+        "titlesCount": 77,
+        "link": "/anime/genre/73/Reverse_Harem"
+    },
+    {
+        "id": 38,
+        "malId": 21,
+        "slug": "samurai",
+        "name": "Samurai",
+        "titlesCount": 244,
+        "link": "/anime/genre/21/Samurai"
+    },
+    {
+        "id": 39,
+        "malId": 23,
+        "slug": "school",
+        "name": "School",
+        "titlesCount": 2158,
+        "link": "/anime/genre/23/School"
+    },
+    {
+        "id": 40,
+        "malId": 75,
+        "slug": "showbiz",
+        "name": "Showbiz",
+        "titlesCount": 45,
+        "link": "/anime/genre/75/Showbiz"
+    },
+    {
+        "id": 41,
+        "malId": 29,
+        "slug": "space",
+        "name": "Space",
+        "titlesCount": 654,
+        "link": "/anime/genre/29/Space"
+    },
+    {
+        "id": 42,
+        "malId": 11,
+        "slug": "strategy-game",
+        "name": "Strategy Game",
+        "titlesCount": 335,
+        "link": "/anime/genre/11/Strategy_Game"
+    },
+    {
+        "id": 43,
+        "malId": 31,
+        "slug": "super-power",
+        "name": "Super Power",
+        "titlesCount": 721,
+        "link": "/anime/genre/31/Super_Power"
+    },
+    {
+        "id": 44,
+        "malId": 76,
+        "slug": "survival",
+        "name": "Survival",
+        "titlesCount": 77,
+        "link": "/anime/genre/76/Survival"
+    },
+    {
+        "id": 45,
+        "malId": 77,
+        "slug": "team-sports",
+        "name": "Team Sports",
+        "titlesCount": 317,
+        "link": "/anime/genre/77/Team_Sports"
+    },
+    {
+        "id": 46,
+        "malId": 78,
+        "slug": "time-travel",
+        "name": "Time Travel",
+        "titlesCount": 146,
+        "link": "/anime/genre/78/Time_Travel"
+    },
+    {
+        "id": 47,
+        "malId": 82,
+        "slug": "urban-fantasy",
+        "name": "Urban Fantasy",
+        "titlesCount": 174,
+        "link": "/anime/genre/82/Urban_Fantasy"
+    },
+    {
+        "id": 48,
+        "malId": 32,
+        "slug": "vampire",
+        "name": "Vampire",
+        "titlesCount": 176,
+        "link": "/anime/genre/32/Vampire"
+    },
+    {
+        "id": 49,
+        "malId": 79,
+        "slug": "video-game",
+        "name": "Video Game",
+        "titlesCount": 159,
+        "link": "/anime/genre/79/Video_Game"
+    },
+    {
+        "id": 50,
+        "malId": 83,
+        "slug": "villainess",
+        "name": "Villainess",
+        "titlesCount": 20,
+        "link": "/anime/genre/83/Villainess"
+    },
+    {
+        "id": 51,
+        "malId": 80,
+        "slug": "visual-arts",
+        "name": "Visual Arts",
+        "titlesCount": 91,
+        "link": "/anime/genre/80/Visual_Arts"
+    },
+    {
+        "id": 52,
+        "malId": 48,
+        "slug": "workplace",
+        "name": "Workplace",
+        "titlesCount": 218,
+        "link": "/anime/genre/48/Workplace"
+    }
+]

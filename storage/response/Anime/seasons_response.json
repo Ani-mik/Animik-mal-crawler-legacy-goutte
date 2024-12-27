@@ -1,0 +1,2612 @@
+[
+    {
+        "id": 1,
+        "slug": "winter-2025",
+        "season": "Winter 2025",
+        "url": "https://myanimelist.net/anime/season"
+    },
+    {
+        "id": 2,
+        "slug": "spring-2025",
+        "season": "Spring 2025",
+        "url": "https://myanimelist.net/anime/season/2025/spring"
+    },
+    {
+        "id": 3,
+        "slug": "summer-2025",
+        "season": "Summer 2025",
+        "url": "https://myanimelist.net/anime/season/2025/summer"
+    },
+    {
+        "id": 4,
+        "slug": "winter-2024",
+        "season": "Winter 2024",
+        "url": "https://myanimelist.net/anime/season/2024/winter"
+    },
+    {
+        "id": 5,
+        "slug": "spring-2024",
+        "season": "Spring 2024",
+        "url": "https://myanimelist.net/anime/season/2024/spring"
+    },
+    {
+        "id": 6,
+        "slug": "summer-2024",
+        "season": "Summer 2024",
+        "url": "https://myanimelist.net/anime/season/2024/summer"
+    },
+    {
+        "id": 7,
+        "slug": "fall-2024",
+        "season": "Fall 2024",
+        "url": "https://myanimelist.net/anime/season/2024/fall"
+    },
+    {
+        "id": 8,
+        "slug": "winter-2023",
+        "season": "Winter 2023",
+        "url": "https://myanimelist.net/anime/season/2023/winter"
+    },
+    {
+        "id": 9,
+        "slug": "spring-2023",
+        "season": "Spring 2023",
+        "url": "https://myanimelist.net/anime/season/2023/spring"
+    },
+    {
+        "id": 10,
+        "slug": "summer-2023",
+        "season": "Summer 2023",
+        "url": "https://myanimelist.net/anime/season/2023/summer"
+    },
+    {
+        "id": 11,
+        "slug": "fall-2023",
+        "season": "Fall 2023",
+        "url": "https://myanimelist.net/anime/season/2023/fall"
+    },
+    {
+        "id": 12,
+        "slug": "winter-2022",
+        "season": "Winter 2022",
+        "url": "https://myanimelist.net/anime/season/2022/winter"
+    },
+    {
+        "id": 13,
+        "slug": "spring-2022",
+        "season": "Spring 2022",
+        "url": "https://myanimelist.net/anime/season/2022/spring"
+    },
+    {
+        "id": 14,
+        "slug": "summer-2022",
+        "season": "Summer 2022",
+        "url": "https://myanimelist.net/anime/season/2022/summer"
+    },
+    {
+        "id": 15,
+        "slug": "fall-2022",
+        "season": "Fall 2022",
+        "url": "https://myanimelist.net/anime/season/2022/fall"
+    },
+    {
+        "id": 16,
+        "slug": "winter-2021",
+        "season": "Winter 2021",
+        "url": "https://myanimelist.net/anime/season/2021/winter"
+    },
+    {
+        "id": 17,
+        "slug": "spring-2021",
+        "season": "Spring 2021",
+        "url": "https://myanimelist.net/anime/season/2021/spring"
+    },
+    {
+        "id": 18,
+        "slug": "summer-2021",
+        "season": "Summer 2021",
+        "url": "https://myanimelist.net/anime/season/2021/summer"
+    },
+    {
+        "id": 19,
+        "slug": "fall-2021",
+        "season": "Fall 2021",
+        "url": "https://myanimelist.net/anime/season/2021/fall"
+    },
+    {
+        "id": 20,
+        "slug": "winter-2020",
+        "season": "Winter 2020",
+        "url": "https://myanimelist.net/anime/season/2020/winter"
+    },
+    {
+        "id": 21,
+        "slug": "spring-2020",
+        "season": "Spring 2020",
+        "url": "https://myanimelist.net/anime/season/2020/spring"
+    },
+    {
+        "id": 22,
+        "slug": "summer-2020",
+        "season": "Summer 2020",
+        "url": "https://myanimelist.net/anime/season/2020/summer"
+    },
+    {
+        "id": 23,
+        "slug": "fall-2020",
+        "season": "Fall 2020",
+        "url": "https://myanimelist.net/anime/season/2020/fall"
+    },
+    {
+        "id": 24,
+        "slug": "winter-2019",
+        "season": "Winter 2019",
+        "url": "https://myanimelist.net/anime/season/2019/winter"
+    },
+    {
+        "id": 25,
+        "slug": "spring-2019",
+        "season": "Spring 2019",
+        "url": "https://myanimelist.net/anime/season/2019/spring"
+    },
+    {
+        "id": 26,
+        "slug": "summer-2019",
+        "season": "Summer 2019",
+        "url": "https://myanimelist.net/anime/season/2019/summer"
+    },
+    {
+        "id": 27,
+        "slug": "fall-2019",
+        "season": "Fall 2019",
+        "url": "https://myanimelist.net/anime/season/2019/fall"
+    },
+    {
+        "id": 28,
+        "slug": "winter-2018",
+        "season": "Winter 2018",
+        "url": "https://myanimelist.net/anime/season/2018/winter"
+    },
+    {
+        "id": 29,
+        "slug": "spring-2018",
+        "season": "Spring 2018",
+        "url": "https://myanimelist.net/anime/season/2018/spring"
+    },
+    {
+        "id": 30,
+        "slug": "summer-2018",
+        "season": "Summer 2018",
+        "url": "https://myanimelist.net/anime/season/2018/summer"
+    },
+    {
+        "id": 31,
+        "slug": "fall-2018",
+        "season": "Fall 2018",
+        "url": "https://myanimelist.net/anime/season/2018/fall"
+    },
+    {
+        "id": 32,
+        "slug": "winter-2017",
+        "season": "Winter 2017",
+        "url": "https://myanimelist.net/anime/season/2017/winter"
+    },
+    {
+        "id": 33,
+        "slug": "spring-2017",
+        "season": "Spring 2017",
+        "url": "https://myanimelist.net/anime/season/2017/spring"
+    },
+    {
+        "id": 34,
+        "slug": "summer-2017",
+        "season": "Summer 2017",
+        "url": "https://myanimelist.net/anime/season/2017/summer"
+    },
+    {
+        "id": 35,
+        "slug": "fall-2017",
+        "season": "Fall 2017",
+        "url": "https://myanimelist.net/anime/season/2017/fall"
+    },
+    {
+        "id": 36,
+        "slug": "winter-2016",
+        "season": "Winter 2016",
+        "url": "https://myanimelist.net/anime/season/2016/winter"
+    },
+    {
+        "id": 37,
+        "slug": "spring-2016",
+        "season": "Spring 2016",
+        "url": "https://myanimelist.net/anime/season/2016/spring"
+    },
+    {
+        "id": 38,
+        "slug": "summer-2016",
+        "season": "Summer 2016",
+        "url": "https://myanimelist.net/anime/season/2016/summer"
+    },
+    {
+        "id": 39,
+        "slug": "fall-2016",
+        "season": "Fall 2016",
+        "url": "https://myanimelist.net/anime/season/2016/fall"
+    },
+    {
+        "id": 40,
+        "slug": "winter-2015",
+        "season": "Winter 2015",
+        "url": "https://myanimelist.net/anime/season/2015/winter"
+    },
+    {
+        "id": 41,
+        "slug": "spring-2015",
+        "season": "Spring 2015",
+        "url": "https://myanimelist.net/anime/season/2015/spring"
+    },
+    {
+        "id": 42,
+        "slug": "summer-2015",
+        "season": "Summer 2015",
+        "url": "https://myanimelist.net/anime/season/2015/summer"
+    },
+    {
+        "id": 43,
+        "slug": "fall-2015",
+        "season": "Fall 2015",
+        "url": "https://myanimelist.net/anime/season/2015/fall"
+    },
+    {
+        "id": 44,
+        "slug": "winter-2014",
+        "season": "Winter 2014",
+        "url": "https://myanimelist.net/anime/season/2014/winter"
+    },
+    {
+        "id": 45,
+        "slug": "spring-2014",
+        "season": "Spring 2014",
+        "url": "https://myanimelist.net/anime/season/2014/spring"
+    },
+    {
+        "id": 46,
+        "slug": "summer-2014",
+        "season": "Summer 2014",
+        "url": "https://myanimelist.net/anime/season/2014/summer"
+    },
+    {
+        "id": 47,
+        "slug": "fall-2014",
+        "season": "Fall 2014",
+        "url": "https://myanimelist.net/anime/season/2014/fall"
+    },
+    {
+        "id": 48,
+        "slug": "winter-2013",
+        "season": "Winter 2013",
+        "url": "https://myanimelist.net/anime/season/2013/winter"
+    },
+    {
+        "id": 49,
+        "slug": "spring-2013",
+        "season": "Spring 2013",
+        "url": "https://myanimelist.net/anime/season/2013/spring"
+    },
+    {
+        "id": 50,
+        "slug": "summer-2013",
+        "season": "Summer 2013",
+        "url": "https://myanimelist.net/anime/season/2013/summer"
+    },
+    {
+        "id": 51,
+        "slug": "fall-2013",
+        "season": "Fall 2013",
+        "url": "https://myanimelist.net/anime/season/2013/fall"
+    },
+    {
+        "id": 52,
+        "slug": "winter-2012",
+        "season": "Winter 2012",
+        "url": "https://myanimelist.net/anime/season/2012/winter"
+    },
+    {
+        "id": 53,
+        "slug": "spring-2012",
+        "season": "Spring 2012",
+        "url": "https://myanimelist.net/anime/season/2012/spring"
+    },
+    {
+        "id": 54,
+        "slug": "summer-2012",
+        "season": "Summer 2012",
+        "url": "https://myanimelist.net/anime/season/2012/summer"
+    },
+    {
+        "id": 55,
+        "slug": "fall-2012",
+        "season": "Fall 2012",
+        "url": "https://myanimelist.net/anime/season/2012/fall"
+    },
+    {
+        "id": 56,
+        "slug": "winter-2011",
+        "season": "Winter 2011",
+        "url": "https://myanimelist.net/anime/season/2011/winter"
+    },
+    {
+        "id": 57,
+        "slug": "spring-2011",
+        "season": "Spring 2011",
+        "url": "https://myanimelist.net/anime/season/2011/spring"
+    },
+    {
+        "id": 58,
+        "slug": "summer-2011",
+        "season": "Summer 2011",
+        "url": "https://myanimelist.net/anime/season/2011/summer"
+    },
+    {
+        "id": 59,
+        "slug": "fall-2011",
+        "season": "Fall 2011",
+        "url": "https://myanimelist.net/anime/season/2011/fall"
+    },
+    {
+        "id": 60,
+        "slug": "winter-2010",
+        "season": "Winter 2010",
+        "url": "https://myanimelist.net/anime/season/2010/winter"
+    },
+    {
+        "id": 61,
+        "slug": "spring-2010",
+        "season": "Spring 2010",
+        "url": "https://myanimelist.net/anime/season/2010/spring"
+    },
+    {
+        "id": 62,
+        "slug": "summer-2010",
+        "season": "Summer 2010",
+        "url": "https://myanimelist.net/anime/season/2010/summer"
+    },
+    {
+        "id": 63,
+        "slug": "fall-2010",
+        "season": "Fall 2010",
+        "url": "https://myanimelist.net/anime/season/2010/fall"
+    },
+    {
+        "id": 64,
+        "slug": "winter-2009",
+        "season": "Winter 2009",
+        "url": "https://myanimelist.net/anime/season/2009/winter"
+    },
+    {
+        "id": 65,
+        "slug": "spring-2009",
+        "season": "Spring 2009",
+        "url": "https://myanimelist.net/anime/season/2009/spring"
+    },
+    {
+        "id": 66,
+        "slug": "summer-2009",
+        "season": "Summer 2009",
+        "url": "https://myanimelist.net/anime/season/2009/summer"
+    },
+    {
+        "id": 67,
+        "slug": "fall-2009",
+        "season": "Fall 2009",
+        "url": "https://myanimelist.net/anime/season/2009/fall"
+    },
+    {
+        "id": 68,
+        "slug": "winter-2008",
+        "season": "Winter 2008",
+        "url": "https://myanimelist.net/anime/season/2008/winter"
+    },
+    {
+        "id": 69,
+        "slug": "spring-2008",
+        "season": "Spring 2008",
+        "url": "https://myanimelist.net/anime/season/2008/spring"
+    },
+    {
+        "id": 70,
+        "slug": "summer-2008",
+        "season": "Summer 2008",
+        "url": "https://myanimelist.net/anime/season/2008/summer"
+    },
+    {
+        "id": 71,
+        "slug": "fall-2008",
+        "season": "Fall 2008",
+        "url": "https://myanimelist.net/anime/season/2008/fall"
+    },
+    {
+        "id": 72,
+        "slug": "winter-2007",
+        "season": "Winter 2007",
+        "url": "https://myanimelist.net/anime/season/2007/winter"
+    },
+    {
+        "id": 73,
+        "slug": "spring-2007",
+        "season": "Spring 2007",
+        "url": "https://myanimelist.net/anime/season/2007/spring"
+    },
+    {
+        "id": 74,
+        "slug": "summer-2007",
+        "season": "Summer 2007",
+        "url": "https://myanimelist.net/anime/season/2007/summer"
+    },
+    {
+        "id": 75,
+        "slug": "fall-2007",
+        "season": "Fall 2007",
+        "url": "https://myanimelist.net/anime/season/2007/fall"
+    },
+    {
+        "id": 76,
+        "slug": "winter-2006",
+        "season": "Winter 2006",
+        "url": "https://myanimelist.net/anime/season/2006/winter"
+    },
+    {
+        "id": 77,
+        "slug": "spring-2006",
+        "season": "Spring 2006",
+        "url": "https://myanimelist.net/anime/season/2006/spring"
+    },
+    {
+        "id": 78,
+        "slug": "summer-2006",
+        "season": "Summer 2006",
+        "url": "https://myanimelist.net/anime/season/2006/summer"
+    },
+    {
+        "id": 79,
+        "slug": "fall-2006",
+        "season": "Fall 2006",
+        "url": "https://myanimelist.net/anime/season/2006/fall"
+    },
+    {
+        "id": 80,
+        "slug": "winter-2005",
+        "season": "Winter 2005",
+        "url": "https://myanimelist.net/anime/season/2005/winter"
+    },
+    {
+        "id": 81,
+        "slug": "spring-2005",
+        "season": "Spring 2005",
+        "url": "https://myanimelist.net/anime/season/2005/spring"
+    },
+    {
+        "id": 82,
+        "slug": "summer-2005",
+        "season": "Summer 2005",
+        "url": "https://myanimelist.net/anime/season/2005/summer"
+    },
+    {
+        "id": 83,
+        "slug": "fall-2005",
+        "season": "Fall 2005",
+        "url": "https://myanimelist.net/anime/season/2005/fall"
+    },
+    {
+        "id": 84,
+        "slug": "winter-2004",
+        "season": "Winter 2004",
+        "url": "https://myanimelist.net/anime/season/2004/winter"
+    },
+    {
+        "id": 85,
+        "slug": "spring-2004",
+        "season": "Spring 2004",
+        "url": "https://myanimelist.net/anime/season/2004/spring"
+    },
+    {
+        "id": 86,
+        "slug": "summer-2004",
+        "season": "Summer 2004",
+        "url": "https://myanimelist.net/anime/season/2004/summer"
+    },
+    {
+        "id": 87,
+        "slug": "fall-2004",
+        "season": "Fall 2004",
+        "url": "https://myanimelist.net/anime/season/2004/fall"
+    },
+    {
+        "id": 88,
+        "slug": "winter-2003",
+        "season": "Winter 2003",
+        "url": "https://myanimelist.net/anime/season/2003/winter"
+    },
+    {
+        "id": 89,
+        "slug": "spring-2003",
+        "season": "Spring 2003",
+        "url": "https://myanimelist.net/anime/season/2003/spring"
+    },
+    {
+        "id": 90,
+        "slug": "summer-2003",
+        "season": "Summer 2003",
+        "url": "https://myanimelist.net/anime/season/2003/summer"
+    },
+    {
+        "id": 91,
+        "slug": "fall-2003",
+        "season": "Fall 2003",
+        "url": "https://myanimelist.net/anime/season/2003/fall"
+    },
+    {
+        "id": 92,
+        "slug": "winter-2002",
+        "season": "Winter 2002",
+        "url": "https://myanimelist.net/anime/season/2002/winter"
+    },
+    {
+        "id": 93,
+        "slug": "spring-2002",
+        "season": "Spring 2002",
+        "url": "https://myanimelist.net/anime/season/2002/spring"
+    },
+    {
+        "id": 94,
+        "slug": "summer-2002",
+        "season": "Summer 2002",
+        "url": "https://myanimelist.net/anime/season/2002/summer"
+    },
+    {
+        "id": 95,
+        "slug": "fall-2002",
+        "season": "Fall 2002",
+        "url": "https://myanimelist.net/anime/season/2002/fall"
+    },
+    {
+        "id": 96,
+        "slug": "winter-2001",
+        "season": "Winter 2001",
+        "url": "https://myanimelist.net/anime/season/2001/winter"
+    },
+    {
+        "id": 97,
+        "slug": "spring-2001",
+        "season": "Spring 2001",
+        "url": "https://myanimelist.net/anime/season/2001/spring"
+    },
+    {
+        "id": 98,
+        "slug": "summer-2001",
+        "season": "Summer 2001",
+        "url": "https://myanimelist.net/anime/season/2001/summer"
+    },
+    {
+        "id": 99,
+        "slug": "fall-2001",
+        "season": "Fall 2001",
+        "url": "https://myanimelist.net/anime/season/2001/fall"
+    },
+    {
+        "id": 100,
+        "slug": "winter-2000",
+        "season": "Winter 2000",
+        "url": "https://myanimelist.net/anime/season/2000/winter"
+    },
+    {
+        "id": 101,
+        "slug": "spring-2000",
+        "season": "Spring 2000",
+        "url": "https://myanimelist.net/anime/season/2000/spring"
+    },
+    {
+        "id": 102,
+        "slug": "summer-2000",
+        "season": "Summer 2000",
+        "url": "https://myanimelist.net/anime/season/2000/summer"
+    },
+    {
+        "id": 103,
+        "slug": "fall-2000",
+        "season": "Fall 2000",
+        "url": "https://myanimelist.net/anime/season/2000/fall"
+    },
+    {
+        "id": 104,
+        "slug": "winter-1999",
+        "season": "Winter 1999",
+        "url": "https://myanimelist.net/anime/season/1999/winter"
+    },
+    {
+        "id": 105,
+        "slug": "spring-1999",
+        "season": "Spring 1999",
+        "url": "https://myanimelist.net/anime/season/1999/spring"
+    },
+    {
+        "id": 106,
+        "slug": "summer-1999",
+        "season": "Summer 1999",
+        "url": "https://myanimelist.net/anime/season/1999/summer"
+    },
+    {
+        "id": 107,
+        "slug": "fall-1999",
+        "season": "Fall 1999",
+        "url": "https://myanimelist.net/anime/season/1999/fall"
+    },
+    {
+        "id": 108,
+        "slug": "winter-1998",
+        "season": "Winter 1998",
+        "url": "https://myanimelist.net/anime/season/1998/winter"
+    },
+    {
+        "id": 109,
+        "slug": "spring-1998",
+        "season": "Spring 1998",
+        "url": "https://myanimelist.net/anime/season/1998/spring"
+    },
+    {
+        "id": 110,
+        "slug": "summer-1998",
+        "season": "Summer 1998",
+        "url": "https://myanimelist.net/anime/season/1998/summer"
+    },
+    {
+        "id": 111,
+        "slug": "fall-1998",
+        "season": "Fall 1998",
+        "url": "https://myanimelist.net/anime/season/1998/fall"
+    },
+    {
+        "id": 112,
+        "slug": "winter-1997",
+        "season": "Winter 1997",
+        "url": "https://myanimelist.net/anime/season/1997/winter"
+    },
+    {
+        "id": 113,
+        "slug": "spring-1997",
+        "season": "Spring 1997",
+        "url": "https://myanimelist.net/anime/season/1997/spring"
+    },
+    {
+        "id": 114,
+        "slug": "summer-1997",
+        "season": "Summer 1997",
+        "url": "https://myanimelist.net/anime/season/1997/summer"
+    },
+    {
+        "id": 115,
+        "slug": "fall-1997",
+        "season": "Fall 1997",
+        "url": "https://myanimelist.net/anime/season/1997/fall"
+    },
+    {
+        "id": 116,
+        "slug": "winter-1996",
+        "season": "Winter 1996",
+        "url": "https://myanimelist.net/anime/season/1996/winter"
+    },
+    {
+        "id": 117,
+        "slug": "spring-1996",
+        "season": "Spring 1996",
+        "url": "https://myanimelist.net/anime/season/1996/spring"
+    },
+    {
+        "id": 118,
+        "slug": "summer-1996",
+        "season": "Summer 1996",
+        "url": "https://myanimelist.net/anime/season/1996/summer"
+    },
+    {
+        "id": 119,
+        "slug": "fall-1996",
+        "season": "Fall 1996",
+        "url": "https://myanimelist.net/anime/season/1996/fall"
+    },
+    {
+        "id": 120,
+        "slug": "winter-1995",
+        "season": "Winter 1995",
+        "url": "https://myanimelist.net/anime/season/1995/winter"
+    },
+    {
+        "id": 121,
+        "slug": "spring-1995",
+        "season": "Spring 1995",
+        "url": "https://myanimelist.net/anime/season/1995/spring"
+    },
+    {
+        "id": 122,
+        "slug": "summer-1995",
+        "season": "Summer 1995",
+        "url": "https://myanimelist.net/anime/season/1995/summer"
+    },
+    {
+        "id": 123,
+        "slug": "fall-1995",
+        "season": "Fall 1995",
+        "url": "https://myanimelist.net/anime/season/1995/fall"
+    },
+    {
+        "id": 124,
+        "slug": "winter-1994",
+        "season": "Winter 1994",
+        "url": "https://myanimelist.net/anime/season/1994/winter"
+    },
+    {
+        "id": 125,
+        "slug": "spring-1994",
+        "season": "Spring 1994",
+        "url": "https://myanimelist.net/anime/season/1994/spring"
+    },
+    {
+        "id": 126,
+        "slug": "summer-1994",
+        "season": "Summer 1994",
+        "url": "https://myanimelist.net/anime/season/1994/summer"
+    },
+    {
+        "id": 127,
+        "slug": "fall-1994",
+        "season": "Fall 1994",
+        "url": "https://myanimelist.net/anime/season/1994/fall"
+    },
+    {
+        "id": 128,
+        "slug": "winter-1993",
+        "season": "Winter 1993",
+        "url": "https://myanimelist.net/anime/season/1993/winter"
+    },
+    {
+        "id": 129,
+        "slug": "spring-1993",
+        "season": "Spring 1993",
+        "url": "https://myanimelist.net/anime/season/1993/spring"
+    },
+    {
+        "id": 130,
+        "slug": "summer-1993",
+        "season": "Summer 1993",
+        "url": "https://myanimelist.net/anime/season/1993/summer"
+    },
+    {
+        "id": 131,
+        "slug": "fall-1993",
+        "season": "Fall 1993",
+        "url": "https://myanimelist.net/anime/season/1993/fall"
+    },
+    {
+        "id": 132,
+        "slug": "winter-1992",
+        "season": "Winter 1992",
+        "url": "https://myanimelist.net/anime/season/1992/winter"
+    },
+    {
+        "id": 133,
+        "slug": "spring-1992",
+        "season": "Spring 1992",
+        "url": "https://myanimelist.net/anime/season/1992/spring"
+    },
+    {
+        "id": 134,
+        "slug": "summer-1992",
+        "season": "Summer 1992",
+        "url": "https://myanimelist.net/anime/season/1992/summer"
+    },
+    {
+        "id": 135,
+        "slug": "fall-1992",
+        "season": "Fall 1992",
+        "url": "https://myanimelist.net/anime/season/1992/fall"
+    },
+    {
+        "id": 136,
+        "slug": "winter-1991",
+        "season": "Winter 1991",
+        "url": "https://myanimelist.net/anime/season/1991/winter"
+    },
+    {
+        "id": 137,
+        "slug": "spring-1991",
+        "season": "Spring 1991",
+        "url": "https://myanimelist.net/anime/season/1991/spring"
+    },
+    {
+        "id": 138,
+        "slug": "summer-1991",
+        "season": "Summer 1991",
+        "url": "https://myanimelist.net/anime/season/1991/summer"
+    },
+    {
+        "id": 139,
+        "slug": "fall-1991",
+        "season": "Fall 1991",
+        "url": "https://myanimelist.net/anime/season/1991/fall"
+    },
+    {
+        "id": 140,
+        "slug": "winter-1990",
+        "season": "Winter 1990",
+        "url": "https://myanimelist.net/anime/season/1990/winter"
+    },
+    {
+        "id": 141,
+        "slug": "spring-1990",
+        "season": "Spring 1990",
+        "url": "https://myanimelist.net/anime/season/1990/spring"
+    },
+    {
+        "id": 142,
+        "slug": "summer-1990",
+        "season": "Summer 1990",
+        "url": "https://myanimelist.net/anime/season/1990/summer"
+    },
+    {
+        "id": 143,
+        "slug": "fall-1990",
+        "season": "Fall 1990",
+        "url": "https://myanimelist.net/anime/season/1990/fall"
+    },
+    {
+        "id": 144,
+        "slug": "winter-1989",
+        "season": "Winter 1989",
+        "url": "https://myanimelist.net/anime/season/1989/winter"
+    },
+    {
+        "id": 145,
+        "slug": "spring-1989",
+        "season": "Spring 1989",
+        "url": "https://myanimelist.net/anime/season/1989/spring"
+    },
+    {
+        "id": 146,
+        "slug": "summer-1989",
+        "season": "Summer 1989",
+        "url": "https://myanimelist.net/anime/season/1989/summer"
+    },
+    {
+        "id": 147,
+        "slug": "fall-1989",
+        "season": "Fall 1989",
+        "url": "https://myanimelist.net/anime/season/1989/fall"
+    },
+    {
+        "id": 148,
+        "slug": "winter-1988",
+        "season": "Winter 1988",
+        "url": "https://myanimelist.net/anime/season/1988/winter"
+    },
+    {
+        "id": 149,
+        "slug": "spring-1988",
+        "season": "Spring 1988",
+        "url": "https://myanimelist.net/anime/season/1988/spring"
+    },
+    {
+        "id": 150,
+        "slug": "summer-1988",
+        "season": "Summer 1988",
+        "url": "https://myanimelist.net/anime/season/1988/summer"
+    },
+    {
+        "id": 151,
+        "slug": "fall-1988",
+        "season": "Fall 1988",
+        "url": "https://myanimelist.net/anime/season/1988/fall"
+    },
+    {
+        "id": 152,
+        "slug": "winter-1987",
+        "season": "Winter 1987",
+        "url": "https://myanimelist.net/anime/season/1987/winter"
+    },
+    {
+        "id": 153,
+        "slug": "spring-1987",
+        "season": "Spring 1987",
+        "url": "https://myanimelist.net/anime/season/1987/spring"
+    },
+    {
+        "id": 154,
+        "slug": "summer-1987",
+        "season": "Summer 1987",
+        "url": "https://myanimelist.net/anime/season/1987/summer"
+    },
+    {
+        "id": 155,
+        "slug": "fall-1987",
+        "season": "Fall 1987",
+        "url": "https://myanimelist.net/anime/season/1987/fall"
+    },
+    {
+        "id": 156,
+        "slug": "winter-1986",
+        "season": "Winter 1986",
+        "url": "https://myanimelist.net/anime/season/1986/winter"
+    },
+    {
+        "id": 157,
+        "slug": "spring-1986",
+        "season": "Spring 1986",
+        "url": "https://myanimelist.net/anime/season/1986/spring"
+    },
+    {
+        "id": 158,
+        "slug": "summer-1986",
+        "season": "Summer 1986",
+        "url": "https://myanimelist.net/anime/season/1986/summer"
+    },
+    {
+        "id": 159,
+        "slug": "fall-1986",
+        "season": "Fall 1986",
+        "url": "https://myanimelist.net/anime/season/1986/fall"
+    },
+    {
+        "id": 160,
+        "slug": "winter-1985",
+        "season": "Winter 1985",
+        "url": "https://myanimelist.net/anime/season/1985/winter"
+    },
+    {
+        "id": 161,
+        "slug": "spring-1985",
+        "season": "Spring 1985",
+        "url": "https://myanimelist.net/anime/season/1985/spring"
+    },
+    {
+        "id": 162,
+        "slug": "summer-1985",
+        "season": "Summer 1985",
+        "url": "https://myanimelist.net/anime/season/1985/summer"
+    },
+    {
+        "id": 163,
+        "slug": "fall-1985",
+        "season": "Fall 1985",
+        "url": "https://myanimelist.net/anime/season/1985/fall"
+    },
+    {
+        "id": 164,
+        "slug": "winter-1984",
+        "season": "Winter 1984",
+        "url": "https://myanimelist.net/anime/season/1984/winter"
+    },
+    {
+        "id": 165,
+        "slug": "spring-1984",
+        "season": "Spring 1984",
+        "url": "https://myanimelist.net/anime/season/1984/spring"
+    },
+    {
+        "id": 166,
+        "slug": "summer-1984",
+        "season": "Summer 1984",
+        "url": "https://myanimelist.net/anime/season/1984/summer"
+    },
+    {
+        "id": 167,
+        "slug": "fall-1984",
+        "season": "Fall 1984",
+        "url": "https://myanimelist.net/anime/season/1984/fall"
+    },
+    {
+        "id": 168,
+        "slug": "winter-1983",
+        "season": "Winter 1983",
+        "url": "https://myanimelist.net/anime/season/1983/winter"
+    },
+    {
+        "id": 169,
+        "slug": "spring-1983",
+        "season": "Spring 1983",
+        "url": "https://myanimelist.net/anime/season/1983/spring"
+    },
+    {
+        "id": 170,
+        "slug": "summer-1983",
+        "season": "Summer 1983",
+        "url": "https://myanimelist.net/anime/season/1983/summer"
+    },
+    {
+        "id": 171,
+        "slug": "fall-1983",
+        "season": "Fall 1983",
+        "url": "https://myanimelist.net/anime/season/1983/fall"
+    },
+    {
+        "id": 172,
+        "slug": "winter-1982",
+        "season": "Winter 1982",
+        "url": "https://myanimelist.net/anime/season/1982/winter"
+    },
+    {
+        "id": 173,
+        "slug": "spring-1982",
+        "season": "Spring 1982",
+        "url": "https://myanimelist.net/anime/season/1982/spring"
+    },
+    {
+        "id": 174,
+        "slug": "summer-1982",
+        "season": "Summer 1982",
+        "url": "https://myanimelist.net/anime/season/1982/summer"
+    },
+    {
+        "id": 175,
+        "slug": "fall-1982",
+        "season": "Fall 1982",
+        "url": "https://myanimelist.net/anime/season/1982/fall"
+    },
+    {
+        "id": 176,
+        "slug": "winter-1981",
+        "season": "Winter 1981",
+        "url": "https://myanimelist.net/anime/season/1981/winter"
+    },
+    {
+        "id": 177,
+        "slug": "spring-1981",
+        "season": "Spring 1981",
+        "url": "https://myanimelist.net/anime/season/1981/spring"
+    },
+    {
+        "id": 178,
+        "slug": "summer-1981",
+        "season": "Summer 1981",
+        "url": "https://myanimelist.net/anime/season/1981/summer"
+    },
+    {
+        "id": 179,
+        "slug": "fall-1981",
+        "season": "Fall 1981",
+        "url": "https://myanimelist.net/anime/season/1981/fall"
+    },
+    {
+        "id": 180,
+        "slug": "winter-1980",
+        "season": "Winter 1980",
+        "url": "https://myanimelist.net/anime/season/1980/winter"
+    },
+    {
+        "id": 181,
+        "slug": "spring-1980",
+        "season": "Spring 1980",
+        "url": "https://myanimelist.net/anime/season/1980/spring"
+    },
+    {
+        "id": 182,
+        "slug": "summer-1980",
+        "season": "Summer 1980",
+        "url": "https://myanimelist.net/anime/season/1980/summer"
+    },
+    {
+        "id": 183,
+        "slug": "fall-1980",
+        "season": "Fall 1980",
+        "url": "https://myanimelist.net/anime/season/1980/fall"
+    },
+    {
+        "id": 184,
+        "slug": "winter-1979",
+        "season": "Winter 1979",
+        "url": "https://myanimelist.net/anime/season/1979/winter"
+    },
+    {
+        "id": 185,
+        "slug": "spring-1979",
+        "season": "Spring 1979",
+        "url": "https://myanimelist.net/anime/season/1979/spring"
+    },
+    {
+        "id": 186,
+        "slug": "summer-1979",
+        "season": "Summer 1979",
+        "url": "https://myanimelist.net/anime/season/1979/summer"
+    },
+    {
+        "id": 187,
+        "slug": "fall-1979",
+        "season": "Fall 1979",
+        "url": "https://myanimelist.net/anime/season/1979/fall"
+    },
+    {
+        "id": 188,
+        "slug": "winter-1978",
+        "season": "Winter 1978",
+        "url": "https://myanimelist.net/anime/season/1978/winter"
+    },
+    {
+        "id": 189,
+        "slug": "spring-1978",
+        "season": "Spring 1978",
+        "url": "https://myanimelist.net/anime/season/1978/spring"
+    },
+    {
+        "id": 190,
+        "slug": "summer-1978",
+        "season": "Summer 1978",
+        "url": "https://myanimelist.net/anime/season/1978/summer"
+    },
+    {
+        "id": 191,
+        "slug": "fall-1978",
+        "season": "Fall 1978",
+        "url": "https://myanimelist.net/anime/season/1978/fall"
+    },
+    {
+        "id": 192,
+        "slug": "winter-1977",
+        "season": "Winter 1977",
+        "url": "https://myanimelist.net/anime/season/1977/winter"
+    },
+    {
+        "id": 193,
+        "slug": "spring-1977",
+        "season": "Spring 1977",
+        "url": "https://myanimelist.net/anime/season/1977/spring"
+    },
+    {
+        "id": 194,
+        "slug": "summer-1977",
+        "season": "Summer 1977",
+        "url": "https://myanimelist.net/anime/season/1977/summer"
+    },
+    {
+        "id": 195,
+        "slug": "fall-1977",
+        "season": "Fall 1977",
+        "url": "https://myanimelist.net/anime/season/1977/fall"
+    },
+    {
+        "id": 196,
+        "slug": "winter-1976",
+        "season": "Winter 1976",
+        "url": "https://myanimelist.net/anime/season/1976/winter"
+    },
+    {
+        "id": 197,
+        "slug": "spring-1976",
+        "season": "Spring 1976",
+        "url": "https://myanimelist.net/anime/season/1976/spring"
+    },
+    {
+        "id": 198,
+        "slug": "summer-1976",
+        "season": "Summer 1976",
+        "url": "https://myanimelist.net/anime/season/1976/summer"
+    },
+    {
+        "id": 199,
+        "slug": "fall-1976",
+        "season": "Fall 1976",
+        "url": "https://myanimelist.net/anime/season/1976/fall"
+    },
+    {
+        "id": 200,
+        "slug": "winter-1975",
+        "season": "Winter 1975",
+        "url": "https://myanimelist.net/anime/season/1975/winter"
+    },
+    {
+        "id": 201,
+        "slug": "spring-1975",
+        "season": "Spring 1975",
+        "url": "https://myanimelist.net/anime/season/1975/spring"
+    },
+    {
+        "id": 202,
+        "slug": "summer-1975",
+        "season": "Summer 1975",
+        "url": "https://myanimelist.net/anime/season/1975/summer"
+    },
+    {
+        "id": 203,
+        "slug": "fall-1975",
+        "season": "Fall 1975",
+        "url": "https://myanimelist.net/anime/season/1975/fall"
+    },
+    {
+        "id": 204,
+        "slug": "winter-1974",
+        "season": "Winter 1974",
+        "url": "https://myanimelist.net/anime/season/1974/winter"
+    },
+    {
+        "id": 205,
+        "slug": "spring-1974",
+        "season": "Spring 1974",
+        "url": "https://myanimelist.net/anime/season/1974/spring"
+    },
+    {
+        "id": 206,
+        "slug": "summer-1974",
+        "season": "Summer 1974",
+        "url": "https://myanimelist.net/anime/season/1974/summer"
+    },
+    {
+        "id": 207,
+        "slug": "fall-1974",
+        "season": "Fall 1974",
+        "url": "https://myanimelist.net/anime/season/1974/fall"
+    },
+    {
+        "id": 208,
+        "slug": "winter-1973",
+        "season": "Winter 1973",
+        "url": "https://myanimelist.net/anime/season/1973/winter"
+    },
+    {
+        "id": 209,
+        "slug": "spring-1973",
+        "season": "Spring 1973",
+        "url": "https://myanimelist.net/anime/season/1973/spring"
+    },
+    {
+        "id": 210,
+        "slug": "summer-1973",
+        "season": "Summer 1973",
+        "url": "https://myanimelist.net/anime/season/1973/summer"
+    },
+    {
+        "id": 211,
+        "slug": "fall-1973",
+        "season": "Fall 1973",
+        "url": "https://myanimelist.net/anime/season/1973/fall"
+    },
+    {
+        "id": 212,
+        "slug": "winter-1972",
+        "season": "Winter 1972",
+        "url": "https://myanimelist.net/anime/season/1972/winter"
+    },
+    {
+        "id": 213,
+        "slug": "spring-1972",
+        "season": "Spring 1972",
+        "url": "https://myanimelist.net/anime/season/1972/spring"
+    },
+    {
+        "id": 214,
+        "slug": "summer-1972",
+        "season": "Summer 1972",
+        "url": "https://myanimelist.net/anime/season/1972/summer"
+    },
+    {
+        "id": 215,
+        "slug": "fall-1972",
+        "season": "Fall 1972",
+        "url": "https://myanimelist.net/anime/season/1972/fall"
+    },
+    {
+        "id": 216,
+        "slug": "winter-1971",
+        "season": "Winter 1971",
+        "url": "https://myanimelist.net/anime/season/1971/winter"
+    },
+    {
+        "id": 217,
+        "slug": "spring-1971",
+        "season": "Spring 1971",
+        "url": "https://myanimelist.net/anime/season/1971/spring"
+    },
+    {
+        "id": 218,
+        "slug": "summer-1971",
+        "season": "Summer 1971",
+        "url": "https://myanimelist.net/anime/season/1971/summer"
+    },
+    {
+        "id": 219,
+        "slug": "fall-1971",
+        "season": "Fall 1971",
+        "url": "https://myanimelist.net/anime/season/1971/fall"
+    },
+    {
+        "id": 220,
+        "slug": "winter-1970",
+        "season": "Winter 1970",
+        "url": "https://myanimelist.net/anime/season/1970/winter"
+    },
+    {
+        "id": 221,
+        "slug": "spring-1970",
+        "season": "Spring 1970",
+        "url": "https://myanimelist.net/anime/season/1970/spring"
+    },
+    {
+        "id": 222,
+        "slug": "summer-1970",
+        "season": "Summer 1970",
+        "url": "https://myanimelist.net/anime/season/1970/summer"
+    },
+    {
+        "id": 223,
+        "slug": "fall-1970",
+        "season": "Fall 1970",
+        "url": "https://myanimelist.net/anime/season/1970/fall"
+    },
+    {
+        "id": 224,
+        "slug": "winter-1969",
+        "season": "Winter 1969",
+        "url": "https://myanimelist.net/anime/season/1969/winter"
+    },
+    {
+        "id": 225,
+        "slug": "spring-1969",
+        "season": "Spring 1969",
+        "url": "https://myanimelist.net/anime/season/1969/spring"
+    },
+    {
+        "id": 226,
+        "slug": "summer-1969",
+        "season": "Summer 1969",
+        "url": "https://myanimelist.net/anime/season/1969/summer"
+    },
+    {
+        "id": 227,
+        "slug": "fall-1969",
+        "season": "Fall 1969",
+        "url": "https://myanimelist.net/anime/season/1969/fall"
+    },
+    {
+        "id": 228,
+        "slug": "winter-1968",
+        "season": "Winter 1968",
+        "url": "https://myanimelist.net/anime/season/1968/winter"
+    },
+    {
+        "id": 229,
+        "slug": "spring-1968",
+        "season": "Spring 1968",
+        "url": "https://myanimelist.net/anime/season/1968/spring"
+    },
+    {
+        "id": 230,
+        "slug": "summer-1968",
+        "season": "Summer 1968",
+        "url": "https://myanimelist.net/anime/season/1968/summer"
+    },
+    {
+        "id": 231,
+        "slug": "fall-1968",
+        "season": "Fall 1968",
+        "url": "https://myanimelist.net/anime/season/1968/fall"
+    },
+    {
+        "id": 232,
+        "slug": "winter-1967",
+        "season": "Winter 1967",
+        "url": "https://myanimelist.net/anime/season/1967/winter"
+    },
+    {
+        "id": 233,
+        "slug": "spring-1967",
+        "season": "Spring 1967",
+        "url": "https://myanimelist.net/anime/season/1967/spring"
+    },
+    {
+        "id": 234,
+        "slug": "summer-1967",
+        "season": "Summer 1967",
+        "url": "https://myanimelist.net/anime/season/1967/summer"
+    },
+    {
+        "id": 235,
+        "slug": "fall-1967",
+        "season": "Fall 1967",
+        "url": "https://myanimelist.net/anime/season/1967/fall"
+    },
+    {
+        "id": 236,
+        "slug": "winter-1966",
+        "season": "Winter 1966",
+        "url": "https://myanimelist.net/anime/season/1966/winter"
+    },
+    {
+        "id": 237,
+        "slug": "spring-1966",
+        "season": "Spring 1966",
+        "url": "https://myanimelist.net/anime/season/1966/spring"
+    },
+    {
+        "id": 238,
+        "slug": "summer-1966",
+        "season": "Summer 1966",
+        "url": "https://myanimelist.net/anime/season/1966/summer"
+    },
+    {
+        "id": 239,
+        "slug": "fall-1966",
+        "season": "Fall 1966",
+        "url": "https://myanimelist.net/anime/season/1966/fall"
+    },
+    {
+        "id": 240,
+        "slug": "winter-1965",
+        "season": "Winter 1965",
+        "url": "https://myanimelist.net/anime/season/1965/winter"
+    },
+    {
+        "id": 241,
+        "slug": "spring-1965",
+        "season": "Spring 1965",
+        "url": "https://myanimelist.net/anime/season/1965/spring"
+    },
+    {
+        "id": 242,
+        "slug": "summer-1965",
+        "season": "Summer 1965",
+        "url": "https://myanimelist.net/anime/season/1965/summer"
+    },
+    {
+        "id": 243,
+        "slug": "fall-1965",
+        "season": "Fall 1965",
+        "url": "https://myanimelist.net/anime/season/1965/fall"
+    },
+    {
+        "id": 244,
+        "slug": "winter-1964",
+        "season": "Winter 1964",
+        "url": "https://myanimelist.net/anime/season/1964/winter"
+    },
+    {
+        "id": 245,
+        "slug": "spring-1964",
+        "season": "Spring 1964",
+        "url": "https://myanimelist.net/anime/season/1964/spring"
+    },
+    {
+        "id": 246,
+        "slug": "summer-1964",
+        "season": "Summer 1964",
+        "url": "https://myanimelist.net/anime/season/1964/summer"
+    },
+    {
+        "id": 247,
+        "slug": "fall-1964",
+        "season": "Fall 1964",
+        "url": "https://myanimelist.net/anime/season/1964/fall"
+    },
+    {
+        "id": 248,
+        "slug": "winter-1963",
+        "season": "Winter 1963",
+        "url": "https://myanimelist.net/anime/season/1963/winter"
+    },
+    {
+        "id": 249,
+        "slug": "spring-1963",
+        "season": "Spring 1963",
+        "url": "https://myanimelist.net/anime/season/1963/spring"
+    },
+    {
+        "id": 250,
+        "slug": "summer-1963",
+        "season": "Summer 1963",
+        "url": "https://myanimelist.net/anime/season/1963/summer"
+    },
+    {
+        "id": 251,
+        "slug": "fall-1963",
+        "season": "Fall 1963",
+        "url": "https://myanimelist.net/anime/season/1963/fall"
+    },
+    {
+        "id": 252,
+        "slug": "winter-1962",
+        "season": "Winter 1962",
+        "url": "https://myanimelist.net/anime/season/1962/winter"
+    },
+    {
+        "id": 253,
+        "slug": "spring-1962",
+        "season": "Spring 1962",
+        "url": "https://myanimelist.net/anime/season/1962/spring"
+    },
+    {
+        "id": 254,
+        "slug": "summer-1962",
+        "season": "Summer 1962",
+        "url": "https://myanimelist.net/anime/season/1962/summer"
+    },
+    {
+        "id": 255,
+        "slug": "fall-1962",
+        "season": "Fall 1962",
+        "url": "https://myanimelist.net/anime/season/1962/fall"
+    },
+    {
+        "id": 256,
+        "slug": "winter-1961",
+        "season": "Winter 1961",
+        "url": "https://myanimelist.net/anime/season/1961/winter"
+    },
+    {
+        "id": 257,
+        "slug": "spring-1961",
+        "season": "Spring 1961",
+        "url": "https://myanimelist.net/anime/season/1961/spring"
+    },
+    {
+        "id": 258,
+        "slug": "summer-1961",
+        "season": "Summer 1961",
+        "url": "https://myanimelist.net/anime/season/1961/summer"
+    },
+    {
+        "id": 259,
+        "slug": "fall-1961",
+        "season": "Fall 1961",
+        "url": "https://myanimelist.net/anime/season/1961/fall"
+    },
+    {
+        "id": 260,
+        "slug": "winter-1960",
+        "season": "Winter 1960",
+        "url": "https://myanimelist.net/anime/season/1960/winter"
+    },
+    {
+        "id": 261,
+        "slug": "spring-1960",
+        "season": "Spring 1960",
+        "url": "https://myanimelist.net/anime/season/1960/spring"
+    },
+    {
+        "id": 262,
+        "slug": "summer-1960",
+        "season": "Summer 1960",
+        "url": "https://myanimelist.net/anime/season/1960/summer"
+    },
+    {
+        "id": 263,
+        "slug": "fall-1960",
+        "season": "Fall 1960",
+        "url": "https://myanimelist.net/anime/season/1960/fall"
+    },
+    {
+        "id": 264,
+        "slug": "winter-1959",
+        "season": "Winter 1959",
+        "url": "https://myanimelist.net/anime/season/1959/winter"
+    },
+    {
+        "id": 265,
+        "slug": "spring-1959",
+        "season": "Spring 1959",
+        "url": "https://myanimelist.net/anime/season/1959/spring"
+    },
+    {
+        "id": 266,
+        "slug": "summer-1959",
+        "season": "Summer 1959",
+        "url": "https://myanimelist.net/anime/season/1959/summer"
+    },
+    {
+        "id": 267,
+        "slug": "fall-1959",
+        "season": "Fall 1959",
+        "url": "https://myanimelist.net/anime/season/1959/fall"
+    },
+    {
+        "id": 268,
+        "slug": "winter-1958",
+        "season": "Winter 1958",
+        "url": "https://myanimelist.net/anime/season/1958/winter"
+    },
+    {
+        "id": 269,
+        "slug": "spring-1958",
+        "season": "Spring 1958",
+        "url": "https://myanimelist.net/anime/season/1958/spring"
+    },
+    {
+        "id": 270,
+        "slug": "summer-1958",
+        "season": "Summer 1958",
+        "url": "https://myanimelist.net/anime/season/1958/summer"
+    },
+    {
+        "id": 271,
+        "slug": "fall-1958",
+        "season": "Fall 1958",
+        "url": "https://myanimelist.net/anime/season/1958/fall"
+    },
+    {
+        "id": 272,
+        "slug": "winter-1957",
+        "season": "Winter 1957",
+        "url": "https://myanimelist.net/anime/season/1957/winter"
+    },
+    {
+        "id": 273,
+        "slug": "spring-1957",
+        "season": "Spring 1957",
+        "url": "https://myanimelist.net/anime/season/1957/spring"
+    },
+    {
+        "id": 274,
+        "slug": "summer-1957",
+        "season": "Summer 1957",
+        "url": "https://myanimelist.net/anime/season/1957/summer"
+    },
+    {
+        "id": 275,
+        "slug": "fall-1957",
+        "season": "Fall 1957",
+        "url": "https://myanimelist.net/anime/season/1957/fall"
+    },
+    {
+        "id": 276,
+        "slug": "winter-1956",
+        "season": "Winter 1956",
+        "url": "https://myanimelist.net/anime/season/1956/winter"
+    },
+    {
+        "id": 277,
+        "slug": "spring-1956",
+        "season": "Spring 1956",
+        "url": "https://myanimelist.net/anime/season/1956/spring"
+    },
+    {
+        "id": 278,
+        "slug": "summer-1956",
+        "season": "Summer 1956",
+        "url": "https://myanimelist.net/anime/season/1956/summer"
+    },
+    {
+        "id": 279,
+        "slug": "fall-1956",
+        "season": "Fall 1956",
+        "url": "https://myanimelist.net/anime/season/1956/fall"
+    },
+    {
+        "id": 280,
+        "slug": "winter-1955",
+        "season": "Winter 1955",
+        "url": "https://myanimelist.net/anime/season/1955/winter"
+    },
+    {
+        "id": 281,
+        "slug": "spring-1955",
+        "season": "Spring 1955",
+        "url": "https://myanimelist.net/anime/season/1955/spring"
+    },
+    {
+        "id": 282,
+        "slug": "summer-1955",
+        "season": "Summer 1955",
+        "url": "https://myanimelist.net/anime/season/1955/summer"
+    },
+    {
+        "id": 283,
+        "slug": "fall-1955",
+        "season": "Fall 1955",
+        "url": "https://myanimelist.net/anime/season/1955/fall"
+    },
+    {
+        "id": 284,
+        "slug": "winter-1954",
+        "season": "Winter 1954",
+        "url": "https://myanimelist.net/anime/season/1954/winter"
+    },
+    {
+        "id": 285,
+        "slug": "spring-1954",
+        "season": "Spring 1954",
+        "url": "https://myanimelist.net/anime/season/1954/spring"
+    },
+    {
+        "id": 286,
+        "slug": "summer-1954",
+        "season": "Summer 1954",
+        "url": "https://myanimelist.net/anime/season/1954/summer"
+    },
+    {
+        "id": 287,
+        "slug": "fall-1954",
+        "season": "Fall 1954",
+        "url": "https://myanimelist.net/anime/season/1954/fall"
+    },
+    {
+        "id": 288,
+        "slug": "winter-1953",
+        "season": "Winter 1953",
+        "url": "https://myanimelist.net/anime/season/1953/winter"
+    },
+    {
+        "id": 289,
+        "slug": "spring-1953",
+        "season": "Spring 1953",
+        "url": "https://myanimelist.net/anime/season/1953/spring"
+    },
+    {
+        "id": 290,
+        "slug": "summer-1953",
+        "season": "Summer 1953",
+        "url": "https://myanimelist.net/anime/season/1953/summer"
+    },
+    {
+        "id": 291,
+        "slug": "fall-1953",
+        "season": "Fall 1953",
+        "url": "https://myanimelist.net/anime/season/1953/fall"
+    },
+    {
+        "id": 292,
+        "slug": "winter-1952",
+        "season": "Winter 1952",
+        "url": "https://myanimelist.net/anime/season/1952/winter"
+    },
+    {
+        "id": 293,
+        "slug": "spring-1952",
+        "season": "Spring 1952",
+        "url": "https://myanimelist.net/anime/season/1952/spring"
+    },
+    {
+        "id": 294,
+        "slug": "summer-1952",
+        "season": "Summer 1952",
+        "url": "https://myanimelist.net/anime/season/1952/summer"
+    },
+    {
+        "id": 295,
+        "slug": "fall-1952",
+        "season": "Fall 1952",
+        "url": "https://myanimelist.net/anime/season/1952/fall"
+    },
+    {
+        "id": 296,
+        "slug": "winter-1951",
+        "season": "Winter 1951",
+        "url": "https://myanimelist.net/anime/season/1951/winter"
+    },
+    {
+        "id": 297,
+        "slug": "spring-1951",
+        "season": "Spring 1951",
+        "url": "https://myanimelist.net/anime/season/1951/spring"
+    },
+    {
+        "id": 298,
+        "slug": "summer-1951",
+        "season": "Summer 1951",
+        "url": "https://myanimelist.net/anime/season/1951/summer"
+    },
+    {
+        "id": 299,
+        "slug": "fall-1951",
+        "season": "Fall 1951",
+        "url": "https://myanimelist.net/anime/season/1951/fall"
+    },
+    {
+        "id": 300,
+        "slug": "winter-1950",
+        "season": "Winter 1950",
+        "url": "https://myanimelist.net/anime/season/1950/winter"
+    },
+    {
+        "id": 301,
+        "slug": "spring-1950",
+        "season": "Spring 1950",
+        "url": "https://myanimelist.net/anime/season/1950/spring"
+    },
+    {
+        "id": 302,
+        "slug": "summer-1950",
+        "season": "Summer 1950",
+        "url": "https://myanimelist.net/anime/season/1950/summer"
+    },
+    {
+        "id": 303,
+        "slug": "fall-1950",
+        "season": "Fall 1950",
+        "url": "https://myanimelist.net/anime/season/1950/fall"
+    },
+    {
+        "id": 304,
+        "slug": "winter-1949",
+        "season": "Winter 1949",
+        "url": "https://myanimelist.net/anime/season/1949/winter"
+    },
+    {
+        "id": 305,
+        "slug": "spring-1949",
+        "season": "Spring 1949",
+        "url": "https://myanimelist.net/anime/season/1949/spring"
+    },
+    {
+        "id": 306,
+        "slug": "summer-1949",
+        "season": "Summer 1949",
+        "url": "https://myanimelist.net/anime/season/1949/summer"
+    },
+    {
+        "id": 307,
+        "slug": "fall-1949",
+        "season": "Fall 1949",
+        "url": "https://myanimelist.net/anime/season/1949/fall"
+    },
+    {
+        "id": 308,
+        "slug": "winter-1948",
+        "season": "Winter 1948",
+        "url": "https://myanimelist.net/anime/season/1948/winter"
+    },
+    {
+        "id": 309,
+        "slug": "spring-1948",
+        "season": "Spring 1948",
+        "url": "https://myanimelist.net/anime/season/1948/spring"
+    },
+    {
+        "id": 310,
+        "slug": "summer-1948",
+        "season": "Summer 1948",
+        "url": "https://myanimelist.net/anime/season/1948/summer"
+    },
+    {
+        "id": 311,
+        "slug": "fall-1948",
+        "season": "Fall 1948",
+        "url": "https://myanimelist.net/anime/season/1948/fall"
+    },
+    {
+        "id": 312,
+        "slug": "winter-1947",
+        "season": "Winter 1947",
+        "url": "https://myanimelist.net/anime/season/1947/winter"
+    },
+    {
+        "id": 313,
+        "slug": "spring-1947",
+        "season": "Spring 1947",
+        "url": "https://myanimelist.net/anime/season/1947/spring"
+    },
+    {
+        "id": 314,
+        "slug": "summer-1947",
+        "season": "Summer 1947",
+        "url": "https://myanimelist.net/anime/season/1947/summer"
+    },
+    {
+        "id": 315,
+        "slug": "fall-1947",
+        "season": "Fall 1947",
+        "url": "https://myanimelist.net/anime/season/1947/fall"
+    },
+    {
+        "id": 316,
+        "slug": "winter-1946",
+        "season": "Winter 1946",
+        "url": "https://myanimelist.net/anime/season/1946/winter"
+    },
+    {
+        "id": 317,
+        "slug": "spring-1946",
+        "season": "Spring 1946",
+        "url": "https://myanimelist.net/anime/season/1946/spring"
+    },
+    {
+        "id": 318,
+        "slug": "summer-1946",
+        "season": "Summer 1946",
+        "url": "https://myanimelist.net/anime/season/1946/summer"
+    },
+    {
+        "id": 319,
+        "slug": "fall-1946",
+        "season": "Fall 1946",
+        "url": "https://myanimelist.net/anime/season/1946/fall"
+    },
+    {
+        "id": 320,
+        "slug": "winter-1945",
+        "season": "Winter 1945",
+        "url": "https://myanimelist.net/anime/season/1945/winter"
+    },
+    {
+        "id": 321,
+        "slug": "spring-1945",
+        "season": "Spring 1945",
+        "url": "https://myanimelist.net/anime/season/1945/spring"
+    },
+    {
+        "id": 322,
+        "slug": "summer-1945",
+        "season": "Summer 1945",
+        "url": "https://myanimelist.net/anime/season/1945/summer"
+    },
+    {
+        "id": 323,
+        "slug": "fall-1945",
+        "season": "Fall 1945",
+        "url": "https://myanimelist.net/anime/season/1945/fall"
+    },
+    {
+        "id": 324,
+        "slug": "winter-1944",
+        "season": "Winter 1944",
+        "url": "https://myanimelist.net/anime/season/1944/winter"
+    },
+    {
+        "id": 325,
+        "slug": "spring-1944",
+        "season": "Spring 1944",
+        "url": "https://myanimelist.net/anime/season/1944/spring"
+    },
+    {
+        "id": 326,
+        "slug": "summer-1944",
+        "season": "Summer 1944",
+        "url": "https://myanimelist.net/anime/season/1944/summer"
+    },
+    {
+        "id": 327,
+        "slug": "fall-1944",
+        "season": "Fall 1944",
+        "url": "https://myanimelist.net/anime/season/1944/fall"
+    },
+    {
+        "id": 328,
+        "slug": "winter-1943",
+        "season": "Winter 1943",
+        "url": "https://myanimelist.net/anime/season/1943/winter"
+    },
+    {
+        "id": 329,
+        "slug": "spring-1943",
+        "season": "Spring 1943",
+        "url": "https://myanimelist.net/anime/season/1943/spring"
+    },
+    {
+        "id": 330,
+        "slug": "summer-1943",
+        "season": "Summer 1943",
+        "url": "https://myanimelist.net/anime/season/1943/summer"
+    },
+    {
+        "id": 331,
+        "slug": "fall-1943",
+        "season": "Fall 1943",
+        "url": "https://myanimelist.net/anime/season/1943/fall"
+    },
+    {
+        "id": 332,
+        "slug": "winter-1942",
+        "season": "Winter 1942",
+        "url": "https://myanimelist.net/anime/season/1942/winter"
+    },
+    {
+        "id": 333,
+        "slug": "spring-1942",
+        "season": "Spring 1942",
+        "url": "https://myanimelist.net/anime/season/1942/spring"
+    },
+    {
+        "id": 334,
+        "slug": "summer-1942",
+        "season": "Summer 1942",
+        "url": "https://myanimelist.net/anime/season/1942/summer"
+    },
+    {
+        "id": 335,
+        "slug": "fall-1942",
+        "season": "Fall 1942",
+        "url": "https://myanimelist.net/anime/season/1942/fall"
+    },
+    {
+        "id": 336,
+        "slug": "winter-1941",
+        "season": "Winter 1941",
+        "url": "https://myanimelist.net/anime/season/1941/winter"
+    },
+    {
+        "id": 337,
+        "slug": "spring-1941",
+        "season": "Spring 1941",
+        "url": "https://myanimelist.net/anime/season/1941/spring"
+    },
+    {
+        "id": 338,
+        "slug": "summer-1941",
+        "season": "Summer 1941",
+        "url": "https://myanimelist.net/anime/season/1941/summer"
+    },
+    {
+        "id": 339,
+        "slug": "fall-1941",
+        "season": "Fall 1941",
+        "url": "https://myanimelist.net/anime/season/1941/fall"
+    },
+    {
+        "id": 340,
+        "slug": "winter-1940",
+        "season": "Winter 1940",
+        "url": "https://myanimelist.net/anime/season/1940/winter"
+    },
+    {
+        "id": 341,
+        "slug": "spring-1940",
+        "season": "Spring 1940",
+        "url": "https://myanimelist.net/anime/season/1940/spring"
+    },
+    {
+        "id": 342,
+        "slug": "summer-1940",
+        "season": "Summer 1940",
+        "url": "https://myanimelist.net/anime/season/1940/summer"
+    },
+    {
+        "id": 343,
+        "slug": "fall-1940",
+        "season": "Fall 1940",
+        "url": "https://myanimelist.net/anime/season/1940/fall"
+    },
+    {
+        "id": 344,
+        "slug": "winter-1939",
+        "season": "Winter 1939",
+        "url": "https://myanimelist.net/anime/season/1939/winter"
+    },
+    {
+        "id": 345,
+        "slug": "spring-1939",
+        "season": "Spring 1939",
+        "url": "https://myanimelist.net/anime/season/1939/spring"
+    },
+    {
+        "id": 346,
+        "slug": "summer-1939",
+        "season": "Summer 1939",
+        "url": "https://myanimelist.net/anime/season/1939/summer"
+    },
+    {
+        "id": 347,
+        "slug": "fall-1939",
+        "season": "Fall 1939",
+        "url": "https://myanimelist.net/anime/season/1939/fall"
+    },
+    {
+        "id": 348,
+        "slug": "winter-1938",
+        "season": "Winter 1938",
+        "url": "https://myanimelist.net/anime/season/1938/winter"
+    },
+    {
+        "id": 349,
+        "slug": "spring-1938",
+        "season": "Spring 1938",
+        "url": "https://myanimelist.net/anime/season/1938/spring"
+    },
+    {
+        "id": 350,
+        "slug": "summer-1938",
+        "season": "Summer 1938",
+        "url": "https://myanimelist.net/anime/season/1938/summer"
+    },
+    {
+        "id": 351,
+        "slug": "fall-1938",
+        "season": "Fall 1938",
+        "url": "https://myanimelist.net/anime/season/1938/fall"
+    },
+    {
+        "id": 352,
+        "slug": "winter-1937",
+        "season": "Winter 1937",
+        "url": "https://myanimelist.net/anime/season/1937/winter"
+    },
+    {
+        "id": 353,
+        "slug": "spring-1937",
+        "season": "Spring 1937",
+        "url": "https://myanimelist.net/anime/season/1937/spring"
+    },
+    {
+        "id": 354,
+        "slug": "summer-1937",
+        "season": "Summer 1937",
+        "url": "https://myanimelist.net/anime/season/1937/summer"
+    },
+    {
+        "id": 355,
+        "slug": "fall-1937",
+        "season": "Fall 1937",
+        "url": "https://myanimelist.net/anime/season/1937/fall"
+    },
+    {
+        "id": 356,
+        "slug": "winter-1936",
+        "season": "Winter 1936",
+        "url": "https://myanimelist.net/anime/season/1936/winter"
+    },
+    {
+        "id": 357,
+        "slug": "spring-1936",
+        "season": "Spring 1936",
+        "url": "https://myanimelist.net/anime/season/1936/spring"
+    },
+    {
+        "id": 358,
+        "slug": "summer-1936",
+        "season": "Summer 1936",
+        "url": "https://myanimelist.net/anime/season/1936/summer"
+    },
+    {
+        "id": 359,
+        "slug": "fall-1936",
+        "season": "Fall 1936",
+        "url": "https://myanimelist.net/anime/season/1936/fall"
+    },
+    {
+        "id": 360,
+        "slug": "winter-1935",
+        "season": "Winter 1935",
+        "url": "https://myanimelist.net/anime/season/1935/winter"
+    },
+    {
+        "id": 361,
+        "slug": "spring-1935",
+        "season": "Spring 1935",
+        "url": "https://myanimelist.net/anime/season/1935/spring"
+    },
+    {
+        "id": 362,
+        "slug": "summer-1935",
+        "season": "Summer 1935",
+        "url": "https://myanimelist.net/anime/season/1935/summer"
+    },
+    {
+        "id": 363,
+        "slug": "fall-1935",
+        "season": "Fall 1935",
+        "url": "https://myanimelist.net/anime/season/1935/fall"
+    },
+    {
+        "id": 364,
+        "slug": "winter-1934",
+        "season": "Winter 1934",
+        "url": "https://myanimelist.net/anime/season/1934/winter"
+    },
+    {
+        "id": 365,
+        "slug": "spring-1934",
+        "season": "Spring 1934",
+        "url": "https://myanimelist.net/anime/season/1934/spring"
+    },
+    {
+        "id": 366,
+        "slug": "summer-1934",
+        "season": "Summer 1934",
+        "url": "https://myanimelist.net/anime/season/1934/summer"
+    },
+    {
+        "id": 367,
+        "slug": "fall-1934",
+        "season": "Fall 1934",
+        "url": "https://myanimelist.net/anime/season/1934/fall"
+    },
+    {
+        "id": 368,
+        "slug": "winter-1933",
+        "season": "Winter 1933",
+        "url": "https://myanimelist.net/anime/season/1933/winter"
+    },
+    {
+        "id": 369,
+        "slug": "spring-1933",
+        "season": "Spring 1933",
+        "url": "https://myanimelist.net/anime/season/1933/spring"
+    },
+    {
+        "id": 370,
+        "slug": "summer-1933",
+        "season": "Summer 1933",
+        "url": "https://myanimelist.net/anime/season/1933/summer"
+    },
+    {
+        "id": 371,
+        "slug": "fall-1933",
+        "season": "Fall 1933",
+        "url": "https://myanimelist.net/anime/season/1933/fall"
+    },
+    {
+        "id": 372,
+        "slug": "winter-1932",
+        "season": "Winter 1932",
+        "url": "https://myanimelist.net/anime/season/1932/winter"
+    },
+    {
+        "id": 373,
+        "slug": "spring-1932",
+        "season": "Spring 1932",
+        "url": "https://myanimelist.net/anime/season/1932/spring"
+    },
+    {
+        "id": 374,
+        "slug": "summer-1932",
+        "season": "Summer 1932",
+        "url": "https://myanimelist.net/anime/season/1932/summer"
+    },
+    {
+        "id": 375,
+        "slug": "fall-1932",
+        "season": "Fall 1932",
+        "url": "https://myanimelist.net/anime/season/1932/fall"
+    },
+    {
+        "id": 376,
+        "slug": "winter-1931",
+        "season": "Winter 1931",
+        "url": "https://myanimelist.net/anime/season/1931/winter"
+    },
+    {
+        "id": 377,
+        "slug": "spring-1931",
+        "season": "Spring 1931",
+        "url": "https://myanimelist.net/anime/season/1931/spring"
+    },
+    {
+        "id": 378,
+        "slug": "summer-1931",
+        "season": "Summer 1931",
+        "url": "https://myanimelist.net/anime/season/1931/summer"
+    },
+    {
+        "id": 379,
+        "slug": "fall-1931",
+        "season": "Fall 1931",
+        "url": "https://myanimelist.net/anime/season/1931/fall"
+    },
+    {
+        "id": 380,
+        "slug": "winter-1930",
+        "season": "Winter 1930",
+        "url": "https://myanimelist.net/anime/season/1930/winter"
+    },
+    {
+        "id": 381,
+        "slug": "spring-1930",
+        "season": "Spring 1930",
+        "url": "https://myanimelist.net/anime/season/1930/spring"
+    },
+    {
+        "id": 382,
+        "slug": "summer-1930",
+        "season": "Summer 1930",
+        "url": "https://myanimelist.net/anime/season/1930/summer"
+    },
+    {
+        "id": 383,
+        "slug": "fall-1930",
+        "season": "Fall 1930",
+        "url": "https://myanimelist.net/anime/season/1930/fall"
+    },
+    {
+        "id": 384,
+        "slug": "winter-1929",
+        "season": "Winter 1929",
+        "url": "https://myanimelist.net/anime/season/1929/winter"
+    },
+    {
+        "id": 385,
+        "slug": "spring-1929",
+        "season": "Spring 1929",
+        "url": "https://myanimelist.net/anime/season/1929/spring"
+    },
+    {
+        "id": 386,
+        "slug": "summer-1929",
+        "season": "Summer 1929",
+        "url": "https://myanimelist.net/anime/season/1929/summer"
+    },
+    {
+        "id": 387,
+        "slug": "fall-1929",
+        "season": "Fall 1929",
+        "url": "https://myanimelist.net/anime/season/1929/fall"
+    },
+    {
+        "id": 388,
+        "slug": "winter-1928",
+        "season": "Winter 1928",
+        "url": "https://myanimelist.net/anime/season/1928/winter"
+    },
+    {
+        "id": 389,
+        "slug": "spring-1928",
+        "season": "Spring 1928",
+        "url": "https://myanimelist.net/anime/season/1928/spring"
+    },
+    {
+        "id": 390,
+        "slug": "summer-1928",
+        "season": "Summer 1928",
+        "url": "https://myanimelist.net/anime/season/1928/summer"
+    },
+    {
+        "id": 391,
+        "slug": "fall-1928",
+        "season": "Fall 1928",
+        "url": "https://myanimelist.net/anime/season/1928/fall"
+    },
+    {
+        "id": 392,
+        "slug": "winter-1927",
+        "season": "Winter 1927",
+        "url": "https://myanimelist.net/anime/season/1927/winter"
+    },
+    {
+        "id": 393,
+        "slug": "spring-1927",
+        "season": "Spring 1927",
+        "url": "https://myanimelist.net/anime/season/1927/spring"
+    },
+    {
+        "id": 394,
+        "slug": "summer-1927",
+        "season": "Summer 1927",
+        "url": "https://myanimelist.net/anime/season/1927/summer"
+    },
+    {
+        "id": 395,
+        "slug": "fall-1927",
+        "season": "Fall 1927",
+        "url": "https://myanimelist.net/anime/season/1927/fall"
+    },
+    {
+        "id": 396,
+        "slug": "winter-1926",
+        "season": "Winter 1926",
+        "url": "https://myanimelist.net/anime/season/1926/winter"
+    },
+    {
+        "id": 397,
+        "slug": "spring-1926",
+        "season": "Spring 1926",
+        "url": "https://myanimelist.net/anime/season/1926/spring"
+    },
+    {
+        "id": 398,
+        "slug": "summer-1926",
+        "season": "Summer 1926",
+        "url": "https://myanimelist.net/anime/season/1926/summer"
+    },
+    {
+        "id": 399,
+        "slug": "fall-1926",
+        "season": "Fall 1926",
+        "url": "https://myanimelist.net/anime/season/1926/fall"
+    },
+    {
+        "id": 400,
+        "slug": "winter-1925",
+        "season": "Winter 1925",
+        "url": "https://myanimelist.net/anime/season/1925/winter"
+    },
+    {
+        "id": 401,
+        "slug": "spring-1925",
+        "season": "Spring 1925",
+        "url": "https://myanimelist.net/anime/season/1925/spring"
+    },
+    {
+        "id": 402,
+        "slug": "summer-1925",
+        "season": "Summer 1925",
+        "url": "https://myanimelist.net/anime/season/1925/summer"
+    },
+    {
+        "id": 403,
+        "slug": "fall-1925",
+        "season": "Fall 1925",
+        "url": "https://myanimelist.net/anime/season/1925/fall"
+    },
+    {
+        "id": 404,
+        "slug": "winter-1924",
+        "season": "Winter 1924",
+        "url": "https://myanimelist.net/anime/season/1924/winter"
+    },
+    {
+        "id": 405,
+        "slug": "spring-1924",
+        "season": "Spring 1924",
+        "url": "https://myanimelist.net/anime/season/1924/spring"
+    },
+    {
+        "id": 406,
+        "slug": "summer-1924",
+        "season": "Summer 1924",
+        "url": "https://myanimelist.net/anime/season/1924/summer"
+    },
+    {
+        "id": 407,
+        "slug": "fall-1924",
+        "season": "Fall 1924",
+        "url": "https://myanimelist.net/anime/season/1924/fall"
+    },
+    {
+        "id": 408,
+        "slug": "winter-1923",
+        "season": "Winter 1923",
+        "url": "https://myanimelist.net/anime/season/1923/winter"
+    },
+    {
+        "id": 409,
+        "slug": "spring-1923",
+        "season": "Spring 1923",
+        "url": "https://myanimelist.net/anime/season/1923/spring"
+    },
+    {
+        "id": 410,
+        "slug": "summer-1923",
+        "season": "Summer 1923",
+        "url": "https://myanimelist.net/anime/season/1923/summer"
+    },
+    {
+        "id": 411,
+        "slug": "fall-1923",
+        "season": "Fall 1923",
+        "url": "https://myanimelist.net/anime/season/1923/fall"
+    },
+    {
+        "id": 412,
+        "slug": "winter-1922",
+        "season": "Winter 1922",
+        "url": "https://myanimelist.net/anime/season/1922/winter"
+    },
+    {
+        "id": 413,
+        "slug": "spring-1922",
+        "season": "Spring 1922",
+        "url": "https://myanimelist.net/anime/season/1922/spring"
+    },
+    {
+        "id": 414,
+        "slug": "summer-1922",
+        "season": "Summer 1922",
+        "url": "https://myanimelist.net/anime/season/1922/summer"
+    },
+    {
+        "id": 415,
+        "slug": "fall-1922",
+        "season": "Fall 1922",
+        "url": "https://myanimelist.net/anime/season/1922/fall"
+    },
+    {
+        "id": 416,
+        "slug": "winter-1921",
+        "season": "Winter 1921",
+        "url": "https://myanimelist.net/anime/season/1921/winter"
+    },
+    {
+        "id": 417,
+        "slug": "spring-1921",
+        "season": "Spring 1921",
+        "url": "https://myanimelist.net/anime/season/1921/spring"
+    },
+    {
+        "id": 418,
+        "slug": "summer-1921",
+        "season": "Summer 1921",
+        "url": "https://myanimelist.net/anime/season/1921/summer"
+    },
+    {
+        "id": 419,
+        "slug": "fall-1921",
+        "season": "Fall 1921",
+        "url": "https://myanimelist.net/anime/season/1921/fall"
+    },
+    {
+        "id": 420,
+        "slug": "winter-1920",
+        "season": "Winter 1920",
+        "url": "https://myanimelist.net/anime/season/1920/winter"
+    },
+    {
+        "id": 421,
+        "slug": "spring-1920",
+        "season": "Spring 1920",
+        "url": "https://myanimelist.net/anime/season/1920/spring"
+    },
+    {
+        "id": 422,
+        "slug": "summer-1920",
+        "season": "Summer 1920",
+        "url": "https://myanimelist.net/anime/season/1920/summer"
+    },
+    {
+        "id": 423,
+        "slug": "fall-1920",
+        "season": "Fall 1920",
+        "url": "https://myanimelist.net/anime/season/1920/fall"
+    },
+    {
+        "id": 424,
+        "slug": "winter-1919",
+        "season": "Winter 1919",
+        "url": "https://myanimelist.net/anime/season/1919/winter"
+    },
+    {
+        "id": 425,
+        "slug": "spring-1919",
+        "season": "Spring 1919",
+        "url": "https://myanimelist.net/anime/season/1919/spring"
+    },
+    {
+        "id": 426,
+        "slug": "summer-1919",
+        "season": "Summer 1919",
+        "url": "https://myanimelist.net/anime/season/1919/summer"
+    },
+    {
+        "id": 427,
+        "slug": "fall-1919",
+        "season": "Fall 1919",
+        "url": "https://myanimelist.net/anime/season/1919/fall"
+    },
+    {
+        "id": 428,
+        "slug": "winter-1918",
+        "season": "Winter 1918",
+        "url": "https://myanimelist.net/anime/season/1918/winter"
+    },
+    {
+        "id": 429,
+        "slug": "spring-1918",
+        "season": "Spring 1918",
+        "url": "https://myanimelist.net/anime/season/1918/spring"
+    },
+    {
+        "id": 430,
+        "slug": "summer-1918",
+        "season": "Summer 1918",
+        "url": "https://myanimelist.net/anime/season/1918/summer"
+    },
+    {
+        "id": 431,
+        "slug": "fall-1918",
+        "season": "Fall 1918",
+        "url": "https://myanimelist.net/anime/season/1918/fall"
+    },
+    {
+        "id": 432,
+        "slug": "winter-1917",
+        "season": "Winter 1917",
+        "url": "https://myanimelist.net/anime/season/1917/winter"
+    },
+    {
+        "id": 433,
+        "slug": "spring-1917",
+        "season": "Spring 1917",
+        "url": "https://myanimelist.net/anime/season/1917/spring"
+    },
+    {
+        "id": 434,
+        "slug": "summer-1917",
+        "season": "Summer 1917",
+        "url": "https://myanimelist.net/anime/season/1917/summer"
+    },
+    {
+        "id": 435,
+        "slug": "fall-1917",
+        "season": "Fall 1917",
+        "url": "https://myanimelist.net/anime/season/1917/fall"
+    }
+]

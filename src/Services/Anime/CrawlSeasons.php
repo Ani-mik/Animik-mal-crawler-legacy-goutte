@@ -39,10 +39,15 @@ class CrawlSeasons extends BaseService
 
 		$idCounter = 1;
 
-		$rankings = $crawler->filter($selector . ' ' . 'tbody tr')->each(function ($node) use (&$idCounter) {
+		$rankings = $crawler->filter($selector . ' a')->each(function ($node) use (&$idCounter) {
+
+			$slug = $this->generateSlug(trim($node->text()));
 
 			return [
 			  'id' => $idCounter++,
+			  'slug' => $slug,
+			  'season' => trim($node->text()),
+			  'url' => $node->attr('href'),
 			];
 		});
 
