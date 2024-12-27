@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23c47111-4e28-4219-832d-2ad729f99ec4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Services/Anime/CrawlAnime.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Unit/CrawlAnimesTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/mal-crawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mal-crawler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/CrawlAnimeTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Facades/MalCrawler.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facades/MalCrawler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/MalCrawlerServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/CrawlAnimesTest.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +217,7 @@
       <workItem from="1735221235015" duration="3000" />
       <workItem from="1735221243272" duration="6187000" />
       <workItem from="1735228990261" duration="10980000" />
-      <workItem from="1735286374873" duration="3778000" />
+      <workItem from="1735286374873" duration="4149000" />
     </task>
     <servers />
   </component>
