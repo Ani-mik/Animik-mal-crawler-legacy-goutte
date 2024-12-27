@@ -1,0 +1,6202 @@
+[
+    {
+        "id": 1,
+        "malId": 1185,
+        "slug": "81-produce",
+        "name": "81 Produce",
+        "titlesCount": 33,
+        "link": "/anime/producer/1185/81_Produce"
+    },
+    {
+        "id": 2,
+        "malId": 1286,
+        "slug": "10gauge",
+        "name": "10Gauge",
+        "titlesCount": 10,
+        "link": "/anime/producer/1286/10Gauge"
+    },
+    {
+        "id": 3,
+        "malId": 2503,
+        "slug": "7doc",
+        "name": "7doc",
+        "titlesCount": 8,
+        "link": "/anime/producer/2503/7doc"
+    },
+    {
+        "id": 4,
+        "malId": 2696,
+        "slug": "100studio",
+        "name": "100studio",
+        "titlesCount": 5,
+        "link": "/anime/producer/2696/100studio"
+    },
+    {
+        "id": 5,
+        "malId": 2264,
+        "slug": "5-inc",
+        "name": "5 Inc.",
+        "titlesCount": 2,
+        "link": "/anime/producer/2264/5_Inc"
+    },
+    {
+        "id": 6,
+        "malId": 2137,
+        "slug": "1in",
+        "name": "1IN",
+        "titlesCount": 2,
+        "link": "/anime/producer/2137/1IN"
+    },
+    {
+        "id": 7,
+        "malId": 1079,
+        "slug": "3xcube",
+        "name": "3xCube",
+        "titlesCount": 2,
+        "link": "/anime/producer/1079/3xCube"
+    },
+    {
+        "id": 8,
+        "malId": 1838,
+        "slug": "33-collective",
+        "name": "33 Collective",
+        "titlesCount": 1,
+        "link": "/anime/producer/1838/33_Collective"
+    },
+    {
+        "id": 9,
+        "malId": 17,
+        "slug": "aniplex",
+        "name": "Aniplex",
+        "titlesCount": 645,
+        "link": "/anime/producer/17/Aniplex"
+    },
+    {
+        "id": 10,
+        "malId": 48,
+        "slug": "aic",
+        "name": "AIC",
+        "titlesCount": 257,
+        "link": "/anime/producer/48/AIC"
+    },
+    {
+        "id": 11,
+        "malId": 56,
+        "slug": "a-1-pictures",
+        "name": "A-1 Pictures",
+        "titlesCount": 254,
+        "link": "/anime/producer/56/A-1_Pictures"
+    },
+    {
+        "id": 12,
+        "malId": 2071,
+        "slug": "aqua-aris",
+        "name": "AQUA ARIS",
+        "titlesCount": 114,
+        "link": "/anime/producer/2071/AQUA_ARIS"
+    },
+    {
+        "id": 13,
+        "malId": 242,
+        "slug": "ashi-productions",
+        "name": "Ashi Productions",
+        "titlesCount": 98,
+        "link": "/anime/producer/242/Ashi_Productions"
+    },
+    {
+        "id": 14,
+        "malId": 60,
+        "slug": "actas",
+        "name": "Actas",
+        "titlesCount": 71,
+        "link": "/anime/producer/60/Actas"
+    },
+    {
+        "id": 15,
+        "malId": 406,
+        "slug": "asahi-production",
+        "name": "Asahi Production",
+        "titlesCount": 67,
+        "link": "/anime/producer/406/Asahi_Production"
+    },
+    {
+        "id": 16,
+        "malId": 8,
+        "slug": "artland",
+        "name": "Artland",
+        "titlesCount": 55,
+        "link": "/anime/producer/8/Artland"
+    },
+    {
+        "id": 17,
+        "malId": 179,
+        "slug": "acgt",
+        "name": "A.C.G.T.",
+        "titlesCount": 35,
+        "link": "/anime/producer/179/ACGT"
+    },
+    {
+        "id": 18,
+        "malId": 88,
+        "slug": "aic-asta",
+        "name": "AIC ASTA",
+        "titlesCount": 34,
+        "link": "/anime/producer/88/AIC_ASTA"
+    },
+    {
+        "id": 19,
+        "malId": 72,
+        "slug": "artmic",
+        "name": "Artmic",
+        "titlesCount": 34,
+        "link": "/anime/producer/72/Artmic"
+    },
+    {
+        "id": 20,
+        "malId": 1041,
+        "slug": "ai-addiction",
+        "name": "Ai Addiction",
+        "titlesCount": 30,
+        "link": "/anime/producer/1041/Ai_Addiction"
+    },
+    {
+        "id": 21,
+        "malId": 929,
+        "slug": "animation-do",
+        "name": "Animation Do",
+        "titlesCount": 30,
+        "link": "/anime/producer/929/Animation_Do"
+    },
+    {
+        "id": 22,
+        "malId": 77,
+        "slug": "appp",
+        "name": "APPP",
+        "titlesCount": 30,
+        "link": "/anime/producer/77/APPP"
+    },
+    {
+        "id": 23,
+        "malId": 1939,
+        "slug": "alpha-animation",
+        "name": "Alpha Animation",
+        "titlesCount": 22,
+        "link": "/anime/producer/1939/Alpha_Animation"
+    },
+    {
+        "id": 24,
+        "malId": 292,
+        "slug": "aic-plus-",
+        "name": "AIC PLUS+",
+        "titlesCount": 18,
+        "link": "/anime/producer/292/AIC_PLUS_"
+    },
+    {
+        "id": 25,
+        "malId": 579,
+        "slug": "at-2",
+        "name": "AT-2",
+        "titlesCount": 17,
+        "link": "/anime/producer/579/AT-2"
+    },
+    {
+        "id": 26,
+        "malId": 2034,
+        "slug": "akatsuki",
+        "name": "Akatsuki",
+        "titlesCount": 15,
+        "link": "/anime/producer/2034/Akatsuki"
+    },
+    {
+        "id": 27,
+        "malId": 1986,
+        "slug": "arma-bianca",
+        "name": "arma bianca",
+        "titlesCount": 15,
+        "link": "/anime/producer/1986/arma_bianca"
+    },
+    {
+        "id": 28,
+        "malId": 2506,
+        "slug": "ascendent-animation",
+        "name": "Ascendent Animation",
+        "titlesCount": 14,
+        "link": "/anime/producer/2506/Ascendent_Animation"
+    },
+    {
+        "id": 29,
+        "malId": 473,
+        "slug": "ascension",
+        "name": "Ascension",
+        "titlesCount": 14,
+        "link": "/anime/producer/473/Ascension"
+    },
+    {
+        "id": 30,
+        "malId": 1299,
+        "slug": "axsiz",
+        "name": "AXsiZ",
+        "titlesCount": 13,
+        "link": "/anime/producer/1299/AXsiZ"
+    },
+    {
+        "id": 31,
+        "malId": 1399,
+        "slug": "asura-film",
+        "name": "Asura Film",
+        "titlesCount": 11,
+        "link": "/anime/producer/1399/Asura_Film"
+    },
+    {
+        "id": 32,
+        "malId": 183,
+        "slug": "agent-21",
+        "name": "Agent 21",
+        "titlesCount": 10,
+        "link": "/anime/producer/183/Agent_21"
+    },
+    {
+        "id": 33,
+        "malId": 436,
+        "slug": "aic-build",
+        "name": "AIC Build",
+        "titlesCount": 9,
+        "link": "/anime/producer/436/AIC_Build"
+    },
+    {
+        "id": 34,
+        "malId": 386,
+        "slug": "animaruya",
+        "name": "Animaruya",
+        "titlesCount": 9,
+        "link": "/anime/producer/386/Animaruya"
+    },
+    {
+        "id": 35,
+        "malId": 2761,
+        "slug": "arcus",
+        "name": "ARCUS",
+        "titlesCount": 8,
+        "link": "/anime/producer/2761/ARCUS"
+    },
+    {
+        "id": 36,
+        "malId": 2505,
+        "slug": "adk-emotions-ny-inc",
+        "name": "ADK Emotions NY Inc.",
+        "titlesCount": 8,
+        "link": "/anime/producer/2505/ADK_Emotions_NY_Inc"
+    },
+    {
+        "id": 37,
+        "malId": 2085,
+        "slug": "acca-effe",
+        "name": "Acca effe",
+        "titlesCount": 8,
+        "link": "/anime/producer/2085/Acca_effe"
+    },
+    {
+        "id": 38,
+        "malId": 2548,
+        "slug": "abc-frontier",
+        "name": "ABC Frontier",
+        "titlesCount": 7,
+        "link": "/anime/producer/2548/ABC_Frontier"
+    },
+    {
+        "id": 39,
+        "malId": 1952,
+        "slug": "animation-staff-room",
+        "name": "Animation Staff Room",
+        "titlesCount": 7,
+        "link": "/anime/producer/1952/Animation_Staff_Room"
+    },
+    {
+        "id": 40,
+        "malId": 1306,
+        "slug": "aic-classic",
+        "name": "AIC Classic",
+        "titlesCount": 7,
+        "link": "/anime/producer/1306/AIC_Classic"
+    },
+    {
+        "id": 41,
+        "malId": 1257,
+        "slug": "a-real",
+        "name": "A-Real",
+        "titlesCount": 7,
+        "link": "/anime/producer/1257/A-Real"
+    },
+    {
+        "id": 42,
+        "malId": 420,
+        "slug": "acc-production",
+        "name": "ACC Production",
+        "titlesCount": 7,
+        "link": "/anime/producer/420/ACC_Production"
+    },
+    {
+        "id": 43,
+        "malId": 171,
+        "slug": "a-line",
+        "name": "A-Line",
+        "titlesCount": 7,
+        "link": "/anime/producer/171/A-Line"
+    },
+    {
+        "id": 44,
+        "malId": 1949,
+        "slug": "anon-pictures",
+        "name": "Anon Pictures",
+        "titlesCount": 6,
+        "link": "/anime/producer/1949/Anon_Pictures"
+    },
+    {
+        "id": 45,
+        "malId": 521,
+        "slug": "anpro",
+        "name": "Anpro",
+        "titlesCount": 6,
+        "link": "/anime/producer/521/Anpro"
+    },
+    {
+        "id": 46,
+        "malId": 2648,
+        "slug": "au-praxinoscope",
+        "name": "Au Praxinoscope",
+        "titlesCount": 5,
+        "link": "/anime/producer/2648/Au_Praxinoscope"
+    },
+    {
+        "id": 47,
+        "malId": 2298,
+        "slug": "atelier-pontdarc",
+        "name": "Atelier Pontdarc",
+        "titlesCount": 5,
+        "link": "/anime/producer/2298/Atelier_Pontdarc"
+    },
+    {
+        "id": 48,
+        "malId": 1983,
+        "slug": "anima-co",
+        "name": "Anima&Co.",
+        "titlesCount": 5,
+        "link": "/anime/producer/1983/Anima_Co"
+    },
+    {
+        "id": 49,
+        "malId": 2272,
+        "slug": "ac-bu",
+        "name": "AC-Bu",
+        "titlesCount": 4,
+        "link": "/anime/producer/2272/AC-Bu"
+    },
+    {
+        "id": 50,
+        "malId": 2255,
+        "slug": "aic-rights",
+        "name": "AIC RIGHTS",
+        "titlesCount": 4,
+        "link": "/anime/producer/2255/AIC_RIGHTS"
+    },
+    {
+        "id": 51,
+        "malId": 2881,
+        "slug": "andraft",
+        "name": "Andraft",
+        "titlesCount": 3,
+        "link": "/anime/producer/2881/Andraft"
+    },
+    {
+        "id": 52,
+        "malId": 2265,
+        "slug": "arect",
+        "name": "ARECT",
+        "titlesCount": 3,
+        "link": "/anime/producer/2265/ARECT"
+    },
+    {
+        "id": 53,
+        "malId": 1990,
+        "slug": "anime-friend",
+        "name": "Anime Friend",
+        "titlesCount": 3,
+        "link": "/anime/producer/1990/Anime_Friend"
+    },
+    {
+        "id": 54,
+        "malId": 1966,
+        "slug": "arch",
+        "name": "Arch",
+        "titlesCount": 3,
+        "link": "/anime/producer/1966/Arch"
+    },
+    {
+        "id": 55,
+        "malId": 2413,
+        "slug": "aion-studio",
+        "name": "AION Studio",
+        "titlesCount": 2,
+        "link": "/anime/producer/2413/AION_Studio"
+    },
+    {
+        "id": 56,
+        "malId": 2388,
+        "slug": "ai-yume-mai",
+        "name": "Ai Yume Mai",
+        "titlesCount": 2,
+        "link": "/anime/producer/2388/Ai_Yume_Mai"
+    },
+    {
+        "id": 57,
+        "malId": 2362,
+        "slug": "aiti-st",
+        "name": "Aiti St.",
+        "titlesCount": 2,
+        "link": "/anime/producer/2362/Aiti_St"
+    },
+    {
+        "id": 58,
+        "malId": 2355,
+        "slug": "alfred-imageworks",
+        "name": "Alfred Imageworks",
+        "titlesCount": 2,
+        "link": "/anime/producer/2355/Alfred_Imageworks"
+    },
+    {
+        "id": 59,
+        "malId": 2346,
+        "slug": "alice-production",
+        "name": "Alice Production",
+        "titlesCount": 2,
+        "link": "/anime/producer/2346/Alice_Production"
+    },
+    {
+        "id": 60,
+        "malId": 1282,
+        "slug": "arcturus",
+        "name": "Arcturus",
+        "titlesCount": 2,
+        "link": "/anime/producer/1282/Arcturus"
+    },
+    {
+        "id": 61,
+        "malId": 878,
+        "slug": "an-dercen",
+        "name": "An DerCen",
+        "titlesCount": 2,
+        "link": "/anime/producer/878/An_DerCen"
+    },
+    {
+        "id": 62,
+        "malId": 2870,
+        "slug": "alke",
+        "name": "Alke",
+        "titlesCount": 1,
+        "link": "/anime/producer/2870/Alke"
+    },
+    {
+        "id": 63,
+        "malId": 2749,
+        "slug": "anime-tokyo",
+        "name": "Anime Tokyo",
+        "titlesCount": 1,
+        "link": "/anime/producer/2749/Anime_Tokyo"
+    },
+    {
+        "id": 64,
+        "malId": 2613,
+        "slug": "aurora-animation",
+        "name": "Aurora Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2613/Aurora_Animation"
+    },
+    {
+        "id": 65,
+        "malId": 2551,
+        "slug": "animation-501",
+        "name": "Animation 501",
+        "titlesCount": 1,
+        "link": "/anime/producer/2551/Animation_501"
+    },
+    {
+        "id": 66,
+        "malId": 2514,
+        "slug": "aic-project",
+        "name": "AIC Project",
+        "titlesCount": 1,
+        "link": "/anime/producer/2514/AIC_Project"
+    },
+    {
+        "id": 67,
+        "malId": 2510,
+        "slug": "animix-project",
+        "name": "ANiMix Project",
+        "titlesCount": 1,
+        "link": "/anime/producer/2510/ANiMix_Project"
+    },
+    {
+        "id": 68,
+        "malId": 2482,
+        "slug": "atti-production",
+        "name": "Atti Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2482/Atti_Production"
+    },
+    {
+        "id": 69,
+        "malId": 2449,
+        "slug": "atorie-abc",
+        "name": "Atorie A.B.C.",
+        "titlesCount": 1,
+        "link": "/anime/producer/2449/Atorie_ABC"
+    },
+    {
+        "id": 70,
+        "malId": 2409,
+        "slug": "amineworks",
+        "name": "Amineworks",
+        "titlesCount": 1,
+        "link": "/anime/producer/2409/Amineworks"
+    },
+    {
+        "id": 71,
+        "malId": 2360,
+        "slug": "amarcord",
+        "name": "Amarcord",
+        "titlesCount": 1,
+        "link": "/anime/producer/2360/Amarcord"
+    },
+    {
+        "id": 72,
+        "malId": 2359,
+        "slug": "aiko",
+        "name": "Aiko",
+        "titlesCount": 1,
+        "link": "/anime/producer/2359/Aiko"
+    },
+    {
+        "id": 73,
+        "malId": 2254,
+        "slug": "alpha-pictures",
+        "name": "Alpha Pictures",
+        "titlesCount": 1,
+        "link": "/anime/producer/2254/Alpha_Pictures"
+    },
+    {
+        "id": 74,
+        "malId": 2079,
+        "slug": "animation-lab-japan",
+        "name": "Animation Lab Japan",
+        "titlesCount": 1,
+        "link": "/anime/producer/2079/Animation_Lab_Japan"
+    },
+    {
+        "id": 75,
+        "malId": 2020,
+        "slug": "ark",
+        "name": "Ark",
+        "titlesCount": 1,
+        "link": "/anime/producer/2020/Ark"
+    },
+    {
+        "id": 76,
+        "malId": 1999,
+        "slug": "albacrow",
+        "name": "Albacrow",
+        "titlesCount": 1,
+        "link": "/anime/producer/1999/Albacrow"
+    },
+    {
+        "id": 77,
+        "malId": 1951,
+        "slug": "anido-film",
+        "name": "ANIDO FILM",
+        "titlesCount": 1,
+        "link": "/anime/producer/1951/ANIDO_FILM"
+    },
+    {
+        "id": 78,
+        "malId": 1897,
+        "slug": "ankama-animations",
+        "name": "Ankama Animations",
+        "titlesCount": 1,
+        "link": "/anime/producer/1897/Ankama_Animations"
+    },
+    {
+        "id": 79,
+        "malId": 1867,
+        "slug": "aurum-production",
+        "name": "Aurum Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/1867/Aurum_Production"
+    },
+    {
+        "id": 80,
+        "malId": 1445,
+        "slug": "arcs-create",
+        "name": "Arcs Create",
+        "titlesCount": 1,
+        "link": "/anime/producer/1445/Arcs_Create"
+    },
+    {
+        "id": 81,
+        "malId": 425,
+        "slug": "aic-takarazuka",
+        "name": "AIC Takarazuka",
+        "titlesCount": 1,
+        "link": "/anime/producer/425/AIC_Takarazuka"
+    },
+    {
+        "id": 82,
+        "malId": 1414,
+        "slug": "bilibili",
+        "name": "bilibili",
+        "titlesCount": 269,
+        "link": "/anime/producer/1414/bilibili"
+    },
+    {
+        "id": 83,
+        "malId": 233,
+        "slug": "bandai-entertainment",
+        "name": "Bandai Entertainment",
+        "titlesCount": 203,
+        "link": "/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+        "id": 84,
+        "malId": 112,
+        "slug": "brains-base",
+        "name": "Brain's Base",
+        "titlesCount": 111,
+        "link": "/anime/producer/112/Brains_Base"
+    },
+    {
+        "id": 85,
+        "malId": 843,
+        "slug": "bs-fuji",
+        "name": "BS Fuji",
+        "titlesCount": 102,
+        "link": "/anime/producer/843/BS_Fuji"
+    },
+    {
+        "id": 86,
+        "malId": 2425,
+        "slug": "bandai-namco-music-live",
+        "name": "Bandai Namco Music Live",
+        "titlesCount": 66,
+        "link": "/anime/producer/2425/Bandai_Namco_Music_Live"
+    },
+    {
+        "id": 87,
+        "malId": 1680,
+        "slug": "bs-ntv",
+        "name": "BS NTV",
+        "titlesCount": 61,
+        "link": "/anime/producer/1680/BS_NTV"
+    },
+    {
+        "id": 88,
+        "malId": 2530,
+        "slug": "blue-bread",
+        "name": "Blue bread",
+        "titlesCount": 37,
+        "link": "/anime/producer/2530/Blue_bread"
+    },
+    {
+        "id": 89,
+        "malId": 397,
+        "slug": "bridge",
+        "name": "Bridge",
+        "titlesCount": 33,
+        "link": "/anime/producer/397/Bridge"
+    },
+    {
+        "id": 90,
+        "malId": 1350,
+        "slug": "bcmay-pictures",
+        "name": "B.CMAY PICTURES",
+        "titlesCount": 28,
+        "link": "/anime/producer/1350/BCMAY_PICTURES"
+    },
+    {
+        "id": 91,
+        "malId": 1466,
+        "slug": "bandai-visual-usa",
+        "name": "Bandai Visual USA",
+        "titlesCount": 21,
+        "link": "/anime/producer/1466/Bandai_Visual_USA"
+    },
+    {
+        "id": 92,
+        "malId": 1980,
+        "slug": "big-firebird-culture",
+        "name": "Big Firebird Culture",
+        "titlesCount": 17,
+        "link": "/anime/producer/1980/Big_Firebird_Culture"
+    },
+    {
+        "id": 93,
+        "malId": 1547,
+        "slug": "blade",
+        "name": "Blade",
+        "titlesCount": 17,
+        "link": "/anime/producer/1547/Blade"
+    },
+    {
+        "id": 94,
+        "malId": 1487,
+        "slug": "bouncy",
+        "name": "Bouncy",
+        "titlesCount": 16,
+        "link": "/anime/producer/1487/Bouncy"
+    },
+    {
+        "id": 95,
+        "malId": 1722,
+        "slug": "bibury-animation-studios",
+        "name": "Bibury Animation Studios",
+        "titlesCount": 15,
+        "link": "/anime/producer/1722/Bibury_Animation_Studios"
+    },
+    {
+        "id": 96,
+        "malId": 2055,
+        "slug": "byment",
+        "name": "BYMENT",
+        "titlesCount": 11,
+        "link": "/anime/producer/2055/BYMENT"
+    },
+    {
+        "id": 97,
+        "malId": 1385,
+        "slug": "blue-cat",
+        "name": "Blue Cat",
+        "titlesCount": 10,
+        "link": "/anime/producer/1385/Blue_Cat"
+    },
+    {
+        "id": 98,
+        "malId": 2049,
+        "slug": "bomb-cute-bomb",
+        "name": "BOMB! CUTE! BOMB!",
+        "titlesCount": 8,
+        "link": "/anime/producer/2049/BOMB_CUTE_BOMB"
+    },
+    {
+        "id": 99,
+        "malId": 1469,
+        "slug": "bs-tv-tokyo",
+        "name": "BS TV Tokyo",
+        "titlesCount": 8,
+        "link": "/anime/producer/1469/BS_TV_Tokyo"
+    },
+    {
+        "id": 100,
+        "malId": 1984,
+        "slug": "bakken-record",
+        "name": "Bakken Record",
+        "titlesCount": 6,
+        "link": "/anime/producer/1984/Bakken_Record"
+    },
+    {
+        "id": 101,
+        "malId": 2674,
+        "slug": "bug-films",
+        "name": "BUG FILMS",
+        "titlesCount": 3,
+        "link": "/anime/producer/2674/BUG_FILMS"
+    },
+    {
+        "id": 102,
+        "malId": 1811,
+        "slug": "boyan-pictures",
+        "name": "Boyan Pictures",
+        "titlesCount": 3,
+        "link": "/anime/producer/1811/Boyan_Pictures"
+    },
+    {
+        "id": 103,
+        "malId": 1462,
+        "slug": "b-t",
+        "name": "B&T",
+        "titlesCount": 3,
+        "link": "/anime/producer/1462/B_T"
+    },
+    {
+        "id": 104,
+        "malId": 2765,
+        "slug": "bebow",
+        "name": "Bebow",
+        "titlesCount": 2,
+        "link": "/anime/producer/2765/Bebow"
+    },
+    {
+        "id": 105,
+        "malId": 2358,
+        "slug": "big-wing",
+        "name": "Big Wing",
+        "titlesCount": 2,
+        "link": "/anime/producer/2358/Big_Wing"
+    },
+    {
+        "id": 106,
+        "malId": 2325,
+        "slug": "bibury-animation-cg",
+        "name": "Bibury Animation CG",
+        "titlesCount": 2,
+        "link": "/anime/producer/2325/Bibury_Animation_CG"
+    },
+    {
+        "id": 107,
+        "malId": 2301,
+        "slug": "borutong",
+        "name": "Borutong",
+        "titlesCount": 2,
+        "link": "/anime/producer/2301/Borutong"
+    },
+    {
+        "id": 108,
+        "malId": 1279,
+        "slug": "buemon",
+        "name": "Buemon",
+        "titlesCount": 2,
+        "link": "/anime/producer/1279/Buemon"
+    },
+    {
+        "id": 109,
+        "malId": 3044,
+        "slug": "bellnox-films",
+        "name": "Bellnox Films",
+        "titlesCount": 1,
+        "link": "/anime/producer/3044/Bellnox_Films"
+    },
+    {
+        "id": 110,
+        "malId": 2875,
+        "slug": "blaze-studio",
+        "name": "Blaze Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2875/Blaze_Studio"
+    },
+    {
+        "id": 111,
+        "malId": 2842,
+        "slug": "big-pine-animation-studio",
+        "name": "Big Pine Animation Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2842/Big_Pine_Animation_Studio"
+    },
+    {
+        "id": 112,
+        "malId": 2598,
+        "slug": "bigcat-studio",
+        "name": "Bigcat Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2598/Bigcat_Studio"
+    },
+    {
+        "id": 113,
+        "malId": 2543,
+        "slug": "blue-moon-studio-inc",
+        "name": "Blue Moon Studio Inc.",
+        "titlesCount": 1,
+        "link": "/anime/producer/2543/Blue_Moon_Studio_Inc"
+    },
+    {
+        "id": 114,
+        "malId": 2486,
+        "slug": "blue-note",
+        "name": "Blue Note",
+        "titlesCount": 1,
+        "link": "/anime/producer/2486/Blue_Note"
+    },
+    {
+        "id": 115,
+        "malId": 2082,
+        "slug": "benlai-pictures",
+        "name": "Benlai Pictures",
+        "titlesCount": 1,
+        "link": "/anime/producer/2082/Benlai_Pictures"
+    },
+    {
+        "id": 116,
+        "malId": 1887,
+        "slug": "brio-animation",
+        "name": "Brio Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/1887/Brio_Animation"
+    },
+    {
+        "id": 117,
+        "malId": 1341,
+        "slug": "beijing-sunchime-happy-culture-company",
+        "name": "Beijing Sunchime Happy Culture Company",
+        "titlesCount": 1,
+        "link": "/anime/producer/1341/Beijing_Sunchime_Happy_Culture_Company"
+    },
+    {
+        "id": 118,
+        "malId": 1326,
+        "slug": "bitgang",
+        "name": "Bitgang",
+        "titlesCount": 1,
+        "link": "/anime/producer/1326/Bitgang"
+    },
+    {
+        "id": 119,
+        "malId": 2083,
+        "slug": "bianyue-culture-",
+        "name": "Bianyue Culture",
+        "titlesCount": 0,
+        "link": "/anime/producer/2083/Bianyue_Culture_"
+    },
+    {
+        "id": 120,
+        "malId": 1706,
+        "slug": "beijing-rocen-digital",
+        "name": "Beijing Rocen Digital",
+        "titlesCount": 0,
+        "link": "/anime/producer/1706/Beijing_Rocen_Digital"
+    },
+    {
+        "id": 121,
+        "malId": 1195,
+        "slug": "creators-in-pack",
+        "name": "Creators in Pack",
+        "titlesCount": 30,
+        "link": "/anime/producer/1195/Creators_in_Pack"
+    },
+    {
+        "id": 122,
+        "malId": 1784,
+        "slug": "crunchyroll-sc-anime-fund",
+        "name": "Crunchyroll SC Anime Fund",
+        "titlesCount": 28,
+        "link": "/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+    },
+    {
+        "id": 123,
+        "malId": 605,
+        "slug": "c2c",
+        "name": "C2C",
+        "titlesCount": 26,
+        "link": "/anime/producer/605/C2C"
+    },
+    {
+        "id": 124,
+        "malId": 1075,
+        "slug": "c-station",
+        "name": "C-Station",
+        "titlesCount": 18,
+        "link": "/anime/producer/1075/C-Station"
+    },
+    {
+        "id": 125,
+        "malId": 1893,
+        "slug": "cygamespictures",
+        "name": "CygamesPictures",
+        "titlesCount": 16,
+        "link": "/anime/producer/1893/CygamesPictures"
+    },
+    {
+        "id": 126,
+        "malId": 519,
+        "slug": "collaboration-works",
+        "name": "Collaboration Works",
+        "titlesCount": 14,
+        "link": "/anime/producer/519/Collaboration_Works"
+    },
+    {
+        "id": 127,
+        "malId": 1357,
+        "slug": "craftar-studios",
+        "name": "Craftar Studios",
+        "titlesCount": 11,
+        "link": "/anime/producer/1357/Craftar_Studios"
+    },
+    {
+        "id": 128,
+        "malId": 2684,
+        "slug": "chocolate",
+        "name": "CHOCOLATE",
+        "titlesCount": 9,
+        "link": "/anime/producer/2684/CHOCOLATE"
+    },
+    {
+        "id": 129,
+        "malId": 1876,
+        "slug": "clap",
+        "name": "CLAP",
+        "titlesCount": 9,
+        "link": "/anime/producer/1876/CLAP"
+    },
+    {
+        "id": 130,
+        "malId": 2600,
+        "slug": "cloud-hearts",
+        "name": "Cloud Hearts",
+        "titlesCount": 8,
+        "link": "/anime/producer/2600/Cloud_Hearts"
+    },
+    {
+        "id": 131,
+        "malId": 1639,
+        "slug": "chiptune",
+        "name": "Chiptune",
+        "titlesCount": 7,
+        "link": "/anime/producer/1639/Chiptune"
+    },
+    {
+        "id": 132,
+        "malId": 1322,
+        "slug": "creative-power-entertaining",
+        "name": "Creative Power Entertaining",
+        "titlesCount": 7,
+        "link": "/anime/producer/1322/Creative_Power_Entertaining"
+    },
+    {
+        "id": 133,
+        "malId": 1460,
+        "slug": "coastline-animation-studio",
+        "name": "Coastline Animation Studio",
+        "titlesCount": 6,
+        "link": "/anime/producer/1460/Coastline_Animation_Studio"
+    },
+    {
+        "id": 134,
+        "malId": 2660,
+        "slug": "cuka",
+        "name": "CUKA",
+        "titlesCount": 5,
+        "link": "/anime/producer/2660/CUKA"
+    },
+    {
+        "id": 135,
+        "malId": 2701,
+        "slug": "cmc-media",
+        "name": "CMC Media",
+        "titlesCount": 4,
+        "link": "/anime/producer/2701/CMC_Media"
+    },
+    {
+        "id": 136,
+        "malId": 1795,
+        "slug": "cucuri",
+        "name": "CUCURI",
+        "titlesCount": 4,
+        "link": "/anime/producer/1795/CUCURI"
+    },
+    {
+        "id": 137,
+        "malId": 2729,
+        "slug": "canon-recordings",
+        "name": "CANON RECORDINGS",
+        "titlesCount": 3,
+        "link": "/anime/producer/2729/CANON_RECORDINGS"
+    },
+    {
+        "id": 138,
+        "malId": 2679,
+        "slug": "cogitoworks",
+        "name": "cogitoworks",
+        "titlesCount": 3,
+        "link": "/anime/producer/2679/cogitoworks"
+    },
+    {
+        "id": 139,
+        "malId": 2323,
+        "slug": "cafe-de-jeilhouse",
+        "name": "Cafe de Jeilhouse",
+        "titlesCount": 3,
+        "link": "/anime/producer/2323/Cafe_de_Jeilhouse"
+    },
+    {
+        "id": 140,
+        "malId": 1662,
+        "slug": "creators-dot-com",
+        "name": "Creators Dot Com",
+        "titlesCount": 3,
+        "link": "/anime/producer/1662/Creators_Dot_Com"
+    },
+    {
+        "id": 141,
+        "malId": 2914,
+        "slug": "creative-house-pocket",
+        "name": "Creative House Pocket",
+        "titlesCount": 2,
+        "link": "/anime/producer/2914/Creative_House_Pocket"
+    },
+    {
+        "id": 142,
+        "malId": 2627,
+        "slug": "china-south-angel",
+        "name": "China South Angel",
+        "titlesCount": 2,
+        "link": "/anime/producer/2627/China_South_Angel"
+    },
+    {
+        "id": 143,
+        "malId": 2594,
+        "slug": "cd-projekt-red",
+        "name": "CD Projekt Red",
+        "titlesCount": 2,
+        "link": "/anime/producer/2594/CD_Projekt_Red"
+    },
+    {
+        "id": 144,
+        "malId": 2574,
+        "slug": "circus-production",
+        "name": "Circus Production",
+        "titlesCount": 2,
+        "link": "/anime/producer/2574/Circus_Production"
+    },
+    {
+        "id": 145,
+        "malId": 2340,
+        "slug": "cutie-bee",
+        "name": "Cutie Bee",
+        "titlesCount": 2,
+        "link": "/anime/producer/2340/Cutie_Bee"
+    },
+    {
+        "id": 146,
+        "malId": 1642,
+        "slug": "circle-tribute",
+        "name": "Circle Tribute",
+        "titlesCount": 2,
+        "link": "/anime/producer/1642/Circle_Tribute"
+    },
+    {
+        "id": 147,
+        "malId": 2972,
+        "slug": "cocktail-media",
+        "name": "Cocktail Media",
+        "titlesCount": 1,
+        "link": "/anime/producer/2972/Cocktail_Media"
+    },
+    {
+        "id": 148,
+        "malId": 2552,
+        "slug": "c-s-production",
+        "name": "C&S Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2552/C_S_Production"
+    },
+    {
+        "id": 149,
+        "malId": 2450,
+        "slug": "c-and-r",
+        "name": "C and R",
+        "titlesCount": 1,
+        "link": "/anime/producer/2450/C_and_R"
+    },
+    {
+        "id": 150,
+        "malId": 2390,
+        "slug": "concept-films",
+        "name": "Concept Films",
+        "titlesCount": 1,
+        "link": "/anime/producer/2390/Concept_Films"
+    },
+    {
+        "id": 151,
+        "malId": 1384,
+        "slug": "cinepix",
+        "name": "CinePix",
+        "titlesCount": 1,
+        "link": "/anime/producer/1384/CinePix"
+    },
+    {
+        "id": 152,
+        "malId": 2481,
+        "slug": "chimu-jika-hatsuden",
+        "name": "Chimu Jika Hatsuden",
+        "titlesCount": 0,
+        "link": "/anime/producer/2481/Chimu_Jika_Hatsuden"
+    },
+    {
+        "id": 153,
+        "malId": 467,
+        "slug": "discotek-media",
+        "name": "Discotek Media",
+        "titlesCount": 540,
+        "link": "/anime/producer/467/Discotek_Media"
+    },
+    {
+        "id": 154,
+        "malId": 276,
+        "slug": "dle",
+        "name": "DLE",
+        "titlesCount": 220,
+        "link": "/anime/producer/276/DLE"
+    },
+    {
+        "id": 155,
+        "malId": 51,
+        "slug": "diomed%c3%a9a",
+        "name": "Diomed\u00e9a",
+        "titlesCount": 54,
+        "link": "/anime/producer/51/Diomed%C3%A9a"
+    },
+    {
+        "id": 156,
+        "malId": 417,
+        "slug": "disney-platform-distribution",
+        "name": "Disney Platform Distribution",
+        "titlesCount": 23,
+        "link": "/anime/producer/417/Disney_Platform_Distribution"
+    },
+    {
+        "id": 157,
+        "malId": 1673,
+        "slug": "dmmfutureworks",
+        "name": "DMM.futureworks",
+        "titlesCount": 21,
+        "link": "/anime/producer/1673/DMMfutureworks"
+    },
+    {
+        "id": 158,
+        "malId": 1025,
+        "slug": "dongwoo-a-e",
+        "name": "Dongwoo A&E",
+        "titlesCount": 20,
+        "link": "/anime/producer/1025/Dongwoo_A_E"
+    },
+    {
+        "id": 159,
+        "malId": 1328,
+        "slug": "decovocal",
+        "name": "Decovocal",
+        "titlesCount": 13,
+        "link": "/anime/producer/1328/Decovocal"
+    },
+    {
+        "id": 160,
+        "malId": 1111,
+        "slug": "dandelion-animation-studio",
+        "name": "DandeLion Animation Studio",
+        "titlesCount": 13,
+        "link": "/anime/producer/1111/DandeLion_Animation_Studio"
+    },
+    {
+        "id": 161,
+        "malId": 228,
+        "slug": "daewon-media",
+        "name": "Daewon Media",
+        "titlesCount": 12,
+        "link": "/anime/producer/228/Daewon_Media"
+    },
+    {
+        "id": 162,
+        "malId": 2317,
+        "slug": "dream-entertainment",
+        "name": "Dream Entertainment",
+        "titlesCount": 11,
+        "link": "/anime/producer/2317/Dream_Entertainment"
+    },
+    {
+        "id": 163,
+        "malId": 1263,
+        "slug": "dynamo-pictures",
+        "name": "Dynamo Pictures",
+        "titlesCount": 9,
+        "link": "/anime/producer/1263/Dynamo_Pictures"
+    },
+    {
+        "id": 164,
+        "malId": 1879,
+        "slug": "dangun-pictures",
+        "name": "Dangun Pictures",
+        "titlesCount": 7,
+        "link": "/anime/producer/1879/Dangun_Pictures"
+    },
+    {
+        "id": 165,
+        "malId": 2604,
+        "slug": "dc-impression-vision",
+        "name": "DC Impression Vision",
+        "titlesCount": 6,
+        "link": "/anime/producer/2604/DC_Impression_Vision"
+    },
+    {
+        "id": 166,
+        "malId": 1575,
+        "slug": "dr-movie",
+        "name": "DR Movie",
+        "titlesCount": 6,
+        "link": "/anime/producer/1575/DR_Movie"
+    },
+    {
+        "id": 167,
+        "malId": 269,
+        "slug": "dic-entertainment",
+        "name": "DiC Entertainment",
+        "titlesCount": 5,
+        "link": "/anime/producer/269/DiC_Entertainment"
+    },
+    {
+        "id": 168,
+        "malId": 2319,
+        "slug": "datama-film",
+        "name": "Datama Film",
+        "titlesCount": 4,
+        "link": "/anime/producer/2319/Datama_Film"
+    },
+    {
+        "id": 169,
+        "malId": 1848,
+        "slug": "dancing-cg-studio",
+        "name": "Dancing CG Studio",
+        "titlesCount": 4,
+        "link": "/anime/producer/1848/Dancing_CG_Studio"
+    },
+    {
+        "id": 170,
+        "malId": 1796,
+        "slug": "digital-network-animation",
+        "name": "Digital Network Animation",
+        "titlesCount": 4,
+        "link": "/anime/producer/1796/Digital_Network_Animation"
+    },
+    {
+        "id": 171,
+        "malId": 2586,
+        "slug": "drock-art-",
+        "name": "D.ROCK-ART",
+        "titlesCount": 3,
+        "link": "/anime/producer/2586/DROCK-ART_"
+    },
+    {
+        "id": 172,
+        "malId": 2046,
+        "slug": "dazzling-star",
+        "name": "Dazzling Star",
+        "titlesCount": 3,
+        "link": "/anime/producer/2046/Dazzling_Star"
+    },
+    {
+        "id": 173,
+        "malId": 1661,
+        "slug": "drop",
+        "name": "drop",
+        "titlesCount": 3,
+        "link": "/anime/producer/1661/drop"
+    },
+    {
+        "id": 174,
+        "malId": 2623,
+        "slug": "dyna-method",
+        "name": "Dyna Method",
+        "titlesCount": 2,
+        "link": "/anime/producer/2623/Dyna_Method"
+    },
+    {
+        "id": 175,
+        "malId": 2133,
+        "slug": "djinn-power",
+        "name": "Djinn Power",
+        "titlesCount": 2,
+        "link": "/anime/producer/2133/Djinn_Power"
+    },
+    {
+        "id": 176,
+        "malId": 1513,
+        "slug": "dongyang-animation",
+        "name": "Dongyang Animation",
+        "titlesCount": 2,
+        "link": "/anime/producer/1513/Dongyang_Animation"
+    },
+    {
+        "id": 177,
+        "malId": 1512,
+        "slug": "dai-ichi-douga",
+        "name": "Dai-Ichi Douga",
+        "titlesCount": 2,
+        "link": "/anime/producer/1512/Dai-Ichi_Douga"
+    },
+    {
+        "id": 178,
+        "malId": 2877,
+        "slug": "dart-shtajio",
+        "name": "D'ART Shtajio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2877/DART_Shtajio"
+    },
+    {
+        "id": 179,
+        "malId": 2584,
+        "slug": "daysview-animation",
+        "name": "Daysview Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2584/Daysview_Animation"
+    },
+    {
+        "id": 180,
+        "malId": 2558,
+        "slug": "delpic",
+        "name": "Delpic",
+        "titlesCount": 1,
+        "link": "/anime/producer/2558/Delpic"
+    },
+    {
+        "id": 181,
+        "malId": 2542,
+        "slug": "days",
+        "name": "Days",
+        "titlesCount": 1,
+        "link": "/anime/producer/2542/Days"
+    },
+    {
+        "id": 182,
+        "malId": 2275,
+        "slug": "drawing-and-manual",
+        "name": "Drawing and Manual",
+        "titlesCount": 1,
+        "link": "/anime/producer/2275/Drawing_and_Manual"
+    },
+    {
+        "id": 183,
+        "malId": 2241,
+        "slug": "dawn-animation",
+        "name": "Dawn Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2241/Dawn_Animation"
+    },
+    {
+        "id": 184,
+        "malId": 1940,
+        "slug": "da-huoniao-donghua",
+        "name": "Da Huoniao Donghua",
+        "titlesCount": 1,
+        "link": "/anime/producer/1940/Da_Huoniao_Donghua"
+    },
+    {
+        "id": 185,
+        "malId": 191,
+        "slug": "eiken",
+        "name": "Eiken",
+        "titlesCount": 51,
+        "link": "/anime/producer/191/Eiken"
+    },
+    {
+        "id": 186,
+        "malId": 1522,
+        "slug": "echoes",
+        "name": "Echoes",
+        "titlesCount": 26,
+        "link": "/anime/producer/1522/Echoes"
+    },
+    {
+        "id": 187,
+        "malId": 154,
+        "slug": "e-g-films",
+        "name": "E&G Films",
+        "titlesCount": 22,
+        "link": "/anime/producer/154/E_G_Films"
+    },
+    {
+        "id": 188,
+        "malId": 1974,
+        "slug": "engi",
+        "name": "ENGI",
+        "titlesCount": 20,
+        "link": "/anime/producer/1974/ENGI"
+    },
+    {
+        "id": 189,
+        "malId": 354,
+        "slug": "encourage-films",
+        "name": "Encourage Films",
+        "titlesCount": 18,
+        "link": "/anime/producer/354/Encourage_Films"
+    },
+    {
+        "id": 190,
+        "malId": 1351,
+        "slug": "edge",
+        "name": "EDGE",
+        "titlesCount": 11,
+        "link": "/anime/producer/1351/EDGE"
+    },
+    {
+        "id": 191,
+        "malId": 1991,
+        "slug": "enishiya",
+        "name": "Enishiya",
+        "titlesCount": 10,
+        "link": "/anime/producer/1991/Enishiya"
+    },
+    {
+        "id": 192,
+        "malId": 1530,
+        "slug": "emon",
+        "name": "Emon",
+        "titlesCount": 9,
+        "link": "/anime/producer/1530/Emon"
+    },
+    {
+        "id": 193,
+        "malId": 2455,
+        "slug": "east-fish-studio",
+        "name": "East Fish Studio",
+        "titlesCount": 8,
+        "link": "/anime/producer/2455/East_Fish_Studio"
+    },
+    {
+        "id": 194,
+        "malId": 2406,
+        "slug": "eallin",
+        "name": "Eallin",
+        "titlesCount": 8,
+        "link": "/anime/producer/2406/Eallin"
+    },
+    {
+        "id": 195,
+        "malId": 2928,
+        "slug": "elias",
+        "name": "Elias",
+        "titlesCount": 4,
+        "link": "/anime/producer/2928/Elias"
+    },
+    {
+        "id": 196,
+        "malId": 1794,
+        "slug": "ekachi-epilka",
+        "name": "EKACHI EPILKA",
+        "titlesCount": 4,
+        "link": "/anime/producer/1794/EKACHI_EPILKA"
+    },
+    {
+        "id": 197,
+        "malId": 1433,
+        "slug": "ekura-animal",
+        "name": "Ekura Animal",
+        "titlesCount": 4,
+        "link": "/anime/producer/1433/Ekura_Animal"
+    },
+    {
+        "id": 198,
+        "malId": 593,
+        "slug": "egg",
+        "name": "Egg",
+        "titlesCount": 4,
+        "link": "/anime/producer/593/Egg"
+    },
+    {
+        "id": 199,
+        "malId": 2635,
+        "slug": "escape-velocity-animation",
+        "name": "Escape Velocity Animation",
+        "titlesCount": 3,
+        "link": "/anime/producer/2635/Escape_Velocity_Animation"
+    },
+    {
+        "id": 200,
+        "malId": 2041,
+        "slug": "enjin-productions",
+        "name": "Enjin Productions",
+        "titlesCount": 3,
+        "link": "/anime/producer/2041/Enjin_Productions"
+    },
+    {
+        "id": 201,
+        "malId": 1864,
+        "slug": "ez%cf%8cla",
+        "name": "Ez\u03ccla",
+        "titlesCount": 3,
+        "link": "/anime/producer/1864/Ez%CF%8Cla"
+    },
+    {
+        "id": 202,
+        "malId": 2400,
+        "slug": "executive-decision",
+        "name": "Executive Decision",
+        "titlesCount": 2,
+        "link": "/anime/producer/2400/Executive_Decision"
+    },
+    {
+        "id": 203,
+        "malId": 2399,
+        "slug": "eshoya-honpo",
+        "name": "Eshoya Honpo",
+        "titlesCount": 2,
+        "link": "/anime/producer/2399/Eshoya_Honpo"
+    },
+    {
+        "id": 204,
+        "malId": 2714,
+        "slug": "evg",
+        "name": "evg",
+        "titlesCount": 1,
+        "link": "/anime/producer/2714/evg"
+    },
+    {
+        "id": 205,
+        "malId": 2494,
+        "slug": "enzo-animation",
+        "name": "Enzo Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2494/Enzo_Animation"
+    },
+    {
+        "id": 206,
+        "malId": 2151,
+        "slug": "ekakiya",
+        "name": "Ekakiya",
+        "titlesCount": 1,
+        "link": "/anime/producer/2151/Ekakiya"
+    },
+    {
+        "id": 207,
+        "malId": 2114,
+        "slug": "ether-kitten",
+        "name": "Ether Kitten",
+        "titlesCount": 1,
+        "link": "/anime/producer/2114/Ether_Kitten"
+    },
+    {
+        "id": 208,
+        "malId": 1689,
+        "slug": "e-notion",
+        "name": "e-notion",
+        "titlesCount": 1,
+        "link": "/anime/producer/1689/e-notion"
+    },
+    {
+        "id": 209,
+        "malId": 2485,
+        "slug": "ezo-kobo",
+        "name": "Ezo Kobo",
+        "titlesCount": 0,
+        "link": "/anime/producer/2485/Ezo_Kobo"
+    },
+    {
+        "id": 210,
+        "malId": 91,
+        "slug": "feel",
+        "name": "feel.",
+        "titlesCount": 76,
+        "link": "/anime/producer/91/feel"
+    },
+    {
+        "id": 211,
+        "malId": 866,
+        "slug": "fanworks",
+        "name": "Fanworks",
+        "titlesCount": 64,
+        "link": "/anime/producer/866/Fanworks"
+    },
+    {
+        "id": 212,
+        "malId": 2076,
+        "slug": "fenz",
+        "name": "Fenz",
+        "titlesCount": 22,
+        "link": "/anime/producer/2076/Fenz"
+    },
+    {
+        "id": 213,
+        "malId": 2067,
+        "slug": "flat-studio",
+        "name": "Flat Studio",
+        "titlesCount": 20,
+        "link": "/anime/producer/2067/Flat_Studio"
+    },
+    {
+        "id": 214,
+        "malId": 1440,
+        "slug": "felix-film",
+        "name": "Felix Film",
+        "titlesCount": 16,
+        "link": "/anime/producer/1440/Felix_Film"
+    },
+    {
+        "id": 215,
+        "malId": 1556,
+        "slug": "fuji-creative",
+        "name": "Fuji Creative",
+        "titlesCount": 13,
+        "link": "/anime/producer/1556/Fuji_Creative"
+    },
+    {
+        "id": 216,
+        "malId": 69,
+        "slug": "front-line",
+        "name": "Front Line",
+        "titlesCount": 9,
+        "link": "/anime/producer/69/Front_Line"
+    },
+    {
+        "id": 217,
+        "malId": 2540,
+        "slug": "fever-creations",
+        "name": "Fever Creations",
+        "titlesCount": 2,
+        "link": "/anime/producer/2540/Fever_Creations"
+    },
+    {
+        "id": 218,
+        "malId": 2658,
+        "slug": "flag-co",
+        "name": "flag Co.",
+        "titlesCount": 1,
+        "link": "/anime/producer/2658/flag_Co"
+    },
+    {
+        "id": 219,
+        "malId": 2412,
+        "slug": "funny-movie",
+        "name": "FUNNY MOVIE",
+        "titlesCount": 1,
+        "link": "/anime/producer/2412/FUNNY_MOVIE"
+    },
+    {
+        "id": 220,
+        "malId": 1459,
+        "slug": "geneon-entertainment-usa",
+        "name": "Geneon Entertainment USA",
+        "titlesCount": 188,
+        "link": "/anime/producer/1459/Geneon_Entertainment_USA"
+    },
+    {
+        "id": 221,
+        "malId": 3,
+        "slug": "gonzo",
+        "name": "Gonzo",
+        "titlesCount": 144,
+        "link": "/anime/producer/3/Gonzo"
+    },
+    {
+        "id": 222,
+        "malId": 86,
+        "slug": "group-tac",
+        "name": "Group TAC",
+        "titlesCount": 131,
+        "link": "/anime/producer/86/Group_TAC"
+    },
+    {
+        "id": 223,
+        "malId": 1524,
+        "slug": "geidai-animation",
+        "name": "Geidai Animation",
+        "titlesCount": 103,
+        "link": "/anime/producer/1524/Geidai_Animation"
+    },
+    {
+        "id": 224,
+        "malId": 6,
+        "slug": "gainax",
+        "name": "Gainax",
+        "titlesCount": 84,
+        "link": "/anime/producer/6/Gainax"
+    },
+    {
+        "id": 225,
+        "malId": 31,
+        "slug": "geneon-universal-entertainment",
+        "name": "Geneon Universal Entertainment",
+        "titlesCount": 47,
+        "link": "/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+        "id": 226,
+        "malId": 400,
+        "slug": "gathering",
+        "name": "Gathering",
+        "titlesCount": 43,
+        "link": "/anime/producer/400/Gathering"
+    },
+    {
+        "id": 227,
+        "malId": 152,
+        "slug": "green-bunny",
+        "name": "Green Bunny",
+        "titlesCount": 41,
+        "link": "/anime/producer/152/Green_Bunny"
+    },
+    {
+        "id": 228,
+        "malId": 309,
+        "slug": "gohands",
+        "name": "GoHands",
+        "titlesCount": 37,
+        "link": "/anime/producer/309/GoHands"
+    },
+    {
+        "id": 229,
+        "malId": 721,
+        "slug": "gansis",
+        "name": "GANSIS",
+        "titlesCount": 29,
+        "link": "/anime/producer/721/GANSIS"
+    },
+    {
+        "id": 230,
+        "malId": 1857,
+        "slug": "geek-toys",
+        "name": "Geek Toys",
+        "titlesCount": 21,
+        "link": "/anime/producer/1857/Geek_Toys"
+    },
+    {
+        "id": 231,
+        "malId": 1899,
+        "slug": "good-smile-film",
+        "name": "Good Smile Film",
+        "titlesCount": 18,
+        "link": "/anime/producer/1899/Good_Smile_Film"
+    },
+    {
+        "id": 232,
+        "malId": 2175,
+        "slug": "garden-culture",
+        "name": "Garden Culture",
+        "titlesCount": 13,
+        "link": "/anime/producer/2175/Garden_Culture"
+    },
+    {
+        "id": 233,
+        "malId": 1837,
+        "slug": "g-angle",
+        "name": "G-angle",
+        "titlesCount": 11,
+        "link": "/anime/producer/1837/G-angle"
+    },
+    {
+        "id": 234,
+        "malId": 1393,
+        "slug": "geno-studio",
+        "name": "Geno Studio",
+        "titlesCount": 11,
+        "link": "/anime/producer/1393/Geno_Studio"
+    },
+    {
+        "id": 235,
+        "malId": 391,
+        "slug": "grouper-productions",
+        "name": "Grouper Productions",
+        "titlesCount": 11,
+        "link": "/anime/producer/391/Grouper_Productions"
+    },
+    {
+        "id": 236,
+        "malId": 1369,
+        "slug": "g-lam",
+        "name": "G-Lam",
+        "titlesCount": 10,
+        "link": "/anime/producer/1369/G-Lam"
+    },
+    {
+        "id": 237,
+        "malId": 2652,
+        "slug": "gravity-well",
+        "name": "Gravity Well",
+        "titlesCount": 9,
+        "link": "/anime/producer/2652/Gravity_Well"
+    },
+    {
+        "id": 238,
+        "malId": 1381,
+        "slug": "gemba",
+        "name": "GEMBA",
+        "titlesCount": 8,
+        "link": "/anime/producer/1381/GEMBA"
+    },
+    {
+        "id": 239,
+        "malId": 2299,
+        "slug": "giftanimation",
+        "name": "GIFTanimation",
+        "titlesCount": 7,
+        "link": "/anime/producer/2299/GIFTanimation"
+    },
+    {
+        "id": 240,
+        "malId": 1419,
+        "slug": "garden-lodge",
+        "name": "GARDEN LODGE",
+        "titlesCount": 6,
+        "link": "/anime/producer/1419/GARDEN_LODGE"
+    },
+    {
+        "id": 241,
+        "malId": 2086,
+        "slug": "giga-production",
+        "name": "Giga Production",
+        "titlesCount": 5,
+        "link": "/anime/producer/2086/Giga_Production"
+    },
+    {
+        "id": 242,
+        "malId": 1971,
+        "slug": "gainax-kyoto",
+        "name": "Gainax Kyoto",
+        "titlesCount": 5,
+        "link": "/anime/producer/1971/Gainax_Kyoto"
+    },
+    {
+        "id": 243,
+        "malId": 2389,
+        "slug": "gp-entertainment",
+        "name": "G.P Entertainment",
+        "titlesCount": 4,
+        "link": "/anime/producer/2389/GP_Entertainment"
+    },
+    {
+        "id": 244,
+        "malId": 1832,
+        "slug": "grizzly",
+        "name": "GRIZZLY",
+        "titlesCount": 4,
+        "link": "/anime/producer/1832/GRIZZLY"
+    },
+    {
+        "id": 245,
+        "malId": 2936,
+        "slug": "g-g-direction",
+        "name": "G&G Direction",
+        "titlesCount": 3,
+        "link": "/anime/producer/2936/G_G_Direction"
+    },
+    {
+        "id": 246,
+        "malId": 2982,
+        "slug": "ginga-teikoku",
+        "name": "Ginga Teikoku",
+        "titlesCount": 2,
+        "link": "/anime/producer/2982/Ginga_Teikoku"
+    },
+    {
+        "id": 247,
+        "malId": 2553,
+        "slug": "garyuu-studio",
+        "name": "Garyuu Studio",
+        "titlesCount": 2,
+        "link": "/anime/producer/2553/Garyuu_Studio"
+    },
+    {
+        "id": 248,
+        "malId": 2387,
+        "slug": "ga-crew",
+        "name": "Ga-Crew",
+        "titlesCount": 2,
+        "link": "/anime/producer/2387/Ga-Crew"
+    },
+    {
+        "id": 249,
+        "malId": 2226,
+        "slug": "gambit",
+        "name": "Gambit",
+        "titlesCount": 2,
+        "link": "/anime/producer/2226/Gambit"
+    },
+    {
+        "id": 250,
+        "malId": 1959,
+        "slug": "green-monster-team",
+        "name": "Green Monster Team",
+        "titlesCount": 2,
+        "link": "/anime/producer/1959/Green_Monster_Team"
+    },
+    {
+        "id": 251,
+        "malId": 1845,
+        "slug": "guton-animation-studio",
+        "name": "Guton Animation Studio",
+        "titlesCount": 2,
+        "link": "/anime/producer/1845/Guton_Animation_Studio"
+    },
+    {
+        "id": 252,
+        "malId": 2580,
+        "slug": "gumblab",
+        "name": "GUMBLAB",
+        "titlesCount": 1,
+        "link": "/anime/producer/2580/GUMBLAB"
+    },
+    {
+        "id": 253,
+        "malId": 2571,
+        "slug": "griot-groove",
+        "name": "Griot Groove",
+        "titlesCount": 1,
+        "link": "/anime/producer/2571/Griot_Groove"
+    },
+    {
+        "id": 254,
+        "malId": 2484,
+        "slug": "gunners",
+        "name": "Gunners",
+        "titlesCount": 1,
+        "link": "/anime/producer/2484/Gunners"
+    },
+    {
+        "id": 255,
+        "malId": 2410,
+        "slug": "gonzino",
+        "name": "Gonzino",
+        "titlesCount": 1,
+        "link": "/anime/producer/2410/Gonzino"
+    },
+    {
+        "id": 256,
+        "malId": 2375,
+        "slug": "gav-video",
+        "name": "GAV Video",
+        "titlesCount": 1,
+        "link": "/anime/producer/2375/GAV_Video"
+    },
+    {
+        "id": 257,
+        "malId": 2115,
+        "slug": "gosay-studio",
+        "name": "Gosay Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2115/Gosay_Studio"
+    },
+    {
+        "id": 258,
+        "malId": 1866,
+        "slug": "grom",
+        "name": "Grom",
+        "titlesCount": 1,
+        "link": "/anime/producer/1866/Grom"
+    },
+    {
+        "id": 259,
+        "malId": 1325,
+        "slug": "haoliners-animation-league",
+        "name": "Haoliners Animation League",
+        "titlesCount": 65,
+        "link": "/anime/producer/1325/Haoliners_Animation_League"
+    },
+    {
+        "id": 260,
+        "malId": 346,
+        "slug": "hoods-entertainment",
+        "name": "Hoods Entertainment",
+        "titlesCount": 41,
+        "link": "/anime/producer/346/Hoods_Entertainment"
+    },
+    {
+        "id": 261,
+        "malId": 2431,
+        "slug": "happinet-phantom-studios",
+        "name": "Happinet Phantom Studios",
+        "titlesCount": 24,
+        "link": "/anime/producer/2431/Happinet_Phantom_Studios"
+    },
+    {
+        "id": 262,
+        "malId": 2472,
+        "slug": "high-energy-studio",
+        "name": "High Energy Studio",
+        "titlesCount": 15,
+        "link": "/anime/producer/2472/High_Energy_Studio"
+    },
+    {
+        "id": 263,
+        "malId": 2285,
+        "slug": "horgos-coloroom-pictures-co-ltd",
+        "name": "Horgos Coloroom Pictures Co., Ltd.",
+        "titlesCount": 8,
+        "link": "/anime/producer/2285/Horgos_Coloroom_Pictures_Co_Ltd"
+    },
+    {
+        "id": 264,
+        "malId": 2370,
+        "slug": "hayabusa-film",
+        "name": "Hayabusa Film",
+        "titlesCount": 6,
+        "link": "/anime/producer/2370/Hayabusa_Film"
+    },
+    {
+        "id": 265,
+        "malId": 492,
+        "slug": "horannabi",
+        "name": "Horannabi",
+        "titlesCount": 6,
+        "link": "/anime/producer/492/Horannabi"
+    },
+    {
+        "id": 266,
+        "malId": 2715,
+        "slug": "hand-to-mouse",
+        "name": "Hand to Mouse.",
+        "titlesCount": 4,
+        "link": "/anime/producer/2715/Hand_to_Mouse"
+    },
+    {
+        "id": 267,
+        "malId": 1766,
+        "slug": "husio-studio",
+        "name": "Husio Studio",
+        "titlesCount": 4,
+        "link": "/anime/producer/1766/Husio_Studio"
+    },
+    {
+        "id": 268,
+        "malId": 1276,
+        "slug": "hs-pictures-studio",
+        "name": "HS Pictures Studio",
+        "titlesCount": 4,
+        "link": "/anime/producer/1276/HS_Pictures_Studio"
+    },
+    {
+        "id": 269,
+        "malId": 2750,
+        "slug": "hu-po-donghua",
+        "name": "Hu Po Donghua",
+        "titlesCount": 2,
+        "link": "/anime/producer/2750/Hu_Po_Donghua"
+    },
+    {
+        "id": 270,
+        "malId": 2675,
+        "slug": "hiroshima-city-university",
+        "name": "Hiroshima City University",
+        "titlesCount": 2,
+        "link": "/anime/producer/2675/Hiroshima_City_University"
+    },
+    {
+        "id": 271,
+        "malId": 2477,
+        "slug": "hifumi-shobo",
+        "name": "Hifumi Shobo",
+        "titlesCount": 2,
+        "link": "/anime/producer/2477/Hifumi_Shobo"
+    },
+    {
+        "id": 272,
+        "malId": 2469,
+        "slug": "hm-heros",
+        "name": "HM Heros",
+        "titlesCount": 2,
+        "link": "/anime/producer/2469/HM_Heros"
+    },
+    {
+        "id": 273,
+        "malId": 2432,
+        "slug": "happyproject",
+        "name": "happyproject",
+        "titlesCount": 2,
+        "link": "/anime/producer/2432/happyproject"
+    },
+    {
+        "id": 274,
+        "malId": 2192,
+        "slug": "hai-an-xian-donghua-gongzuo-shi",
+        "name": "Hai An Xian Donghua Gongzuo Shi",
+        "titlesCount": 1,
+        "link": "/anime/producer/2192/Hai_An_Xian_Donghua_Gongzuo_Shi"
+    },
+    {
+        "id": 275,
+        "malId": 1769,
+        "slug": "heloinc",
+        "name": "helo.inc",
+        "titlesCount": 1,
+        "link": "/anime/producer/1769/heloinc"
+    },
+    {
+        "id": 276,
+        "malId": 2364,
+        "slug": "hanjin-animation",
+        "name": "Hanjin Animation",
+        "titlesCount": 0,
+        "link": "/anime/producer/2364/Hanjin_Animation"
+    },
+    {
+        "id": 277,
+        "malId": 1806,
+        "slug": "iqiyi",
+        "name": "iQIYI",
+        "titlesCount": 84,
+        "link": "/anime/producer/1806/iQIYI"
+    },
+    {
+        "id": 278,
+        "malId": 1169,
+        "slug": "ilca",
+        "name": "ILCA",
+        "titlesCount": 29,
+        "link": "/anime/producer/1169/ILCA"
+    },
+    {
+        "id": 279,
+        "malId": 2813,
+        "slug": "iconix-entertainment",
+        "name": "Iconix Entertainment",
+        "titlesCount": 22,
+        "link": "/anime/producer/2813/Iconix_Entertainment"
+    },
+    {
+        "id": 280,
+        "malId": 75,
+        "slug": "imagin",
+        "name": "Imagin",
+        "titlesCount": 13,
+        "link": "/anime/producer/75/Imagin"
+    },
+    {
+        "id": 281,
+        "malId": 1903,
+        "slug": "imagica-lab",
+        "name": "IMAGICA Lab.",
+        "titlesCount": 10,
+        "link": "/anime/producer/1903/IMAGICA_Lab"
+    },
+    {
+        "id": 282,
+        "malId": 898,
+        "slug": "igzwei",
+        "name": "I.Gzwei",
+        "titlesCount": 8,
+        "link": "/anime/producer/898/IGzwei"
+    },
+    {
+        "id": 283,
+        "malId": 1690,
+        "slug": "imagineer",
+        "name": "Imagineer",
+        "titlesCount": 7,
+        "link": "/anime/producer/1690/Imagineer"
+    },
+    {
+        "id": 284,
+        "malId": 2844,
+        "slug": "imagica-infos",
+        "name": "Imagica Infos",
+        "titlesCount": 6,
+        "link": "/anime/producer/2844/Imagica_Infos"
+    },
+    {
+        "id": 285,
+        "malId": 1527,
+        "slug": "image-house",
+        "name": "Image House",
+        "titlesCount": 6,
+        "link": "/anime/producer/1527/Image_House"
+    },
+    {
+        "id": 286,
+        "malId": 1353,
+        "slug": "issen",
+        "name": "Issen",
+        "titlesCount": 4,
+        "link": "/anime/producer/1353/Issen"
+    },
+    {
+        "id": 287,
+        "malId": 2470,
+        "slug": "idreamsky",
+        "name": "iDreamSky",
+        "titlesCount": 2,
+        "link": "/anime/producer/2470/iDreamSky"
+    },
+    {
+        "id": 288,
+        "malId": 2320,
+        "slug": "inugoya",
+        "name": "Inugoya",
+        "titlesCount": 2,
+        "link": "/anime/producer/2320/Inugoya"
+    },
+    {
+        "id": 289,
+        "malId": 1767,
+        "slug": "idragons-creative-studio",
+        "name": "iDRAGONS Creative Studio",
+        "titlesCount": 2,
+        "link": "/anime/producer/1767/iDRAGONS_Creative_Studio"
+    },
+    {
+        "id": 290,
+        "malId": 1437,
+        "slug": "ishimori-entertainment",
+        "name": "Ishimori Entertainment",
+        "titlesCount": 2,
+        "link": "/anime/producer/1437/Ishimori_Entertainment"
+    },
+    {
+        "id": 291,
+        "malId": 2538,
+        "slug": "imagestone-inc",
+        "name": "Imagestone Inc.",
+        "titlesCount": 1,
+        "link": "/anime/producer/2538/Imagestone_Inc"
+    },
+    {
+        "id": 292,
+        "malId": 2437,
+        "slug": "infinity-vision",
+        "name": "Infinity Vision",
+        "titlesCount": 1,
+        "link": "/anime/producer/2437/Infinity_Vision"
+    },
+    {
+        "id": 293,
+        "malId": 2418,
+        "slug": "imagica-digitalscape",
+        "name": "Imagica Digitalscape",
+        "titlesCount": 1,
+        "link": "/anime/producer/2418/Imagica_Digitalscape"
+    },
+    {
+        "id": 294,
+        "malId": 2392,
+        "slug": "ishibashi-planning",
+        "name": "Ishibashi Planning",
+        "titlesCount": 1,
+        "link": "/anime/producer/2392/Ishibashi_Planning"
+    },
+    {
+        "id": 295,
+        "malId": 2347,
+        "slug": "ikk-room",
+        "name": "IKK Room",
+        "titlesCount": 1,
+        "link": "/anime/producer/2347/IKK_Room"
+    },
+    {
+        "id": 296,
+        "malId": 1812,
+        "slug": "imagica-imageworks",
+        "name": "Imagica Imageworks",
+        "titlesCount": 1,
+        "link": "/anime/producer/1812/Imagica_Imageworks"
+    },
+    {
+        "id": 297,
+        "malId": 755,
+        "slug": "jumondo",
+        "name": "Jumondo",
+        "titlesCount": 14,
+        "link": "/anime/producer/755/Jumondo"
+    },
+    {
+        "id": 298,
+        "malId": 2382,
+        "slug": "jtpp",
+        "name": "J.T.P.P.",
+        "titlesCount": 5,
+        "link": "/anime/producer/2382/JTPP"
+    },
+    {
+        "id": 299,
+        "malId": 1851,
+        "slug": "jumonji",
+        "name": "Jumonji",
+        "titlesCount": 5,
+        "link": "/anime/producer/1851/Jumonji"
+    },
+    {
+        "id": 300,
+        "malId": 1435,
+        "slug": "jcf",
+        "name": "JCF",
+        "titlesCount": 5,
+        "link": "/anime/producer/1435/JCF"
+    },
+    {
+        "id": 301,
+        "malId": 1320,
+        "slug": "joker-films",
+        "name": "Joker Films",
+        "titlesCount": 4,
+        "link": "/anime/producer/1320/Joker_Films"
+    },
+    {
+        "id": 302,
+        "malId": 2395,
+        "slug": "jcf",
+        "name": "J.C.F.",
+        "titlesCount": 3,
+        "link": "/anime/producer/2395/JCF"
+    },
+    {
+        "id": 303,
+        "malId": 1545,
+        "slug": "japan-taps",
+        "name": "Japan Taps",
+        "titlesCount": 3,
+        "link": "/anime/producer/1545/Japan_Taps"
+    },
+    {
+        "id": 304,
+        "malId": 2488,
+        "slug": "jki",
+        "name": "J.K.I",
+        "titlesCount": 1,
+        "link": "/anime/producer/2488/JKI"
+    },
+    {
+        "id": 305,
+        "malId": 2363,
+        "slug": "jof",
+        "name": "JOF",
+        "titlesCount": 1,
+        "link": "/anime/producer/2363/JOF"
+    },
+    {
+        "id": 306,
+        "malId": 2210,
+        "slug": "jichitai-anime",
+        "name": "Jichitai Anime",
+        "titlesCount": 1,
+        "link": "/anime/producer/2210/Jichitai_Anime"
+    },
+    {
+        "id": 307,
+        "malId": 2081,
+        "slug": "jjjoy-animation-studios",
+        "name": "JJJOY Animation Studios",
+        "titlesCount": 1,
+        "link": "/anime/producer/2081/JJJOY_Animation_Studios"
+    },
+    {
+        "id": 308,
+        "malId": 2,
+        "slug": "kyoto-animation",
+        "name": "Kyoto Animation",
+        "titlesCount": 133,
+        "link": "/anime/producer/2/Kyoto_Animation"
+    },
+    {
+        "id": 309,
+        "malId": 432,
+        "slug": "kachidoki-studio",
+        "name": "Kachidoki Studio",
+        "titlesCount": 68,
+        "link": "/anime/producer/432/Kachidoki_Studio"
+    },
+    {
+        "id": 310,
+        "malId": 290,
+        "slug": "kinema-citrus",
+        "name": "Kinema Citrus",
+        "titlesCount": 66,
+        "link": "/anime/producer/290/Kinema_Citrus"
+    },
+    {
+        "id": 311,
+        "malId": 50,
+        "slug": "kss",
+        "name": "KSS",
+        "titlesCount": 61,
+        "link": "/anime/producer/50/KSS"
+    },
+    {
+        "id": 312,
+        "malId": 437,
+        "slug": "kamikaze-douga",
+        "name": "Kamikaze Douga",
+        "titlesCount": 36,
+        "link": "/anime/producer/437/Kamikaze_Douga"
+    },
+    {
+        "id": 313,
+        "malId": 377,
+        "slug": "kuri-jikken-manga-koubou",
+        "name": "Kuri Jikken Manga Koubou",
+        "titlesCount": 25,
+        "link": "/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+    },
+    {
+        "id": 314,
+        "malId": 1947,
+        "slug": "kate-arrow",
+        "name": "Kate Arrow",
+        "titlesCount": 22,
+        "link": "/anime/producer/1947/Kate_Arrow"
+    },
+    {
+        "id": 315,
+        "malId": 2256,
+        "slug": "kitty-film-mitaka-studio",
+        "name": "Kitty Film Mitaka Studio",
+        "titlesCount": 18,
+        "link": "/anime/producer/2256/Kitty_Film_Mitaka_Studio"
+    },
+    {
+        "id": 316,
+        "malId": 330,
+        "slug": "kanaban-graphics",
+        "name": "Kanaban Graphics",
+        "titlesCount": 13,
+        "link": "/anime/producer/330/Kanaban_Graphics"
+    },
+    {
+        "id": 317,
+        "malId": 2545,
+        "slug": "kyoto-broadcasting-system",
+        "name": "Kyoto Broadcasting System",
+        "titlesCount": 6,
+        "link": "/anime/producer/2545/Kyoto_Broadcasting_System"
+    },
+    {
+        "id": 318,
+        "malId": 2504,
+        "slug": "konami-cross-media-ny",
+        "name": "Konami Cross Media NY",
+        "titlesCount": 6,
+        "link": "/anime/producer/2504/Konami_Cross_Media_NY"
+    },
+    {
+        "id": 319,
+        "malId": 2356,
+        "slug": "kung-fu-frog-animation",
+        "name": "Kung Fu Frog Animation",
+        "titlesCount": 5,
+        "link": "/anime/producer/2356/Kung_Fu_Frog_Animation"
+    },
+    {
+        "id": 320,
+        "malId": 2565,
+        "slug": "kobe-design-university",
+        "name": "Kobe Design University",
+        "titlesCount": 4,
+        "link": "/anime/producer/2565/Kobe_Design_University"
+    },
+    {
+        "id": 321,
+        "malId": 2607,
+        "slug": "kill-time-communication",
+        "name": "Kill Time Communication",
+        "titlesCount": 3,
+        "link": "/anime/producer/2607/Kill_Time_Communication"
+    },
+    {
+        "id": 322,
+        "malId": 3009,
+        "slug": "kitchen-ltd",
+        "name": "Kitchen Ltd.",
+        "titlesCount": 2,
+        "link": "/anime/producer/3009/Kitchen_Ltd"
+    },
+    {
+        "id": 323,
+        "malId": 2453,
+        "slug": "kusama-art",
+        "name": "Kusama Art",
+        "titlesCount": 2,
+        "link": "/anime/producer/2453/Kusama_Art"
+    },
+    {
+        "id": 324,
+        "malId": 2183,
+        "slug": "keica",
+        "name": "Keica",
+        "titlesCount": 2,
+        "link": "/anime/producer/2183/Keica"
+    },
+    {
+        "id": 325,
+        "malId": 3048,
+        "slug": "kachigarasu",
+        "name": "Kachigarasu",
+        "titlesCount": 1,
+        "link": "/anime/producer/3048/Kachigarasu"
+    },
+    {
+        "id": 326,
+        "malId": 2894,
+        "slug": "konami-animation",
+        "name": "Konami animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2894/Konami_animation"
+    },
+    {
+        "id": 327,
+        "malId": 2610,
+        "slug": "k-contents",
+        "name": "K contents",
+        "titlesCount": 1,
+        "link": "/anime/producer/2610/K_contents"
+    },
+    {
+        "id": 328,
+        "malId": 2544,
+        "slug": "kami-kukan",
+        "name": "Kami Kukan",
+        "titlesCount": 1,
+        "link": "/anime/producer/2544/Kami_Kukan"
+    },
+    {
+        "id": 329,
+        "malId": 2501,
+        "slug": "kuaikan-manhua",
+        "name": "Kuaikan Manhua",
+        "titlesCount": 1,
+        "link": "/anime/producer/2501/Kuaikan_Manhua"
+    },
+    {
+        "id": 330,
+        "malId": 2487,
+        "slug": "kyushu-network-animation",
+        "name": "Kyushu Network Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2487/Kyushu_Network_Animation"
+    },
+    {
+        "id": 331,
+        "malId": 2416,
+        "slug": "kent-house",
+        "name": "Kent House",
+        "titlesCount": 1,
+        "link": "/anime/producer/2416/Kent_House"
+    },
+    {
+        "id": 332,
+        "malId": 2366,
+        "slug": "kigumi",
+        "name": "Kigumi",
+        "titlesCount": 1,
+        "link": "/anime/producer/2366/Kigumi"
+    },
+    {
+        "id": 333,
+        "malId": 2348,
+        "slug": "kkc-animation-production",
+        "name": "KKC Animation Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2348/KKC_Animation_Production"
+    },
+    {
+        "id": 334,
+        "malId": 2061,
+        "slug": "kaca-entertainment",
+        "name": "Kaca Entertainment",
+        "titlesCount": 1,
+        "link": "/anime/producer/2061/Kaca_Entertainment"
+    },
+    {
+        "id": 335,
+        "malId": 1668,
+        "slug": "karasfilms",
+        "name": "Karasfilms",
+        "titlesCount": 1,
+        "link": "/anime/producer/1668/Karasfilms"
+    },
+    {
+        "id": 336,
+        "malId": 2661,
+        "slug": "kinematics",
+        "name": "Kinematics",
+        "titlesCount": 0,
+        "link": "/anime/producer/2661/Kinematics"
+    },
+    {
+        "id": 337,
+        "malId": 839,
+        "slug": "lidenfilms",
+        "name": "LIDENFILMS",
+        "titlesCount": 110,
+        "link": "/anime/producer/839/LIDENFILMS"
+    },
+    {
+        "id": 338,
+        "malId": 823,
+        "slug": "lune-pictures",
+        "name": "Lune-Pictures",
+        "titlesCount": 90,
+        "link": "/anime/producer/823/Lune-Pictures"
+    },
+    {
+        "id": 339,
+        "malId": 456,
+        "slug": "lerche",
+        "name": "Lerche",
+        "titlesCount": 64,
+        "link": "/anime/producer/456/Lerche"
+    },
+    {
+        "id": 340,
+        "malId": 1087,
+        "slug": "lay-duce",
+        "name": "Lay-duce",
+        "titlesCount": 22,
+        "link": "/anime/producer/1087/Lay-duce"
+    },
+    {
+        "id": 341,
+        "malId": 1268,
+        "slug": "l%c2%b2studio",
+        "name": "L\u00b2Studio",
+        "titlesCount": 18,
+        "link": "/anime/producer/1268/L%C2%B2Studio"
+    },
+    {
+        "id": 342,
+        "malId": 1774,
+        "slug": "lan-studio",
+        "name": "LAN Studio",
+        "titlesCount": 14,
+        "link": "/anime/producer/1774/LAN_Studio"
+    },
+    {
+        "id": 343,
+        "malId": 1828,
+        "slug": "lapin-track",
+        "name": "Lapin Track",
+        "titlesCount": 10,
+        "link": "/anime/producer/1828/Lapin_Track"
+    },
+    {
+        "id": 344,
+        "malId": 1759,
+        "slug": "lyrics",
+        "name": "Lyrics",
+        "titlesCount": 10,
+        "link": "/anime/producer/1759/Lyrics"
+    },
+    {
+        "id": 345,
+        "malId": 1485,
+        "slug": "light-chaser-animation-studios",
+        "name": "Light Chaser Animation Studios",
+        "titlesCount": 10,
+        "link": "/anime/producer/1485/Light_Chaser_Animation_Studios"
+    },
+    {
+        "id": 346,
+        "malId": 896,
+        "slug": "larx-entertainment",
+        "name": "Larx Entertainment",
+        "titlesCount": 7,
+        "link": "/anime/producer/896/Larx_Entertainment"
+    },
+    {
+        "id": 347,
+        "malId": 2645,
+        "slug": "liyu-culture",
+        "name": "Liyu Culture",
+        "titlesCount": 6,
+        "link": "/anime/producer/2645/Liyu_Culture"
+    },
+    {
+        "id": 348,
+        "malId": 2578,
+        "slug": "liu-cong-animation",
+        "name": "Liu Cong Animation",
+        "titlesCount": 6,
+        "link": "/anime/producer/2578/Liu_Cong_Animation"
+    },
+    {
+        "id": 349,
+        "malId": 2143,
+        "slug": "lx-animation-studio",
+        "name": "LX Animation Studio",
+        "titlesCount": 4,
+        "link": "/anime/producer/2143/LX_Animation_Studio"
+    },
+    {
+        "id": 350,
+        "malId": 2053,
+        "slug": "l-a-unch%e3%83%bbbox",
+        "name": "l-a-unch\u30fbBOX",
+        "titlesCount": 4,
+        "link": "/anime/producer/2053/l-a-unch%E3%83%BBBOX"
+    },
+    {
+        "id": 351,
+        "malId": 1995,
+        "slug": "live2d-creative-studio",
+        "name": "Live2D Creative Studio",
+        "titlesCount": 4,
+        "link": "/anime/producer/1995/Live2D_Creative_Studio"
+    },
+    {
+        "id": 352,
+        "malId": 2649,
+        "slug": "lb-commerce",
+        "name": "LB Commerce",
+        "titlesCount": 3,
+        "link": "/anime/producer/2649/LB_Commerce"
+    },
+    {
+        "id": 353,
+        "malId": 2211,
+        "slug": "lingsanwu-animation",
+        "name": "Lingsanwu Animation",
+        "titlesCount": 3,
+        "link": "/anime/producer/2211/Lingsanwu_Animation"
+    },
+    {
+        "id": 354,
+        "malId": 2641,
+        "slug": "locus-corporation",
+        "name": "Locus Corporation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2641/Locus_Corporation"
+    },
+    {
+        "id": 355,
+        "malId": 2336,
+        "slug": "lead",
+        "name": "Lead",
+        "titlesCount": 1,
+        "link": "/anime/producer/2336/Lead"
+    },
+    {
+        "id": 356,
+        "malId": 2142,
+        "slug": "levels",
+        "name": "LEVELS",
+        "titlesCount": 1,
+        "link": "/anime/producer/2142/LEVELS"
+    },
+    {
+        "id": 357,
+        "malId": 11,
+        "slug": "madhouse",
+        "name": "Madhouse",
+        "titlesCount": 390,
+        "link": "/anime/producer/11/Madhouse"
+    },
+    {
+        "id": 358,
+        "malId": 1424,
+        "slug": "mediabank",
+        "name": "Mediabank",
+        "titlesCount": 111,
+        "link": "/anime/producer/1424/Mediabank"
+    },
+    {
+        "id": 359,
+        "malId": 68,
+        "slug": "mushi-production",
+        "name": "Mushi Production",
+        "titlesCount": 80,
+        "link": "/anime/producer/68/Mushi_Production"
+    },
+    {
+        "id": 360,
+        "malId": 490,
+        "slug": "maiden-japan",
+        "name": "Maiden Japan",
+        "titlesCount": 68,
+        "link": "/anime/producer/490/Maiden_Japan"
+    },
+    {
+        "id": 361,
+        "malId": 135,
+        "slug": "medianet",
+        "name": "MediaNet",
+        "titlesCount": 58,
+        "link": "/anime/producer/135/MediaNet"
+    },
+    {
+        "id": 362,
+        "malId": 32,
+        "slug": "manglobe",
+        "name": "Manglobe",
+        "titlesCount": 35,
+        "link": "/anime/producer/32/Manglobe"
+    },
+    {
+        "id": 363,
+        "malId": 1237,
+        "slug": "millepensee",
+        "name": "Millepensee",
+        "titlesCount": 28,
+        "link": "/anime/producer/1237/Millepensee"
+    },
+    {
+        "id": 364,
+        "malId": 751,
+        "slug": "marvelous-aql",
+        "name": "Marvelous AQL",
+        "titlesCount": 25,
+        "link": "/anime/producer/751/Marvelous_AQL"
+    },
+    {
+        "id": 365,
+        "malId": 2253,
+        "slug": "mihoyoanime",
+        "name": "miHoYoAnime",
+        "titlesCount": 23,
+        "link": "/anime/producer/2253/miHoYoAnime"
+    },
+    {
+        "id": 366,
+        "malId": 1249,
+        "slug": "mirai-film",
+        "name": "Mirai Film",
+        "titlesCount": 23,
+        "link": "/anime/producer/1249/Mirai_Film"
+    },
+    {
+        "id": 367,
+        "malId": 2177,
+        "slug": "mimoid",
+        "name": "Mimoid",
+        "titlesCount": 17,
+        "link": "/anime/producer/2177/Mimoid"
+    },
+    {
+        "id": 368,
+        "malId": 2162,
+        "slug": "maxilla",
+        "name": "Maxilla",
+        "titlesCount": 17,
+        "link": "/anime/producer/2162/Maxilla"
+    },
+    {
+        "id": 369,
+        "malId": 1296,
+        "slug": "marza-animation-planet",
+        "name": "Marza Animation Planet",
+        "titlesCount": 17,
+        "link": "/anime/producer/1296/Marza_Animation_Planet"
+    },
+    {
+        "id": 370,
+        "malId": 1978,
+        "slug": "maho-film",
+        "name": "Maho Film",
+        "titlesCount": 16,
+        "link": "/anime/producer/1978/Maho_Film"
+    },
+    {
+        "id": 371,
+        "malId": 2069,
+        "slug": "making-animation",
+        "name": "Making Animation",
+        "titlesCount": 9,
+        "link": "/anime/producer/2069/Making_Animation"
+    },
+    {
+        "id": 372,
+        "malId": 2330,
+        "slug": "meltdown",
+        "name": "Meltdown",
+        "titlesCount": 8,
+        "link": "/anime/producer/2330/Meltdown"
+    },
+    {
+        "id": 373,
+        "malId": 1810,
+        "slug": "mili-pictures",
+        "name": "Mili Pictures",
+        "titlesCount": 8,
+        "link": "/anime/producer/1810/Mili_Pictures"
+    },
+    {
+        "id": 374,
+        "malId": 1725,
+        "slug": "minakata-laboratory",
+        "name": "Minakata Laboratory",
+        "titlesCount": 8,
+        "link": "/anime/producer/1725/Minakata_Laboratory"
+    },
+    {
+        "id": 375,
+        "malId": 2316,
+        "slug": "maboroshi-koubou",
+        "name": "Maboroshi Koubou",
+        "titlesCount": 7,
+        "link": "/anime/producer/2316/Maboroshi_Koubou"
+    },
+    {
+        "id": 376,
+        "malId": 2222,
+        "slug": "medianet-pictures",
+        "name": "MediaNet Pictures",
+        "titlesCount": 7,
+        "link": "/anime/producer/2222/MediaNet_Pictures"
+    },
+    {
+        "id": 377,
+        "malId": 1854,
+        "slug": "monofilmo",
+        "name": "monofilmo",
+        "titlesCount": 6,
+        "link": "/anime/producer/1854/monofilmo"
+    },
+    {
+        "id": 378,
+        "malId": 2440,
+        "slug": "micro-house",
+        "name": "Micro House",
+        "titlesCount": 4,
+        "link": "/anime/producer/2440/Micro_House"
+    },
+    {
+        "id": 379,
+        "malId": 2414,
+        "slug": "montblanc-pictures",
+        "name": "MontBlanc Pictures",
+        "titlesCount": 4,
+        "link": "/anime/producer/2414/MontBlanc_Pictures"
+    },
+    {
+        "id": 380,
+        "malId": 2393,
+        "slug": "mb-planning",
+        "name": "MB planning",
+        "titlesCount": 3,
+        "link": "/anime/producer/2393/MB_planning"
+    },
+    {
+        "id": 381,
+        "malId": 2339,
+        "slug": "melissa",
+        "name": "Melissa",
+        "titlesCount": 3,
+        "link": "/anime/producer/2339/Melissa"
+    },
+    {
+        "id": 382,
+        "malId": 2322,
+        "slug": "mousou-senka",
+        "name": "Mousou Senka",
+        "titlesCount": 3,
+        "link": "/anime/producer/2322/Mousou_Senka"
+    },
+    {
+        "id": 383,
+        "malId": 2283,
+        "slug": "manga-productions",
+        "name": "Manga Productions",
+        "titlesCount": 3,
+        "link": "/anime/producer/2283/Manga_Productions"
+    },
+    {
+        "id": 384,
+        "malId": 2374,
+        "slug": "momoi-planning",
+        "name": "Momoi Planning",
+        "titlesCount": 2,
+        "link": "/anime/producer/2374/Momoi_Planning"
+    },
+    {
+        "id": 385,
+        "malId": 2267,
+        "slug": "mmt-technology",
+        "name": "MMT Technology",
+        "titlesCount": 2,
+        "link": "/anime/producer/2267/MMT_Technology"
+    },
+    {
+        "id": 386,
+        "malId": 2040,
+        "slug": "maro-studio",
+        "name": "Maro Studio",
+        "titlesCount": 2,
+        "link": "/anime/producer/2040/Maro_Studio"
+    },
+    {
+        "id": 387,
+        "malId": 1860,
+        "slug": "magia-doraglier",
+        "name": "Magia Doraglier",
+        "titlesCount": 2,
+        "link": "/anime/producer/1860/Magia_Doraglier"
+    },
+    {
+        "id": 388,
+        "malId": 1525,
+        "slug": "moss-design-unit",
+        "name": "Moss Design Unit",
+        "titlesCount": 2,
+        "link": "/anime/producer/1525/Moss_Design_Unit"
+    },
+    {
+        "id": 389,
+        "malId": 2935,
+        "slug": "multi-access-company",
+        "name": "Multi Access Company",
+        "titlesCount": 1,
+        "link": "/anime/producer/2935/Multi_Access_Company"
+    },
+    {
+        "id": 390,
+        "malId": 2820,
+        "slug": "maroyaka",
+        "name": "maroyaka",
+        "titlesCount": 1,
+        "link": "/anime/producer/2820/maroyaka"
+    },
+    {
+        "id": 391,
+        "malId": 2704,
+        "slug": "miki-production",
+        "name": "Miki Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2704/Miki_Production"
+    },
+    {
+        "id": 392,
+        "malId": 2491,
+        "slug": "mikimoto-production",
+        "name": "Mikimoto Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2491/Mikimoto_Production"
+    },
+    {
+        "id": 393,
+        "malId": 2421,
+        "slug": "m-m",
+        "name": "M&M",
+        "titlesCount": 1,
+        "link": "/anime/producer/2421/M_M"
+    },
+    {
+        "id": 394,
+        "malId": 2394,
+        "slug": "momo-production",
+        "name": "MoMo Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2394/MoMo_Production"
+    },
+    {
+        "id": 395,
+        "malId": 2368,
+        "slug": "miyuki-production",
+        "name": "Miyuki Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2368/Miyuki_Production"
+    },
+    {
+        "id": 396,
+        "malId": 2365,
+        "slug": "mi",
+        "name": "MI",
+        "titlesCount": 1,
+        "link": "/anime/producer/2365/MI"
+    },
+    {
+        "id": 397,
+        "malId": 2213,
+        "slug": "magma-studio",
+        "name": "Magma Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2213/Magma_Studio"
+    },
+    {
+        "id": 398,
+        "malId": 2188,
+        "slug": "marone",
+        "name": "Marone",
+        "titlesCount": 1,
+        "link": "/anime/producer/2188/Marone"
+    },
+    {
+        "id": 399,
+        "malId": 1937,
+        "slug": "mat",
+        "name": "MAT",
+        "titlesCount": 1,
+        "link": "/anime/producer/1937/MAT"
+    },
+    {
+        "id": 400,
+        "malId": 1849,
+        "slug": "master-lights",
+        "name": "MASTER LIGHTS",
+        "titlesCount": 1,
+        "link": "/anime/producer/1849/MASTER_LIGHTS"
+    },
+    {
+        "id": 401,
+        "malId": 1442,
+        "slug": "mook-dle",
+        "name": "Mook DLE",
+        "titlesCount": 1,
+        "link": "/anime/producer/1442/Mook_DLE"
+    },
+    {
+        "id": 402,
+        "malId": 1248,
+        "slug": "mirai-fusion",
+        "name": "Mirai Fusion",
+        "titlesCount": 1,
+        "link": "/anime/producer/1248/Mirai_Fusion"
+    },
+    {
+        "id": 403,
+        "malId": 139,
+        "slug": "nihon-ad-systems",
+        "name": "Nihon Ad Systems",
+        "titlesCount": 176,
+        "link": "/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+        "id": 404,
+        "malId": 1797,
+        "slug": "nhk-enterprises",
+        "name": "NHK Enterprises",
+        "titlesCount": 71,
+        "link": "/anime/producer/1797/NHK_Enterprises"
+    },
+    {
+        "id": 405,
+        "malId": 270,
+        "slug": "nutech-digital",
+        "name": "NuTech Digital",
+        "titlesCount": 68,
+        "link": "/anime/producer/270/NuTech_Digital"
+    },
+    {
+        "id": 406,
+        "malId": 1366,
+        "slug": "nagoya-broadcasting-network",
+        "name": "Nagoya Broadcasting Network",
+        "titlesCount": 59,
+        "link": "/anime/producer/1366/Nagoya_Broadcasting_Network"
+    },
+    {
+        "id": 407,
+        "malId": 70,
+        "slug": "nomad",
+        "name": "Nomad",
+        "titlesCount": 39,
+        "link": "/anime/producer/70/Nomad"
+    },
+    {
+        "id": 408,
+        "malId": 1977,
+        "slug": "netflix",
+        "name": "Netflix",
+        "titlesCount": 35,
+        "link": "/anime/producer/1977/Netflix"
+    },
+    {
+        "id": 409,
+        "malId": 1589,
+        "slug": "nichinare",
+        "name": "NichiNare",
+        "titlesCount": 22,
+        "link": "/anime/producer/1589/NichiNare"
+    },
+    {
+        "id": 410,
+        "malId": 2269,
+        "slug": "new-generation",
+        "name": "New Generation",
+        "titlesCount": 18,
+        "link": "/anime/producer/2269/New_Generation"
+    },
+    {
+        "id": 411,
+        "malId": 1804,
+        "slug": "nice-boat-animation",
+        "name": "Nice Boat Animation",
+        "titlesCount": 17,
+        "link": "/anime/producer/1804/Nice_Boat_Animation"
+    },
+    {
+        "id": 412,
+        "malId": 852,
+        "slug": "nexus",
+        "name": "Nexus",
+        "titlesCount": 11,
+        "link": "/anime/producer/852/Nexus"
+    },
+    {
+        "id": 413,
+        "malId": 2728,
+        "slug": "new-deer",
+        "name": "New Deer",
+        "titlesCount": 8,
+        "link": "/anime/producer/2728/New_Deer"
+    },
+    {
+        "id": 414,
+        "malId": 1612,
+        "slug": "nada-holdings",
+        "name": "NADA Holdings",
+        "titlesCount": 6,
+        "link": "/anime/producer/1612/NADA_Holdings"
+    },
+    {
+        "id": 415,
+        "malId": 2721,
+        "slug": "nhk-art",
+        "name": "NHK Art",
+        "titlesCount": 5,
+        "link": "/anime/producer/2721/NHK_Art"
+    },
+    {
+        "id": 416,
+        "malId": 2303,
+        "slug": "noovo",
+        "name": "Noovo",
+        "titlesCount": 4,
+        "link": "/anime/producer/2303/Noovo"
+    },
+    {
+        "id": 417,
+        "malId": 266,
+        "slug": "natural-high",
+        "name": "Natural High",
+        "titlesCount": 4,
+        "link": "/anime/producer/266/Natural_High"
+    },
+    {
+        "id": 418,
+        "malId": 2948,
+        "slug": "nippon-tv-douga",
+        "name": "Nippon TV Douga",
+        "titlesCount": 3,
+        "link": "/anime/producer/2948/Nippon_TV_Douga"
+    },
+    {
+        "id": 419,
+        "malId": 2657,
+        "slug": "nanon-creative",
+        "name": "NANON CREATIVE",
+        "titlesCount": 3,
+        "link": "/anime/producer/2657/NANON_CREATIVE"
+    },
+    {
+        "id": 420,
+        "malId": 1536,
+        "slug": "namu-animation",
+        "name": "Namu Animation",
+        "titlesCount": 3,
+        "link": "/anime/producer/1536/Namu_Animation"
+    },
+    {
+        "id": 421,
+        "malId": 1387,
+        "slug": "neft-film",
+        "name": "Neft Film",
+        "titlesCount": 3,
+        "link": "/anime/producer/1387/Neft_Film"
+    },
+    {
+        "id": 422,
+        "malId": 2560,
+        "slug": "nekonigashi-inc",
+        "name": "Nekonigashi Inc.",
+        "titlesCount": 1,
+        "link": "/anime/producer/2560/Nekonigashi_Inc"
+    },
+    {
+        "id": 423,
+        "malId": 2517,
+        "slug": "nobishiro-lab",
+        "name": "nobishiro lab",
+        "titlesCount": 1,
+        "link": "/anime/producer/2517/nobishiro_lab"
+    },
+    {
+        "id": 424,
+        "malId": 2277,
+        "slug": "network-kouenji-studio",
+        "name": "Network Kouenji Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2277/Network_Kouenji_Studio"
+    },
+    {
+        "id": 425,
+        "malId": 2010,
+        "slug": "nippon-ramayana-film-co",
+        "name": "Nippon Ramayana Film Co.",
+        "titlesCount": 1,
+        "link": "/anime/producer/2010/Nippon_Ramayana_Film_Co"
+    },
+    {
+        "id": 426,
+        "malId": 1670,
+        "slug": "nishiki-studio",
+        "name": "Nishiki Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/1670/Nishiki_Studio"
+    },
+    {
+        "id": 427,
+        "malId": 1491,
+        "slug": "next",
+        "name": "Next",
+        "titlesCount": 1,
+        "link": "/anime/producer/1491/Next"
+    },
+    {
+        "id": 428,
+        "malId": 28,
+        "slug": "olm",
+        "name": "OLM",
+        "titlesCount": 312,
+        "link": "/anime/producer/28/OLM"
+    },
+    {
+        "id": 429,
+        "malId": 1374,
+        "slug": "office-takeout",
+        "name": "Office TakeOut",
+        "titlesCount": 38,
+        "link": "/anime/producer/1374/Office_TakeOut"
+    },
+    {
+        "id": 430,
+        "malId": 1005,
+        "slug": "oddjob",
+        "name": "Oddjob",
+        "titlesCount": 21,
+        "link": "/anime/producer/1005/Oddjob"
+    },
+    {
+        "id": 431,
+        "malId": 1231,
+        "slug": "olm-digital",
+        "name": "OLM Digital",
+        "titlesCount": 19,
+        "link": "/anime/producer/1231/OLM_Digital"
+    },
+    {
+        "id": 432,
+        "malId": 1717,
+        "slug": "onionskin",
+        "name": "Onionskin",
+        "titlesCount": 16,
+        "link": "/anime/producer/1717/Onionskin"
+    },
+    {
+        "id": 433,
+        "malId": 2315,
+        "slug": "office-no-8",
+        "name": "Office No. 8",
+        "titlesCount": 14,
+        "link": "/anime/producer/2315/Office_No_8"
+    },
+    {
+        "id": 434,
+        "malId": 2037,
+        "slug": "okuruto-noboru",
+        "name": "Okuruto Noboru",
+        "titlesCount": 11,
+        "link": "/anime/producer/2037/Okuruto_Noboru"
+    },
+    {
+        "id": 435,
+        "malId": 2318,
+        "slug": "orada-company",
+        "name": "ORADA COMPANY",
+        "titlesCount": 10,
+        "link": "/anime/producer/2318/ORADA_COMPANY"
+    },
+    {
+        "id": 436,
+        "malId": 429,
+        "slug": "office-ao",
+        "name": "Office AO",
+        "titlesCount": 8,
+        "link": "/anime/producer/429/Office_AO"
+    },
+    {
+        "id": 437,
+        "malId": 2361,
+        "slug": "okumaza",
+        "name": "Okumaza",
+        "titlesCount": 4,
+        "link": "/anime/producer/2361/Okumaza"
+    },
+    {
+        "id": 438,
+        "malId": 2345,
+        "slug": "onion-studio",
+        "name": "Onion Studio",
+        "titlesCount": 3,
+        "link": "/anime/producer/2345/Onion_Studio"
+    },
+    {
+        "id": 439,
+        "malId": 1809,
+        "slug": "october-media",
+        "name": "October Media",
+        "titlesCount": 3,
+        "link": "/anime/producer/1809/October_Media"
+    },
+    {
+        "id": 440,
+        "malId": 2987,
+        "slug": "outline",
+        "name": "Outline",
+        "titlesCount": 2,
+        "link": "/anime/producer/2987/Outline"
+    },
+    {
+        "id": 441,
+        "malId": 2703,
+        "slug": "oyster",
+        "name": "Oyster",
+        "titlesCount": 2,
+        "link": "/anime/producer/2703/Oyster"
+    },
+    {
+        "id": 442,
+        "malId": 2550,
+        "slug": "oniro",
+        "name": "ONIRO",
+        "titlesCount": 2,
+        "link": "/anime/producer/2550/ONIRO"
+    },
+    {
+        "id": 443,
+        "malId": 2204,
+        "slug": "oz",
+        "name": "OZ",
+        "titlesCount": 2,
+        "link": "/anime/producer/2204/OZ"
+    },
+    {
+        "id": 444,
+        "malId": 2193,
+        "slug": "orenda",
+        "name": "ORENDA",
+        "titlesCount": 2,
+        "link": "/anime/producer/2193/ORENDA"
+    },
+    {
+        "id": 445,
+        "malId": 1473,
+        "slug": "odolttogi",
+        "name": "Odolttogi",
+        "titlesCount": 2,
+        "link": "/anime/producer/1473/Odolttogi"
+    },
+    {
+        "id": 446,
+        "malId": 1281,
+        "slug": "office-dci",
+        "name": "Office DCI",
+        "titlesCount": 2,
+        "link": "/anime/producer/1281/Office_DCI"
+    },
+    {
+        "id": 447,
+        "malId": 2172,
+        "slug": "original-dream",
+        "name": "Original Dream",
+        "titlesCount": 1,
+        "link": "/anime/producer/2172/Original_Dream"
+    },
+    {
+        "id": 448,
+        "malId": 1,
+        "slug": "pierrot",
+        "name": "Pierrot",
+        "titlesCount": 320,
+        "link": "/anime/producer/1/Pierrot"
+    },
+    {
+        "id": 449,
+        "malId": 1023,
+        "slug": "polygon-pictures",
+        "name": "Polygon Pictures",
+        "titlesCount": 57,
+        "link": "/anime/producer/1023/Polygon_Pictures"
+    },
+    {
+        "id": 450,
+        "malId": 439,
+        "slug": "project-no9",
+        "name": "Project No.9",
+        "titlesCount": 48,
+        "link": "/anime/producer/439/Project_No9"
+    },
+    {
+        "id": 451,
+        "malId": 1557,
+        "slug": "pony-canyon-enterprises",
+        "name": "Pony Canyon Enterprises",
+        "titlesCount": 37,
+        "link": "/anime/producer/1557/Pony_Canyon_Enterprises"
+    },
+    {
+        "id": 452,
+        "malId": 1229,
+        "slug": "pie-in-the-sky",
+        "name": "Pie in the sky",
+        "titlesCount": 28,
+        "link": "/anime/producer/1229/Pie_in_the_sky"
+    },
+    {
+        "id": 453,
+        "malId": 78,
+        "slug": "picture-magic",
+        "name": "Picture Magic",
+        "titlesCount": 23,
+        "link": "/anime/producer/78/Picture_Magic"
+    },
+    {
+        "id": 454,
+        "malId": 196,
+        "slug": "production-reed",
+        "name": "Production Reed",
+        "titlesCount": 20,
+        "link": "/anime/producer/196/Production_Reed"
+    },
+    {
+        "id": 455,
+        "malId": 753,
+        "slug": "pra",
+        "name": "PRA",
+        "titlesCount": 19,
+        "link": "/anime/producer/753/PRA"
+    },
+    {
+        "id": 456,
+        "malId": 2342,
+        "slug": "pp-project",
+        "name": "PP Project",
+        "titlesCount": 15,
+        "link": "/anime/producer/2342/PP_Project"
+    },
+    {
+        "id": 457,
+        "malId": 2013,
+        "slug": "peak-hunt",
+        "name": "Peak Hunt",
+        "titlesCount": 15,
+        "link": "/anime/producer/2013/Peak_Hunt"
+    },
+    {
+        "id": 458,
+        "malId": 2073,
+        "slug": "painting-dream",
+        "name": "Painting Dream",
+        "titlesCount": 13,
+        "link": "/anime/producer/2073/Painting_Dream"
+    },
+    {
+        "id": 459,
+        "malId": 1751,
+        "slug": "ph-studio",
+        "name": "pH Studio",
+        "titlesCount": 13,
+        "link": "/anime/producer/1751/pH_Studio"
+    },
+    {
+        "id": 460,
+        "malId": 2851,
+        "slug": "pinkfong",
+        "name": "Pinkfong",
+        "titlesCount": 12,
+        "link": "/anime/producer/2851/Pinkfong"
+    },
+    {
+        "id": 461,
+        "malId": 1471,
+        "slug": "platinum-vision",
+        "name": "Platinum Vision",
+        "titlesCount": 12,
+        "link": "/anime/producer/1471/Platinum_Vision"
+    },
+    {
+        "id": 462,
+        "malId": 1762,
+        "slug": "piso-studio",
+        "name": "Piso Studio",
+        "titlesCount": 10,
+        "link": "/anime/producer/1762/Piso_Studio"
+    },
+    {
+        "id": 463,
+        "malId": 107,
+        "slug": "plum",
+        "name": "Plum",
+        "titlesCount": 10,
+        "link": "/anime/producer/107/Plum"
+    },
+    {
+        "id": 464,
+        "malId": 455,
+        "slug": "palm-studio",
+        "name": "Palm Studio",
+        "titlesCount": 8,
+        "link": "/anime/producer/455/Palm_Studio"
+    },
+    {
+        "id": 465,
+        "malId": 347,
+        "slug": "primetime",
+        "name": "PrimeTime",
+        "titlesCount": 7,
+        "link": "/anime/producer/347/PrimeTime"
+    },
+    {
+        "id": 466,
+        "malId": 2528,
+        "slug": "passion-paint-animation",
+        "name": "Passion Paint Animation",
+        "titlesCount": 6,
+        "link": "/anime/producer/2528/Passion_Paint_Animation"
+    },
+    {
+        "id": 467,
+        "malId": 1771,
+        "slug": "pb-animation-co-ltd",
+        "name": "Pb Animation Co. Ltd.",
+        "titlesCount": 6,
+        "link": "/anime/producer/1771/Pb_Animation_Co_Ltd"
+    },
+    {
+        "id": 468,
+        "malId": 1746,
+        "slug": "pops-inc",
+        "name": "Pops Inc.",
+        "titlesCount": 6,
+        "link": "/anime/producer/1746/Pops_Inc"
+    },
+    {
+        "id": 469,
+        "malId": 1290,
+        "slug": "pollyanna-graphics",
+        "name": "Pollyanna Graphics",
+        "titlesCount": 5,
+        "link": "/anime/producer/1290/Pollyanna_Graphics"
+    },
+    {
+        "id": 470,
+        "malId": 3042,
+        "slug": "project-studio-q",
+        "name": "Project Studio Q",
+        "titlesCount": 4,
+        "link": "/anime/producer/3042/Project_Studio_Q"
+    },
+    {
+        "id": 471,
+        "malId": 2353,
+        "slug": "p-core",
+        "name": "P core",
+        "titlesCount": 4,
+        "link": "/anime/producer/2353/P_core"
+    },
+    {
+        "id": 472,
+        "malId": 2321,
+        "slug": "production-dmh",
+        "name": "Production D.M.H",
+        "titlesCount": 4,
+        "link": "/anime/producer/2321/Production_DMH"
+    },
+    {
+        "id": 473,
+        "malId": 2276,
+        "slug": "project-team-sarah",
+        "name": "Project Team Sarah",
+        "titlesCount": 4,
+        "link": "/anime/producer/2276/Project_Team_Sarah"
+    },
+    {
+        "id": 474,
+        "malId": 1669,
+        "slug": "production-doa",
+        "name": "production doA",
+        "titlesCount": 4,
+        "link": "/anime/producer/1669/production_doA"
+    },
+    {
+        "id": 475,
+        "malId": 2371,
+        "slug": "planet-cartoon",
+        "name": "Planet Cartoon",
+        "titlesCount": 3,
+        "link": "/anime/producer/2371/Planet_Cartoon"
+    },
+    {
+        "id": 476,
+        "malId": 2310,
+        "slug": "paper-plane-animation-studio",
+        "name": "Paper Plane Animation Studio",
+        "titlesCount": 3,
+        "link": "/anime/producer/2310/Paper_Plane_Animation_Studio"
+    },
+    {
+        "id": 477,
+        "malId": 2268,
+        "slug": "point-pictures",
+        "name": "Point Pictures",
+        "titlesCount": 3,
+        "link": "/anime/producer/2268/Point_Pictures"
+    },
+    {
+        "id": 478,
+        "malId": 2775,
+        "slug": "production-wave",
+        "name": "Production Wave",
+        "titlesCount": 2,
+        "link": "/anime/producer/2775/Production_Wave"
+    },
+    {
+        "id": 479,
+        "malId": 2171,
+        "slug": "paper-animation",
+        "name": "Paper Animation",
+        "titlesCount": 2,
+        "link": "/anime/producer/2171/Paper_Animation"
+    },
+    {
+        "id": 480,
+        "malId": 2047,
+        "slug": "pancake",
+        "name": "Pancake",
+        "titlesCount": 2,
+        "link": "/anime/producer/2047/Pancake"
+    },
+    {
+        "id": 481,
+        "malId": 1938,
+        "slug": "polygon-magic",
+        "name": "Polygon Magic",
+        "titlesCount": 2,
+        "link": "/anime/producer/1938/Polygon_Magic"
+    },
+    {
+        "id": 482,
+        "malId": 1354,
+        "slug": "penta-show-studios",
+        "name": "Penta Show Studios",
+        "titlesCount": 2,
+        "link": "/anime/producer/1354/Penta_Show_Studios"
+    },
+    {
+        "id": 483,
+        "malId": 2452,
+        "slug": "project-team-muu",
+        "name": "Project Team Muu",
+        "titlesCount": 1,
+        "link": "/anime/producer/2452/Project_Team_Muu"
+    },
+    {
+        "id": 484,
+        "malId": 2397,
+        "slug": "pink-cat",
+        "name": "Pink Cat",
+        "titlesCount": 1,
+        "link": "/anime/producer/2397/Pink_Cat"
+    },
+    {
+        "id": 485,
+        "malId": 2377,
+        "slug": "pak-production",
+        "name": "Pak Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2377/Pak_Production"
+    },
+    {
+        "id": 486,
+        "malId": 2349,
+        "slug": "potato-house",
+        "name": "Potato House",
+        "titlesCount": 1,
+        "link": "/anime/producer/2349/Potato_House"
+    },
+    {
+        "id": 487,
+        "malId": 2266,
+        "slug": "planet-nemo-animation",
+        "name": "Planet Nemo Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2266/Planet_Nemo_Animation"
+    },
+    {
+        "id": 488,
+        "malId": 2207,
+        "slug": "poly-animation",
+        "name": "Poly Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2207/Poly_Animation"
+    },
+    {
+        "id": 489,
+        "malId": 1764,
+        "slug": "picona",
+        "name": "Picona",
+        "titlesCount": 1,
+        "link": "/anime/producer/1764/Picona"
+    },
+    {
+        "id": 490,
+        "malId": 1382,
+        "slug": "piko-studio",
+        "name": "Piko Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/1382/Piko_Studio"
+    },
+    {
+        "id": 491,
+        "malId": 1049,
+        "slug": "popoco",
+        "name": "PoPoCo",
+        "titlesCount": 1,
+        "link": "/anime/producer/1049/PoPoCo"
+    },
+    {
+        "id": 492,
+        "malId": 2288,
+        "slug": "qzilla",
+        "name": "Qzil.la",
+        "titlesCount": 11,
+        "link": "/anime/producer/2288/Qzilla"
+    },
+    {
+        "id": 493,
+        "malId": 2314,
+        "slug": "quad",
+        "name": "Quad",
+        "titlesCount": 6,
+        "link": "/anime/producer/2314/Quad"
+    },
+    {
+        "id": 494,
+        "malId": 2140,
+        "slug": "qianqi-animation",
+        "name": "Qianqi Animation",
+        "titlesCount": 4,
+        "link": "/anime/producer/2140/Qianqi_Animation"
+    },
+    {
+        "id": 495,
+        "malId": 2636,
+        "slug": "qingxiang-culture",
+        "name": "Qingxiang Culture",
+        "titlesCount": 3,
+        "link": "/anime/producer/2636/Qingxiang_Culture"
+    },
+    {
+        "id": 496,
+        "malId": 2274,
+        "slug": "qiying-animation",
+        "name": "Qiying Animation",
+        "titlesCount": 3,
+        "link": "/anime/producer/2274/Qiying_Animation"
+    },
+    {
+        "id": 497,
+        "malId": 1304,
+        "slug": "qualia-animation",
+        "name": "Qualia Animation",
+        "titlesCount": 3,
+        "link": "/anime/producer/1304/Qualia_Animation"
+    },
+    {
+        "id": 498,
+        "malId": 2243,
+        "slug": "quebico",
+        "name": "Quebico",
+        "titlesCount": 2,
+        "link": "/anime/producer/2243/Quebico"
+    },
+    {
+        "id": 499,
+        "malId": 2599,
+        "slug": "qualiarts",
+        "name": "QualiArts",
+        "titlesCount": 1,
+        "link": "/anime/producer/2599/QualiArts"
+    },
+    {
+        "id": 500,
+        "malId": 81,
+        "slug": "radix",
+        "name": "Radix",
+        "titlesCount": 33,
+        "link": "/anime/producer/81/Radix"
+    },
+    {
+        "id": 501,
+        "malId": 1181,
+        "slug": "rg-animation-studios",
+        "name": "RG Animation Studios",
+        "titlesCount": 20,
+        "link": "/anime/producer/1181/RG_Animation_Studios"
+    },
+    {
+        "id": 502,
+        "malId": 2126,
+        "slug": "red-dog-culture-house",
+        "name": "Red Dog Culture House",
+        "titlesCount": 11,
+        "link": "/anime/producer/2126/Red_Dog_Culture_House"
+    },
+    {
+        "id": 503,
+        "malId": 1067,
+        "slug": "rising-force",
+        "name": "Rising Force",
+        "titlesCount": 8,
+        "link": "/anime/producer/1067/Rising_Force"
+    },
+    {
+        "id": 504,
+        "malId": 1692,
+        "slug": "revoroot",
+        "name": "Revoroot",
+        "titlesCount": 7,
+        "link": "/anime/producer/1692/Revoroot"
+    },
+    {
+        "id": 505,
+        "malId": 2454,
+        "slug": "ryuu-ms",
+        "name": "Ryuu M's",
+        "titlesCount": 5,
+        "link": "/anime/producer/2454/Ryuu_Ms"
+    },
+    {
+        "id": 506,
+        "malId": 1362,
+        "slug": "rabbit-machine",
+        "name": "Rabbit Machine",
+        "titlesCount": 4,
+        "link": "/anime/producer/1362/Rabbit_Machine"
+    },
+    {
+        "id": 507,
+        "malId": 1489,
+        "slug": "ripromo",
+        "name": "Ripromo",
+        "titlesCount": 3,
+        "link": "/anime/producer/1489/Ripromo"
+    },
+    {
+        "id": 508,
+        "malId": 3013,
+        "slug": "rhythmos",
+        "name": "Rhythmos",
+        "titlesCount": 2,
+        "link": "/anime/producer/3013/Rhythmos"
+    },
+    {
+        "id": 509,
+        "malId": 2835,
+        "slug": "roll2",
+        "name": "ROLL2",
+        "titlesCount": 2,
+        "link": "/anime/producer/2835/ROLL2"
+    },
+    {
+        "id": 510,
+        "malId": 2663,
+        "slug": "rockn-roll-mountain",
+        "name": "Rock'n Roll Mountain",
+        "titlesCount": 2,
+        "link": "/anime/producer/2663/Rockn_Roll_Mountain"
+    },
+    {
+        "id": 511,
+        "malId": 2637,
+        "slug": "ranzai-studio",
+        "name": "Ranzai Studio",
+        "titlesCount": 2,
+        "link": "/anime/producer/2637/Ranzai_Studio"
+    },
+    {
+        "id": 512,
+        "malId": 1454,
+        "slug": "realthing",
+        "name": "REALTHING",
+        "titlesCount": 2,
+        "link": "/anime/producer/1454/REALTHING"
+    },
+    {
+        "id": 513,
+        "malId": 2916,
+        "slug": "reirs",
+        "name": "Reirs",
+        "titlesCount": 1,
+        "link": "/anime/producer/2916/Reirs"
+    },
+    {
+        "id": 514,
+        "malId": 2209,
+        "slug": "reiki-eyes-animation",
+        "name": "Reiki Eyes Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2209/Reiki_Eyes_Animation"
+    },
+    {
+        "id": 515,
+        "malId": 14,
+        "slug": "sunrise",
+        "name": "Sunrise",
+        "titlesCount": 588,
+        "link": "/anime/producer/14/Sunrise"
+    },
+    {
+        "id": 516,
+        "malId": 37,
+        "slug": "studio-deen",
+        "name": "Studio Deen",
+        "titlesCount": 320,
+        "link": "/anime/producer/37/Studio_Deen"
+    },
+    {
+        "id": 517,
+        "malId": 247,
+        "slug": "shin-ei-animation",
+        "name": "Shin-Ei Animation",
+        "titlesCount": 273,
+        "link": "/anime/producer/247/Shin-Ei_Animation"
+    },
+    {
+        "id": 518,
+        "malId": 777,
+        "slug": "showgate",
+        "name": "Showgate",
+        "titlesCount": 126,
+        "link": "/anime/producer/777/Showgate"
+    },
+    {
+        "id": 519,
+        "malId": 300,
+        "slug": "silver-link",
+        "name": "SILVER LINK.",
+        "titlesCount": 126,
+        "link": "/anime/producer/300/SILVER_LINK"
+    },
+    {
+        "id": 520,
+        "malId": 719,
+        "slug": "studio-mausu",
+        "name": "Studio Mausu",
+        "titlesCount": 116,
+        "link": "/anime/producer/719/Studio_Mausu"
+    },
+    {
+        "id": 521,
+        "malId": 41,
+        "slug": "satelight",
+        "name": "Satelight",
+        "titlesCount": 116,
+        "link": "/anime/producer/41/Satelight"
+    },
+    {
+        "id": 522,
+        "malId": 541,
+        "slug": "seven",
+        "name": "Seven",
+        "titlesCount": 101,
+        "link": "/anime/producer/541/Seven"
+    },
+    {
+        "id": 523,
+        "malId": 13,
+        "slug": "studio-4%c2%b0c",
+        "name": "Studio 4\u00b0C",
+        "titlesCount": 83,
+        "link": "/anime/producer/13/Studio_4%C2%B0C"
+    },
+    {
+        "id": 524,
+        "malId": 101,
+        "slug": "studio-hibari",
+        "name": "Studio Hibari",
+        "titlesCount": 75,
+        "link": "/anime/producer/101/Studio_Hibari"
+    },
+    {
+        "id": 525,
+        "malId": 126,
+        "slug": "studio-comet",
+        "name": "Studio Comet",
+        "titlesCount": 71,
+        "link": "/anime/producer/126/Studio_Comet"
+    },
+    {
+        "id": 526,
+        "malId": 537,
+        "slug": "sanzigen",
+        "name": "SANZIGEN",
+        "titlesCount": 68,
+        "link": "/anime/producer/537/SANZIGEN"
+    },
+    {
+        "id": 527,
+        "malId": 407,
+        "slug": "studio-9-maiami",
+        "name": "Studio 9 Maiami",
+        "titlesCount": 66,
+        "link": "/anime/producer/407/Studio_9_Maiami"
+    },
+    {
+        "id": 528,
+        "malId": 737,
+        "slug": "sony-music-communications",
+        "name": "Sony Music Communications",
+        "titlesCount": 64,
+        "link": "/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+        "id": 529,
+        "malId": 1203,
+        "slug": "studio-1st",
+        "name": "Studio 1st",
+        "titlesCount": 58,
+        "link": "/anime/producer/1203/Studio_1st"
+    },
+    {
+        "id": 530,
+        "malId": 15,
+        "slug": "sony-pictures-entertainment",
+        "name": "Sony Pictures Entertainment",
+        "titlesCount": 48,
+        "link": "/anime/producer/15/Sony_Pictures_Entertainment"
+    },
+    {
+        "id": 531,
+        "malId": 24,
+        "slug": "studio-fantasia",
+        "name": "Studio Fantasia",
+        "titlesCount": 44,
+        "link": "/anime/producer/24/Studio_Fantasia"
+    },
+    {
+        "id": 532,
+        "malId": 274,
+        "slug": "suzuki-mirano",
+        "name": "Suzuki Mirano",
+        "titlesCount": 39,
+        "link": "/anime/producer/274/Suzuki_Mirano"
+    },
+    {
+        "id": 533,
+        "malId": 35,
+        "slug": "seven-arcs",
+        "name": "Seven Arcs",
+        "titlesCount": 36,
+        "link": "/anime/producer/35/Seven_Arcs"
+    },
+    {
+        "id": 534,
+        "malId": 1278,
+        "slug": "signalmd",
+        "name": "Signal.MD",
+        "titlesCount": 35,
+        "link": "/anime/producer/1278/SignalMD"
+    },
+    {
+        "id": 535,
+        "malId": 2518,
+        "slug": "streamline-pictures",
+        "name": "Streamline Pictures",
+        "titlesCount": 33,
+        "link": "/anime/producer/2518/Streamline_Pictures"
+    },
+    {
+        "id": 536,
+        "malId": 235,
+        "slug": "shirogumi",
+        "name": "Shirogumi",
+        "titlesCount": 33,
+        "link": "/anime/producer/235/Shirogumi"
+    },
+    {
+        "id": 537,
+        "malId": 423,
+        "slug": "studio-eromatick",
+        "name": "Studio Eromatick",
+        "titlesCount": 29,
+        "link": "/anime/producer/423/Studio_Eromatick"
+    },
+    {
+        "id": 538,
+        "malId": 1997,
+        "slug": "studio-kai",
+        "name": "Studio Kai",
+        "titlesCount": 28,
+        "link": "/anime/producer/1997/Studio_Kai"
+    },
+    {
+        "id": 539,
+        "malId": 1119,
+        "slug": "shuka",
+        "name": "Shuka",
+        "titlesCount": 24,
+        "link": "/anime/producer/1119/Shuka"
+    },
+    {
+        "id": 540,
+        "malId": 1591,
+        "slug": "science-saru",
+        "name": "Science SARU",
+        "titlesCount": 23,
+        "link": "/anime/producer/1591/Science_SARU"
+    },
+    {
+        "id": 541,
+        "malId": 161,
+        "slug": "sogo-vision",
+        "name": "Sogo Vision",
+        "titlesCount": 23,
+        "link": "/anime/producer/161/Sogo_Vision"
+    },
+    {
+        "id": 542,
+        "malId": 1934,
+        "slug": "saigo-no-shudan",
+        "name": "Saigo no Shudan",
+        "titlesCount": 20,
+        "link": "/anime/producer/1934/Saigo_no_Shudan"
+    },
+    {
+        "id": 543,
+        "malId": 1209,
+        "slug": "studio-a-cat",
+        "name": "Studio A-CAT",
+        "titlesCount": 20,
+        "link": "/anime/producer/1209/Studio_A-CAT"
+    },
+    {
+        "id": 544,
+        "malId": 1383,
+        "slug": "studio-live",
+        "name": "Studio Live",
+        "titlesCount": 19,
+        "link": "/anime/producer/1383/Studio_Live"
+    },
+    {
+        "id": 545,
+        "malId": 1155,
+        "slug": "studio-moriken",
+        "name": "Studio Moriken",
+        "titlesCount": 17,
+        "link": "/anime/producer/1155/Studio_Moriken"
+    },
+    {
+        "id": 546,
+        "malId": 1968,
+        "slug": "studio-hokiboshi",
+        "name": "Studio Hokiboshi",
+        "titlesCount": 15,
+        "link": "/anime/producer/1968/Studio_Hokiboshi"
+    },
+    {
+        "id": 547,
+        "malId": 1836,
+        "slug": "selfish",
+        "name": "SELFISH",
+        "titlesCount": 13,
+        "link": "/anime/producer/1836/SELFISH"
+    },
+    {
+        "id": 548,
+        "malId": 2332,
+        "slug": "shion",
+        "name": "Shion",
+        "titlesCount": 12,
+        "link": "/anime/producer/2332/Shion"
+    },
+    {
+        "id": 549,
+        "malId": 1189,
+        "slug": "sola-digital-arts",
+        "name": "Sola Digital Arts",
+        "titlesCount": 12,
+        "link": "/anime/producer/1189/Sola_Digital_Arts"
+    },
+    {
+        "id": 550,
+        "malId": 2907,
+        "slug": "studio-placebo",
+        "name": "Studio Placebo",
+        "titlesCount": 11,
+        "link": "/anime/producer/2907/Studio_Placebo"
+    },
+    {
+        "id": 551,
+        "malId": 2379,
+        "slug": "scooter-films",
+        "name": "Scooter Films",
+        "titlesCount": 11,
+        "link": "/anime/producer/2379/Scooter_Films"
+    },
+    {
+        "id": 552,
+        "malId": 2004,
+        "slug": "sunrise-beyond",
+        "name": "Sunrise Beyond",
+        "titlesCount": 11,
+        "link": "/anime/producer/2004/Sunrise_Beyond"
+    },
+    {
+        "id": 553,
+        "malId": 1244,
+        "slug": "studio-voln",
+        "name": "Studio VOLN",
+        "titlesCount": 11,
+        "link": "/anime/producer/1244/Studio_VOLN"
+    },
+    {
+        "id": 554,
+        "malId": 1647,
+        "slug": "smiral-animation",
+        "name": "SMIRAL Animation",
+        "titlesCount": 10,
+        "link": "/anime/producer/1647/SMIRAL_Animation"
+    },
+    {
+        "id": 555,
+        "malId": 478,
+        "slug": "studio-blanc",
+        "name": "Studio Blanc.",
+        "titlesCount": 10,
+        "link": "/anime/producer/478/Studio_Blanc"
+    },
+    {
+        "id": 556,
+        "malId": 84,
+        "slug": "studio-rikka",
+        "name": "Studio Rikka",
+        "titlesCount": 10,
+        "link": "/anime/producer/84/Studio_Rikka"
+    },
+    {
+        "id": 557,
+        "malId": 2300,
+        "slug": "studio-jemi",
+        "name": "Studio Jemi",
+        "titlesCount": 9,
+        "link": "/anime/producer/2300/Studio_Jemi"
+    },
+    {
+        "id": 558,
+        "malId": 2246,
+        "slug": "studio-mother",
+        "name": "studio MOTHER",
+        "titlesCount": 9,
+        "link": "/anime/producer/2246/studio_MOTHER"
+    },
+    {
+        "id": 559,
+        "malId": 1927,
+        "slug": "studio-crocodile",
+        "name": "Studio Crocodile",
+        "titlesCount": 9,
+        "link": "/anime/producer/1927/Studio_Crocodile"
+    },
+    {
+        "id": 560,
+        "malId": 1873,
+        "slug": "silver",
+        "name": "Silver",
+        "titlesCount": 9,
+        "link": "/anime/producer/1873/Silver"
+    },
+    {
+        "id": 561,
+        "malId": 1521,
+        "slug": "studio-elle",
+        "name": "Studio Elle",
+        "titlesCount": 9,
+        "link": "/anime/producer/1521/Studio_Elle"
+    },
+    {
+        "id": 562,
+        "malId": 1724,
+        "slug": "studio-ox",
+        "name": "Studio OX",
+        "titlesCount": 8,
+        "link": "/anime/producer/1724/Studio_OX"
+    },
+    {
+        "id": 563,
+        "malId": 555,
+        "slug": "studio-chizu",
+        "name": "Studio Chizu",
+        "titlesCount": 8,
+        "link": "/anime/producer/555/Studio_Chizu"
+    },
+    {
+        "id": 564,
+        "malId": 2335,
+        "slug": "shindeban-film",
+        "name": "Shindeban Film",
+        "titlesCount": 7,
+        "link": "/anime/producer/2335/Shindeban_Film"
+    },
+    {
+        "id": 565,
+        "malId": 2271,
+        "slug": "studio-re-map",
+        "name": "Studio RE:Map",
+        "titlesCount": 7,
+        "link": "/anime/producer/2271/Studio_RE_Map"
+    },
+    {
+        "id": 566,
+        "malId": 2080,
+        "slug": "super-normal-studio",
+        "name": "Super Normal Studio",
+        "titlesCount": 7,
+        "link": "/anime/producer/2080/Super_Normal_Studio"
+    },
+    {
+        "id": 567,
+        "malId": 2019,
+        "slug": "sola-entertainment",
+        "name": "Sola Entertainment",
+        "titlesCount": 7,
+        "link": "/anime/producer/2019/Sola_Entertainment"
+    },
+    {
+        "id": 568,
+        "malId": 1324,
+        "slug": "shimogumi",
+        "name": "Shimogumi",
+        "titlesCount": 7,
+        "link": "/anime/producer/1324/Shimogumi"
+    },
+    {
+        "id": 569,
+        "malId": 937,
+        "slug": "studio-kaab",
+        "name": "Studio Kaab",
+        "titlesCount": 7,
+        "link": "/anime/producer/937/Studio_Kaab"
+    },
+    {
+        "id": 570,
+        "malId": 2526,
+        "slug": "shenman-entertainment",
+        "name": "Shenman Entertainment",
+        "titlesCount": 6,
+        "link": "/anime/producer/2526/Shenman_Entertainment"
+    },
+    {
+        "id": 571,
+        "malId": 2405,
+        "slug": "staple-entertainment",
+        "name": "Staple Entertainment",
+        "titlesCount": 6,
+        "link": "/anime/producer/2405/Staple_Entertainment"
+    },
+    {
+        "id": 572,
+        "malId": 2331,
+        "slug": "shura",
+        "name": "Shura",
+        "titlesCount": 6,
+        "link": "/anime/producer/2331/Shura"
+    },
+    {
+        "id": 573,
+        "malId": 2258,
+        "slug": "sharefun-studio",
+        "name": "Sharefun Studio",
+        "titlesCount": 6,
+        "link": "/anime/producer/2258/Sharefun_Studio"
+    },
+    {
+        "id": 574,
+        "malId": 2201,
+        "slug": "studio-palette",
+        "name": "Studio Palette",
+        "titlesCount": 6,
+        "link": "/anime/producer/2201/Studio_Palette"
+    },
+    {
+        "id": 575,
+        "malId": 1853,
+        "slug": "saetta",
+        "name": "Saetta",
+        "titlesCount": 6,
+        "link": "/anime/producer/1853/Saetta"
+    },
+    {
+        "id": 576,
+        "malId": 1844,
+        "slug": "shanghai-hippo-animation",
+        "name": "Shanghai Hippo Animation",
+        "titlesCount": 6,
+        "link": "/anime/producer/1844/Shanghai_Hippo_Animation"
+    },
+    {
+        "id": 577,
+        "malId": 1476,
+        "slug": "shochiku-animation-institute",
+        "name": "Shochiku Animation Institute",
+        "titlesCount": 6,
+        "link": "/anime/producer/1476/Shochiku_Animation_Institute"
+    },
+    {
+        "id": 578,
+        "malId": 2822,
+        "slug": "shykeumo-animation-studio",
+        "name": "Shykeumo Animation Studio",
+        "titlesCount": 5,
+        "link": "/anime/producer/2822/Shykeumo_Animation_Studio"
+    },
+    {
+        "id": 579,
+        "malId": 2402,
+        "slug": "stay-luck",
+        "name": "Stay Luck",
+        "titlesCount": 5,
+        "link": "/anime/producer/2402/Stay_Luck"
+    },
+    {
+        "id": 580,
+        "malId": 2337,
+        "slug": "studio-soul",
+        "name": "Studio Soul",
+        "titlesCount": 5,
+        "link": "/anime/producer/2337/Studio_Soul"
+    },
+    {
+        "id": 581,
+        "malId": 2329,
+        "slug": "shinjukuza",
+        "name": "Shinjukuza",
+        "titlesCount": 5,
+        "link": "/anime/producer/2329/Shinjukuza"
+    },
+    {
+        "id": 582,
+        "malId": 2327,
+        "slug": "studio-boogie-nights",
+        "name": "Studio Boogie Nights",
+        "titlesCount": 5,
+        "link": "/anime/producer/2327/Studio_Boogie_Nights"
+    },
+    {
+        "id": 583,
+        "malId": 2252,
+        "slug": "studio-kingyoiro",
+        "name": "Studio Kingyoiro",
+        "titlesCount": 5,
+        "link": "/anime/producer/2252/Studio_Kingyoiro"
+    },
+    {
+        "id": 584,
+        "malId": 1950,
+        "slug": "sony-interactive-entertainment",
+        "name": "Sony Interactive Entertainment",
+        "titlesCount": 5,
+        "link": "/anime/producer/1950/Sony_Interactive_Entertainment"
+    },
+    {
+        "id": 585,
+        "malId": 1892,
+        "slug": "sublimation",
+        "name": "Sublimation",
+        "titlesCount": 5,
+        "link": "/anime/producer/1892/Sublimation"
+    },
+    {
+        "id": 586,
+        "malId": 1847,
+        "slug": "square-enix-visual-works",
+        "name": "Square Enix Visual Works",
+        "titlesCount": 5,
+        "link": "/anime/producer/1847/Square_Enix_Visual_Works"
+    },
+    {
+        "id": 587,
+        "malId": 1813,
+        "slug": "studio-lings",
+        "name": "Studio Lings",
+        "titlesCount": 5,
+        "link": "/anime/producer/1813/Studio_Lings"
+    },
+    {
+        "id": 588,
+        "malId": 1523,
+        "slug": "studio-ponoc",
+        "name": "Studio Ponoc",
+        "titlesCount": 5,
+        "link": "/anime/producer/1523/Studio_Ponoc"
+    },
+    {
+        "id": 589,
+        "malId": 1420,
+        "slug": "sido-limited",
+        "name": "SIDO LIMITED",
+        "titlesCount": 5,
+        "link": "/anime/producer/1420/SIDO_LIMITED"
+    },
+    {
+        "id": 590,
+        "malId": 2846,
+        "slug": "studio-bingo",
+        "name": "Studio Bingo",
+        "titlesCount": 4,
+        "link": "/anime/producer/2846/Studio_Bingo"
+    },
+    {
+        "id": 591,
+        "malId": 2651,
+        "slug": "stereotype",
+        "name": "Stereotype",
+        "titlesCount": 4,
+        "link": "/anime/producer/2651/Stereotype"
+    },
+    {
+        "id": 592,
+        "malId": 2601,
+        "slug": "sunflowers",
+        "name": "Sunflowers",
+        "titlesCount": 4,
+        "link": "/anime/producer/2601/Sunflowers"
+    },
+    {
+        "id": 593,
+        "malId": 2534,
+        "slug": "studio-yog",
+        "name": "studio YOG",
+        "titlesCount": 4,
+        "link": "/anime/producer/2534/studio_YOG"
+    },
+    {
+        "id": 594,
+        "malId": 2457,
+        "slug": "studio-ranmaru",
+        "name": "Studio Ranmaru",
+        "titlesCount": 4,
+        "link": "/anime/producer/2457/Studio_Ranmaru"
+    },
+    {
+        "id": 595,
+        "malId": 2341,
+        "slug": "studio-prokion",
+        "name": "Studio Prokion",
+        "titlesCount": 4,
+        "link": "/anime/producer/2341/Studio_Prokion"
+    },
+    {
+        "id": 596,
+        "malId": 2328,
+        "slug": "sonsan-kikaku",
+        "name": "Sonsan Kikaku",
+        "titlesCount": 4,
+        "link": "/anime/producer/2328/Sonsan_Kikaku"
+    },
+    {
+        "id": 597,
+        "malId": 2240,
+        "slug": "studio-daisy",
+        "name": "Studio Daisy",
+        "titlesCount": 4,
+        "link": "/anime/producer/2240/Studio_Daisy"
+    },
+    {
+        "id": 598,
+        "malId": 2196,
+        "slug": "studio-durian",
+        "name": "Studio DURIAN",
+        "titlesCount": 4,
+        "link": "/anime/producer/2196/Studio_DURIAN"
+    },
+    {
+        "id": 599,
+        "malId": 1693,
+        "slug": "studio-flad",
+        "name": "Studio Flad",
+        "titlesCount": 4,
+        "link": "/anime/producer/1693/Studio_Flad"
+    },
+    {
+        "id": 600,
+        "malId": 1352,
+        "slug": "studio-ten-carat",
+        "name": "Studio Ten Carat",
+        "titlesCount": 4,
+        "link": "/anime/producer/1352/Studio_Ten_Carat"
+    },
+    {
+        "id": 601,
+        "malId": 1348,
+        "slug": "sugar-boy",
+        "name": "Sugar Boy",
+        "titlesCount": 4,
+        "link": "/anime/producer/1348/Sugar_Boy"
+    },
+    {
+        "id": 602,
+        "malId": 3049,
+        "slug": "studio-8-dogs",
+        "name": "STUDIO 8 DOGS",
+        "titlesCount": 3,
+        "link": "/anime/producer/3049/STUDIO_8_DOGS"
+    },
+    {
+        "id": 603,
+        "malId": 2647,
+        "slug": "studio-a-craft",
+        "name": "Studio A. Craft",
+        "titlesCount": 3,
+        "link": "/anime/producer/2647/Studio_A_Craft"
+    },
+    {
+        "id": 604,
+        "malId": 2512,
+        "slug": "studio-easter",
+        "name": "Studio Easter",
+        "titlesCount": 3,
+        "link": "/anime/producer/2512/Studio_Easter"
+    },
+    {
+        "id": 605,
+        "malId": 2459,
+        "slug": "studio-gazelle",
+        "name": "Studio Gazelle",
+        "titlesCount": 3,
+        "link": "/anime/producer/2459/Studio_Gazelle"
+    },
+    {
+        "id": 606,
+        "malId": 2338,
+        "slug": "studio-ten",
+        "name": "Studio Ten",
+        "titlesCount": 3,
+        "link": "/anime/producer/2338/Studio_Ten"
+    },
+    {
+        "id": 607,
+        "malId": 2324,
+        "slug": "scarlett",
+        "name": "Scarlett",
+        "titlesCount": 3,
+        "link": "/anime/producer/2324/Scarlett"
+    },
+    {
+        "id": 608,
+        "malId": 2205,
+        "slug": "studio-kafka",
+        "name": "Studio Kafka",
+        "titlesCount": 3,
+        "link": "/anime/producer/2205/Studio_Kafka"
+    },
+    {
+        "id": 609,
+        "malId": 2161,
+        "slug": "suspenders",
+        "name": "Suspenders",
+        "titlesCount": 3,
+        "link": "/anime/producer/2161/Suspenders"
+    },
+    {
+        "id": 610,
+        "malId": 2134,
+        "slug": "studio-candy-box",
+        "name": "Studio CANDY BOX",
+        "titlesCount": 3,
+        "link": "/anime/producer/2134/Studio_CANDY_BOX"
+    },
+    {
+        "id": 611,
+        "malId": 1944,
+        "slug": "samsara-animation-studio",
+        "name": "Samsara Animation Studio",
+        "titlesCount": 3,
+        "link": "/anime/producer/1944/Samsara_Animation_Studio"
+    },
+    {
+        "id": 612,
+        "malId": 1505,
+        "slug": "studio-march",
+        "name": "Studio March",
+        "titlesCount": 3,
+        "link": "/anime/producer/1505/Studio_March"
+    },
+    {
+        "id": 613,
+        "malId": 1479,
+        "slug": "studio-core",
+        "name": "Studio Core",
+        "titlesCount": 3,
+        "link": "/anime/producer/1479/Studio_Core"
+    },
+    {
+        "id": 614,
+        "malId": 1436,
+        "slug": "stingray",
+        "name": "Stingray",
+        "titlesCount": 3,
+        "link": "/anime/producer/1436/Stingray"
+    },
+    {
+        "id": 615,
+        "malId": 1370,
+        "slug": "sprite-animation-studios",
+        "name": "Sprite Animation Studios",
+        "titlesCount": 3,
+        "link": "/anime/producer/1370/Sprite_Animation_Studios"
+    },
+    {
+        "id": 616,
+        "malId": 781,
+        "slug": "studio-noix",
+        "name": "Studio NOIX",
+        "titlesCount": 3,
+        "link": "/anime/producer/781/Studio_NOIX"
+    },
+    {
+        "id": 617,
+        "malId": 338,
+        "slug": "studio-bogey",
+        "name": "Studio Bogey",
+        "titlesCount": 3,
+        "link": "/anime/producer/338/Studio_Bogey"
+    },
+    {
+        "id": 618,
+        "malId": 2955,
+        "slug": "sunny-gapen",
+        "name": "Sunny Gapen",
+        "titlesCount": 2,
+        "link": "/anime/producer/2955/Sunny_Gapen"
+    },
+    {
+        "id": 619,
+        "malId": 2929,
+        "slug": "studio-outrigger",
+        "name": "Studio Outrigger",
+        "titlesCount": 2,
+        "link": "/anime/producer/2929/Studio_Outrigger"
+    },
+    {
+        "id": 620,
+        "malId": 2911,
+        "slug": "studio-eight-color",
+        "name": "Studio Eight Color",
+        "titlesCount": 2,
+        "link": "/anime/producer/2911/Studio_Eight_Color"
+    },
+    {
+        "id": 621,
+        "malId": 2759,
+        "slug": "sakura-eiga-sha",
+        "name": "Sakura Eiga-sha",
+        "titlesCount": 2,
+        "link": "/anime/producer/2759/Sakura_Eiga-sha"
+    },
+    {
+        "id": 622,
+        "malId": 2742,
+        "slug": "studio-n",
+        "name": "Studio N",
+        "titlesCount": 2,
+        "link": "/anime/producer/2742/Studio_N"
+    },
+    {
+        "id": 623,
+        "malId": 2625,
+        "slug": "square-pictures",
+        "name": "Square Pictures",
+        "titlesCount": 2,
+        "link": "/anime/producer/2625/Square_Pictures"
+    },
+    {
+        "id": 624,
+        "malId": 2557,
+        "slug": "shenfan-animation",
+        "name": "Shenfan Animation",
+        "titlesCount": 2,
+        "link": "/anime/producer/2557/Shenfan_Animation"
+    },
+    {
+        "id": 625,
+        "malId": 2490,
+        "slug": "studio-dolphin-night",
+        "name": "Studio Dolphin Night",
+        "titlesCount": 2,
+        "link": "/anime/producer/2490/Studio_Dolphin_Night"
+    },
+    {
+        "id": 626,
+        "malId": 2378,
+        "slug": "starlink",
+        "name": "StarLink",
+        "titlesCount": 2,
+        "link": "/anime/producer/2378/StarLink"
+    },
+    {
+        "id": 627,
+        "malId": 2333,
+        "slug": "space-x",
+        "name": "Space-X",
+        "titlesCount": 2,
+        "link": "/anime/producer/2333/Space-X"
+    },
+    {
+        "id": 628,
+        "malId": 2130,
+        "slug": "studio-shelter",
+        "name": "Studio Shelter",
+        "titlesCount": 2,
+        "link": "/anime/producer/2130/Studio_Shelter"
+    },
+    {
+        "id": 629,
+        "malId": 1839,
+        "slug": "studio-ppuri",
+        "name": "Studio Ppuri",
+        "titlesCount": 2,
+        "link": "/anime/producer/1839/Studio_Ppuri"
+    },
+    {
+        "id": 630,
+        "malId": 1776,
+        "slug": "studio-mir",
+        "name": "Studio Mir",
+        "titlesCount": 2,
+        "link": "/anime/producer/1776/Studio_Mir"
+    },
+    {
+        "id": 631,
+        "malId": 1691,
+        "slug": "studio-ugoki",
+        "name": "Studio UGOKI",
+        "titlesCount": 2,
+        "link": "/anime/producer/1691/Studio_UGOKI"
+    },
+    {
+        "id": 632,
+        "malId": 1641,
+        "slug": "studio-awake",
+        "name": "Studio AWAKE",
+        "titlesCount": 2,
+        "link": "/anime/producer/1641/Studio_AWAKE"
+    },
+    {
+        "id": 633,
+        "malId": 1071,
+        "slug": "studio-lotus",
+        "name": "Studio Lotus",
+        "titlesCount": 2,
+        "link": "/anime/producer/1071/Studio_Lotus"
+    },
+    {
+        "id": 634,
+        "malId": 117,
+        "slug": "studio-izena",
+        "name": "Studio Izena",
+        "titlesCount": 2,
+        "link": "/anime/producer/117/Studio_Izena"
+    },
+    {
+        "id": 635,
+        "malId": 3030,
+        "slug": "studio-dotou",
+        "name": "Studio Dotou",
+        "titlesCount": 1,
+        "link": "/anime/producer/3030/Studio_Dotou"
+    },
+    {
+        "id": 636,
+        "malId": 3007,
+        "slug": "studio-harutonari",
+        "name": "Studio Harutonari",
+        "titlesCount": 1,
+        "link": "/anime/producer/3007/Studio_Harutonari"
+    },
+    {
+        "id": 637,
+        "malId": 2991,
+        "slug": "skydance",
+        "name": "Skydance",
+        "titlesCount": 1,
+        "link": "/anime/producer/2991/Skydance"
+    },
+    {
+        "id": 638,
+        "malId": 2985,
+        "slug": "saber-works",
+        "name": "Saber Works",
+        "titlesCount": 1,
+        "link": "/anime/producer/2985/Saber_Works"
+    },
+    {
+        "id": 639,
+        "malId": 2917,
+        "slug": "soigne",
+        "name": "Soigne",
+        "titlesCount": 1,
+        "link": "/anime/producer/2917/Soigne"
+    },
+    {
+        "id": 640,
+        "malId": 2819,
+        "slug": "soket",
+        "name": "soket",
+        "titlesCount": 1,
+        "link": "/anime/producer/2819/soket"
+    },
+    {
+        "id": 641,
+        "malId": 2778,
+        "slug": "sasayuri",
+        "name": "Sasayuri",
+        "titlesCount": 1,
+        "link": "/anime/producer/2778/Sasayuri"
+    },
+    {
+        "id": 642,
+        "malId": 2760,
+        "slug": "studio-add",
+        "name": "Studio Add",
+        "titlesCount": 1,
+        "link": "/anime/producer/2760/Studio_Add"
+    },
+    {
+        "id": 643,
+        "malId": 2722,
+        "slug": "studio-fusion",
+        "name": "Studio Fusion",
+        "titlesCount": 1,
+        "link": "/anime/producer/2722/Studio_Fusion"
+    },
+    {
+        "id": 644,
+        "malId": 2626,
+        "slug": "studio-d-volt",
+        "name": "Studio D-Volt",
+        "titlesCount": 1,
+        "link": "/anime/producer/2626/Studio_D-Volt"
+    },
+    {
+        "id": 645,
+        "malId": 2582,
+        "slug": "starlight-entertainment",
+        "name": "Starlight Entertainment",
+        "titlesCount": 1,
+        "link": "/anime/producer/2582/Starlight_Entertainment"
+    },
+    {
+        "id": 646,
+        "malId": 2562,
+        "slug": "studio-himalaya",
+        "name": "Studio Himalaya",
+        "titlesCount": 1,
+        "link": "/anime/producer/2562/Studio_Himalaya"
+    },
+    {
+        "id": 647,
+        "malId": 2516,
+        "slug": "studio-cats",
+        "name": "Studio Cats",
+        "titlesCount": 1,
+        "link": "/anime/producer/2516/Studio_Cats"
+    },
+    {
+        "id": 648,
+        "malId": 2493,
+        "slug": "studio-b-m",
+        "name": "Studio B&M",
+        "titlesCount": 1,
+        "link": "/anime/producer/2493/Studio_B_M"
+    },
+    {
+        "id": 649,
+        "malId": 2492,
+        "slug": "studio-jin",
+        "name": "Studio Jin",
+        "titlesCount": 1,
+        "link": "/anime/producer/2492/Studio_Jin"
+    },
+    {
+        "id": 650,
+        "malId": 2429,
+        "slug": "studio6on",
+        "name": "STUDIO6'oN",
+        "titlesCount": 1,
+        "link": "/anime/producer/2429/STUDIO6oN"
+    },
+    {
+        "id": 651,
+        "malId": 2391,
+        "slug": "sumomo-film",
+        "name": "Sumomo Film",
+        "titlesCount": 1,
+        "link": "/anime/producer/2391/Sumomo_Film"
+    },
+    {
+        "id": 652,
+        "malId": 2351,
+        "slug": "studio-gadget",
+        "name": "Studio Gadget",
+        "titlesCount": 1,
+        "link": "/anime/producer/2351/Studio_Gadget"
+    },
+    {
+        "id": 653,
+        "malId": 2313,
+        "slug": "studio-hb",
+        "name": "studio hb",
+        "titlesCount": 1,
+        "link": "/anime/producer/2313/studio_hb"
+    },
+    {
+        "id": 654,
+        "malId": 2295,
+        "slug": "story-effect",
+        "name": "Story Effect",
+        "titlesCount": 1,
+        "link": "/anime/producer/2295/Story_Effect"
+    },
+    {
+        "id": 655,
+        "malId": 2284,
+        "slug": "sjynexcus",
+        "name": "SJYNEXCUS",
+        "titlesCount": 1,
+        "link": "/anime/producer/2284/SJYNEXCUS"
+    },
+    {
+        "id": 656,
+        "malId": 2282,
+        "slug": "studio-guts",
+        "name": "Studio Guts",
+        "titlesCount": 1,
+        "link": "/anime/producer/2282/Studio_Guts"
+    },
+    {
+        "id": 657,
+        "malId": 1871,
+        "slug": "studio-wbaba",
+        "name": "Studio W.Baba",
+        "titlesCount": 1,
+        "link": "/anime/producer/1871/Studio_WBaba"
+    },
+    {
+        "id": 658,
+        "malId": 1814,
+        "slug": "studio-hakk",
+        "name": "Studio Hakk",
+        "titlesCount": 1,
+        "link": "/anime/producer/1814/Studio_Hakk"
+    },
+    {
+        "id": 659,
+        "malId": 1750,
+        "slug": "studio-ca",
+        "name": "Studio CA",
+        "titlesCount": 1,
+        "link": "/anime/producer/1750/Studio_CA"
+    },
+    {
+        "id": 660,
+        "malId": 1705,
+        "slug": "studio-khronos",
+        "name": "Studio Khronos",
+        "titlesCount": 1,
+        "link": "/anime/producer/1705/Studio_Khronos"
+    },
+    {
+        "id": 661,
+        "malId": 1666,
+        "slug": "studio-carbuncle",
+        "name": "Studio Carbuncle",
+        "titlesCount": 1,
+        "link": "/anime/producer/1666/Studio_Carbuncle"
+    },
+    {
+        "id": 662,
+        "malId": 1509,
+        "slug": "studio-world",
+        "name": "Studio World",
+        "titlesCount": 1,
+        "link": "/anime/producer/1509/Studio_World"
+    },
+    {
+        "id": 663,
+        "malId": 1504,
+        "slug": "studio-z5",
+        "name": "Studio Z5",
+        "titlesCount": 1,
+        "link": "/anime/producer/1504/Studio_Z5"
+    },
+    {
+        "id": 664,
+        "malId": 1533,
+        "slug": "studio-who",
+        "name": "Studio WHO",
+        "titlesCount": 0,
+        "link": "/anime/producer/1533/Studio_WHO"
+    },
+    {
+        "id": 665,
+        "malId": 18,
+        "slug": "toei-animation",
+        "name": "Toei Animation",
+        "titlesCount": 945,
+        "link": "/anime/producer/18/Toei_Animation"
+    },
+    {
+        "id": 666,
+        "malId": 145,
+        "slug": "tbs",
+        "name": "TBS",
+        "titlesCount": 276,
+        "link": "/anime/producer/145/TBS"
+    },
+    {
+        "id": 667,
+        "malId": 1727,
+        "slug": "tencent-penguin-pictures",
+        "name": "Tencent Penguin Pictures",
+        "titlesCount": 219,
+        "link": "/anime/producer/1727/Tencent_Penguin_Pictures"
+    },
+    {
+        "id": 668,
+        "malId": 103,
+        "slug": "tatsunoko-production",
+        "name": "Tatsunoko Production",
+        "titlesCount": 203,
+        "link": "/anime/producer/103/Tatsunoko_Production"
+    },
+    {
+        "id": 669,
+        "malId": 245,
+        "slug": "toho",
+        "name": "TOHO",
+        "titlesCount": 180,
+        "link": "/anime/producer/245/TOHO"
+    },
+    {
+        "id": 670,
+        "malId": 120,
+        "slug": "tnk",
+        "name": "TNK",
+        "titlesCount": 57,
+        "link": "/anime/producer/120/TNK"
+    },
+    {
+        "id": 671,
+        "malId": 94,
+        "slug": "telecom-animation-film",
+        "name": "Telecom Animation Film",
+        "titlesCount": 52,
+        "link": "/anime/producer/94/Telecom_Animation_Film"
+    },
+    {
+        "id": 672,
+        "malId": 803,
+        "slug": "trigger",
+        "name": "Trigger",
+        "titlesCount": 42,
+        "link": "/anime/producer/803/Trigger"
+    },
+    {
+        "id": 673,
+        "malId": 110,
+        "slug": "triangle-staff",
+        "name": "Triangle Staff",
+        "titlesCount": 36,
+        "link": "/anime/producer/110/Triangle_Staff"
+    },
+    {
+        "id": 674,
+        "malId": 229,
+        "slug": "the-answer-studio",
+        "name": "The Answer Studio",
+        "titlesCount": 33,
+        "link": "/anime/producer/229/The_Answer_Studio"
+    },
+    {
+        "id": 675,
+        "malId": 2307,
+        "slug": "tamabi",
+        "name": "Tamabi",
+        "titlesCount": 29,
+        "link": "/anime/producer/2307/Tamabi"
+    },
+    {
+        "id": 676,
+        "malId": 2214,
+        "slug": "takun-manga-box",
+        "name": "Takun Manga Box",
+        "titlesCount": 27,
+        "link": "/anime/producer/2214/Takun_Manga_Box"
+    },
+    {
+        "id": 677,
+        "malId": 882,
+        "slug": "toranoana",
+        "name": "Toranoana",
+        "titlesCount": 26,
+        "link": "/anime/producer/882/Toranoana"
+    },
+    {
+        "id": 678,
+        "malId": 453,
+        "slug": "tsuburaya-productions",
+        "name": "Tsuburaya Productions",
+        "titlesCount": 23,
+        "link": "/anime/producer/453/Tsuburaya_Productions"
+    },
+    {
+        "id": 679,
+        "malId": 390,
+        "slug": "tsuchida-productions",
+        "name": "Tsuchida Productions",
+        "titlesCount": 18,
+        "link": "/anime/producer/390/Tsuchida_Productions"
+    },
+    {
+        "id": 680,
+        "malId": 2817,
+        "slug": "tokyu-agency",
+        "name": "Tokyu Agency",
+        "titlesCount": 17,
+        "link": "/anime/producer/2817/Tokyu_Agency"
+    },
+    {
+        "id": 681,
+        "malId": 363,
+        "slug": "topcraft",
+        "name": "Topcraft",
+        "titlesCount": 14,
+        "link": "/anime/producer/363/Topcraft"
+    },
+    {
+        "id": 682,
+        "malId": 2239,
+        "slug": "transcendence-picture",
+        "name": "Transcendence Picture",
+        "titlesCount": 13,
+        "link": "/anime/producer/2239/Transcendence_Picture"
+    },
+    {
+        "id": 683,
+        "malId": 1843,
+        "slug": "trif-studio",
+        "name": "TriF Studio",
+        "titlesCount": 11,
+        "link": "/anime/producer/1843/TriF_Studio"
+    },
+    {
+        "id": 684,
+        "malId": 2304,
+        "slug": "triopen-studio",
+        "name": "TrioPen Studio",
+        "titlesCount": 10,
+        "link": "/anime/producer/2304/TrioPen_Studio"
+    },
+    {
+        "id": 685,
+        "malId": 2163,
+        "slug": "teatro-nishi-tokyo-studio",
+        "name": "Teatro Nishi Tokyo Studio",
+        "titlesCount": 9,
+        "link": "/anime/producer/2163/Teatro_Nishi_Tokyo_Studio"
+    },
+    {
+        "id": 686,
+        "malId": 1805,
+        "slug": "thundray",
+        "name": "Thundray",
+        "titlesCount": 9,
+        "link": "/anime/producer/1805/Thundray"
+    },
+    {
+        "id": 687,
+        "malId": 2050,
+        "slug": "trash-studio",
+        "name": "Trash Studio",
+        "titlesCount": 8,
+        "link": "/anime/producer/2050/Trash_Studio"
+    },
+    {
+        "id": 688,
+        "malId": 1846,
+        "slug": "tokyo-movie",
+        "name": "Tokyo Movie",
+        "titlesCount": 8,
+        "link": "/anime/producer/1846/Tokyo_Movie"
+    },
+    {
+        "id": 689,
+        "malId": 1265,
+        "slug": "tomovies",
+        "name": "Tomovies",
+        "titlesCount": 8,
+        "link": "/anime/producer/1265/Tomovies"
+    },
+    {
+        "id": 690,
+        "malId": 2705,
+        "slug": "toho-animation-studio",
+        "name": "TOHO animation STUDIO",
+        "titlesCount": 7,
+        "link": "/anime/producer/2705/TOHO_animation_STUDIO"
+    },
+    {
+        "id": 691,
+        "malId": 1562,
+        "slug": "team-yokkyufuman",
+        "name": "Team YokkyuFuman",
+        "titlesCount": 7,
+        "link": "/anime/producer/1562/Team_YokkyuFuman"
+    },
+    {
+        "id": 692,
+        "malId": 917,
+        "slug": "takahashi-studio",
+        "name": "Takahashi Studio",
+        "titlesCount": 7,
+        "link": "/anime/producer/917/Takahashi_Studio"
+    },
+    {
+        "id": 693,
+        "malId": 2208,
+        "slug": "taikong-works",
+        "name": "Taikong Works",
+        "titlesCount": 6,
+        "link": "/anime/producer/2208/Taikong_Works"
+    },
+    {
+        "id": 694,
+        "malId": 489,
+        "slug": "tcj",
+        "name": "TCJ",
+        "titlesCount": 6,
+        "link": "/anime/producer/489/TCJ"
+    },
+    {
+        "id": 695,
+        "malId": 2947,
+        "slug": "tokyo-tv-douga",
+        "name": "Tokyo TV Douga",
+        "titlesCount": 5,
+        "link": "/anime/producer/2947/Tokyo_TV_Douga"
+    },
+    {
+        "id": 696,
+        "malId": 2617,
+        "slug": "tianshi-wenhua",
+        "name": "Tianshi Wenhua",
+        "titlesCount": 5,
+        "link": "/anime/producer/2617/Tianshi_Wenhua"
+    },
+    {
+        "id": 697,
+        "malId": 2075,
+        "slug": "taomee",
+        "name": "Taomee",
+        "titlesCount": 5,
+        "link": "/anime/producer/2075/Taomee"
+    },
+    {
+        "id": 698,
+        "malId": 345,
+        "slug": "taki-corporation",
+        "name": "TAKI Corporation",
+        "titlesCount": 5,
+        "link": "/anime/producer/345/TAKI_Corporation"
+    },
+    {
+        "id": 699,
+        "malId": 2707,
+        "slug": "tokyo-polytechnic-university",
+        "name": "Tokyo Polytechnic University",
+        "titlesCount": 4,
+        "link": "/anime/producer/2707/Tokyo_Polytechnic_University"
+    },
+    {
+        "id": 700,
+        "malId": 2456,
+        "slug": "team-yamahitsuji",
+        "name": "team Yamahitsuji",
+        "titlesCount": 4,
+        "link": "/anime/producer/2456/team_Yamahitsuji"
+    },
+    {
+        "id": 701,
+        "malId": 416,
+        "slug": "tap",
+        "name": "TAP",
+        "titlesCount": 4,
+        "link": "/anime/producer/416/TAP"
+    },
+    {
+        "id": 702,
+        "malId": 2352,
+        "slug": "tryforce",
+        "name": "Tryforce",
+        "titlesCount": 3,
+        "link": "/anime/producer/2352/Tryforce"
+    },
+    {
+        "id": 703,
+        "malId": 2251,
+        "slug": "tthunder-animation",
+        "name": "TthunDer Animation",
+        "titlesCount": 3,
+        "link": "/anime/producer/2251/TthunDer_Animation"
+    },
+    {
+        "id": 704,
+        "malId": 2084,
+        "slug": "tong-ming-xuan",
+        "name": "Tong Ming Xuan",
+        "titlesCount": 3,
+        "link": "/anime/producer/2084/Tong_Ming_Xuan"
+    },
+    {
+        "id": 705,
+        "malId": 1356,
+        "slug": "tonko-house",
+        "name": "Tonko House",
+        "titlesCount": 3,
+        "link": "/anime/producer/1356/Tonko_House"
+    },
+    {
+        "id": 706,
+        "malId": 587,
+        "slug": "tomason",
+        "name": "Tomason",
+        "titlesCount": 3,
+        "link": "/anime/producer/587/Tomason"
+    },
+    {
+        "id": 707,
+        "malId": 2895,
+        "slug": "team-oneone",
+        "name": "Team OneOne",
+        "titlesCount": 2,
+        "link": "/anime/producer/2895/Team_OneOne"
+    },
+    {
+        "id": 708,
+        "malId": 2605,
+        "slug": "tonari-animation",
+        "name": "Tonari Animation",
+        "titlesCount": 2,
+        "link": "/anime/producer/2605/Tonari_Animation"
+    },
+    {
+        "id": 709,
+        "malId": 2476,
+        "slug": "tohjak",
+        "name": "Tohjak",
+        "titlesCount": 2,
+        "link": "/anime/producer/2476/Tohjak"
+    },
+    {
+        "id": 710,
+        "malId": 2141,
+        "slug": "tanosim",
+        "name": "TANOsim",
+        "titlesCount": 2,
+        "link": "/anime/producer/2141/TANOsim"
+    },
+    {
+        "id": 711,
+        "malId": 1514,
+        "slug": "tengu-kobo",
+        "name": "Tengu Kobo",
+        "titlesCount": 2,
+        "link": "/anime/producer/1514/Tengu_Kobo"
+    },
+    {
+        "id": 712,
+        "malId": 2909,
+        "slug": "teddy",
+        "name": "Teddy",
+        "titlesCount": 1,
+        "link": "/anime/producer/2909/Teddy"
+    },
+    {
+        "id": 713,
+        "malId": 2643,
+        "slug": "the-gate-studio",
+        "name": "The Gate Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2643/The_Gate_Studio"
+    },
+    {
+        "id": 714,
+        "malId": 2602,
+        "slug": "tankong-pictures",
+        "name": "TanKong Pictures",
+        "titlesCount": 1,
+        "link": "/anime/producer/2602/TanKong_Pictures"
+    },
+    {
+        "id": 715,
+        "malId": 2595,
+        "slug": "typezero",
+        "name": "TypeZero",
+        "titlesCount": 1,
+        "link": "/anime/producer/2595/TypeZero"
+    },
+    {
+        "id": 716,
+        "malId": 2575,
+        "slug": "tv-tokyo-communications",
+        "name": "TV Tokyo Communications",
+        "titlesCount": 1,
+        "link": "/anime/producer/2575/TV_Tokyo_Communications"
+    },
+    {
+        "id": 717,
+        "malId": 2489,
+        "slug": "tsubo-production",
+        "name": "Tsubo Production",
+        "titlesCount": 1,
+        "link": "/anime/producer/2489/Tsubo_Production"
+    },
+    {
+        "id": 718,
+        "malId": 2461,
+        "slug": "twenty-first",
+        "name": "Twenty First",
+        "titlesCount": 1,
+        "link": "/anime/producer/2461/Twenty_First"
+    },
+    {
+        "id": 719,
+        "malId": 2451,
+        "slug": "tec",
+        "name": "TEC",
+        "titlesCount": 1,
+        "link": "/anime/producer/2451/TEC"
+    },
+    {
+        "id": 720,
+        "malId": 2417,
+        "slug": "timi-studio-group",
+        "name": "TiMi Studio Group",
+        "titlesCount": 1,
+        "link": "/anime/producer/2417/TiMi_Studio_Group"
+    },
+    {
+        "id": 721,
+        "malId": 2184,
+        "slug": "the-monk-studios",
+        "name": "The Monk Studios",
+        "titlesCount": 1,
+        "link": "/anime/producer/2184/The_Monk_Studios"
+    },
+    {
+        "id": 722,
+        "malId": 2136,
+        "slug": "ten-tails-animation",
+        "name": "Ten Tails Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2136/Ten_Tails_Animation"
+    },
+    {
+        "id": 723,
+        "malId": 2027,
+        "slug": "team-tilldawn",
+        "name": "Team TillDawn",
+        "titlesCount": 1,
+        "link": "/anime/producer/2027/Team_TillDawn"
+    },
+    {
+        "id": 724,
+        "malId": 1650,
+        "slug": "twilight-studio",
+        "name": "Twilight Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/1650/Twilight_Studio"
+    },
+    {
+        "id": 725,
+        "malId": 1638,
+        "slug": "tsukimidou",
+        "name": "Tsukimidou",
+        "titlesCount": 1,
+        "link": "/anime/producer/1638/Tsukimidou"
+    },
+    {
+        "id": 726,
+        "malId": 1558,
+        "slug": "tocsis",
+        "name": "TOCSIS",
+        "titlesCount": 1,
+        "link": "/anime/producer/1558/TOCSIS"
+    },
+    {
+        "id": 727,
+        "malId": 43,
+        "slug": "ufotable",
+        "name": "ufotable",
+        "titlesCount": 76,
+        "link": "/anime/producer/43/ufotable"
+    },
+    {
+        "id": 728,
+        "malId": 539,
+        "slug": "ultra-super-pictures",
+        "name": "Ultra Super Pictures",
+        "titlesCount": 62,
+        "link": "/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+        "id": 729,
+        "malId": 1447,
+        "slug": "urban-vision",
+        "name": "Urban Vision",
+        "titlesCount": 20,
+        "link": "/anime/producer/1447/Urban_Vision"
+    },
+    {
+        "id": 730,
+        "malId": 1882,
+        "slug": "uwan-pictures",
+        "name": "UWAN Pictures",
+        "titlesCount": 4,
+        "link": "/anime/producer/1882/UWAN_Pictures"
+    },
+    {
+        "id": 731,
+        "malId": 1842,
+        "slug": "urban-product",
+        "name": "Urban Product",
+        "titlesCount": 3,
+        "link": "/anime/producer/1842/Urban_Product"
+    },
+    {
+        "id": 732,
+        "malId": 2723,
+        "slug": "unend",
+        "name": "Unend",
+        "titlesCount": 2,
+        "link": "/anime/producer/2723/Unend"
+    },
+    {
+        "id": 733,
+        "malId": 2656,
+        "slug": "uchupeople",
+        "name": "UchuPeople",
+        "titlesCount": 2,
+        "link": "/anime/producer/2656/UchuPeople"
+    },
+    {
+        "id": 734,
+        "malId": 433,
+        "slug": "viewworks",
+        "name": "Viewworks",
+        "titlesCount": 3,
+        "link": "/anime/producer/433/Viewworks"
+    },
+    {
+        "id": 735,
+        "malId": 2698,
+        "slug": "voil",
+        "name": "Voil",
+        "titlesCount": 2,
+        "link": "/anime/producer/2698/Voil"
+    },
+    {
+        "id": 736,
+        "malId": 2129,
+        "slug": "visual-flight",
+        "name": "Visual Flight",
+        "titlesCount": 1,
+        "link": "/anime/producer/2129/Visual_Flight"
+    },
+    {
+        "id": 737,
+        "malId": 1969,
+        "slug": "v-sign",
+        "name": "V-sign",
+        "titlesCount": 1,
+        "link": "/anime/producer/1969/V-sign"
+    },
+    {
+        "id": 738,
+        "malId": 415,
+        "slug": "warner-bros-japan",
+        "name": "Warner Bros. Japan",
+        "titlesCount": 138,
+        "link": "/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+        "id": 739,
+        "malId": 318,
+        "slug": "wao-world",
+        "name": "WAO World",
+        "titlesCount": 24,
+        "link": "/anime/producer/318/WAO_World"
+    },
+    {
+        "id": 740,
+        "malId": 1396,
+        "slug": "w-toon-studio",
+        "name": "W-Toon Studio",
+        "titlesCount": 21,
+        "link": "/anime/producer/1396/W-Toon_Studio"
+    },
+    {
+        "id": 741,
+        "malId": 2471,
+        "slug": "wonder-cat-animation",
+        "name": "Wonder Cat Animation",
+        "titlesCount": 16,
+        "link": "/anime/producer/2471/Wonder_Cat_Animation"
+    },
+    {
+        "id": 742,
+        "malId": 2408,
+        "slug": "wowmax",
+        "name": "WOWMAX",
+        "titlesCount": 6,
+        "link": "/anime/producer/2408/WOWMAX"
+    },
+    {
+        "id": 743,
+        "malId": 2434,
+        "slug": "wright-staff",
+        "name": "Wright Staff",
+        "titlesCount": 5,
+        "link": "/anime/producer/2434/Wright_Staff"
+    },
+    {
+        "id": 744,
+        "malId": 2864,
+        "slug": "windy-studio",
+        "name": "Windy Studio",
+        "titlesCount": 3,
+        "link": "/anime/producer/2864/Windy_Studio"
+    },
+    {
+        "id": 745,
+        "malId": 2386,
+        "slug": "wave-master",
+        "name": "Wave Master",
+        "titlesCount": 3,
+        "link": "/anime/producer/2386/Wave_Master"
+    },
+    {
+        "id": 746,
+        "malId": 1970,
+        "slug": "wolf-smoke-studio",
+        "name": "Wolf Smoke Studio",
+        "titlesCount": 3,
+        "link": "/anime/producer/1970/Wolf_Smoke_Studio"
+    },
+    {
+        "id": 747,
+        "malId": 2466,
+        "slug": "wanda-media",
+        "name": "Wanda Media",
+        "titlesCount": 2,
+        "link": "/anime/producer/2466/Wanda_Media"
+    },
+    {
+        "id": 748,
+        "malId": 2888,
+        "slug": "wang-film-productions",
+        "name": "Wang Film Productions",
+        "titlesCount": 1,
+        "link": "/anime/producer/2888/Wang_Film_Productions"
+    },
+    {
+        "id": 749,
+        "malId": 2573,
+        "slug": "watanabe-promotion",
+        "name": "Watanabe Promotion",
+        "titlesCount": 1,
+        "link": "/anime/producer/2573/Watanabe_Promotion"
+    },
+    {
+        "id": 750,
+        "malId": 2433,
+        "slug": "winfuture-media",
+        "name": "Winfuture Media",
+        "titlesCount": 1,
+        "link": "/anime/producer/2433/Winfuture_Media"
+    },
+    {
+        "id": 751,
+        "malId": 2628,
+        "slug": "xiaoming-taiji",
+        "name": "Xiaoming Taiji",
+        "titlesCount": 4,
+        "link": "/anime/producer/2628/Xiaoming_Taiji"
+    },
+    {
+        "id": 752,
+        "malId": 2091,
+        "slug": "xanthus-media",
+        "name": "Xanthus Media",
+        "titlesCount": 2,
+        "link": "/anime/producer/2091/Xanthus_Media"
+    },
+    {
+        "id": 753,
+        "malId": 2447,
+        "slug": "youku",
+        "name": "Youku",
+        "titlesCount": 66,
+        "link": "/anime/producer/2447/Youku"
+    },
+    {
+        "id": 754,
+        "malId": 1492,
+        "slug": "yomiuri-tv-enterprise",
+        "name": "Yomiuri TV Enterprise",
+        "titlesCount": 66,
+        "link": "/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+        "id": 755,
+        "malId": 1687,
+        "slug": "yokohama-animation-laboratory",
+        "name": "Yokohama Animation Laboratory",
+        "titlesCount": 29,
+        "link": "/anime/producer/1687/Yokohama_Animation_Laboratory"
+    },
+    {
+        "id": 756,
+        "malId": 1560,
+        "slug": "yaoyorozu",
+        "name": "Yaoyorozu",
+        "titlesCount": 12,
+        "link": "/anime/producer/1560/Yaoyorozu"
+    },
+    {
+        "id": 757,
+        "malId": 2556,
+        "slug": "yuewen-animation---comics",
+        "name": "Yuewen Animation & Comics",
+        "titlesCount": 11,
+        "link": "/anime/producer/2556/Yuewen_Animation___Comics"
+    },
+    {
+        "id": 758,
+        "malId": 1958,
+        "slug": "yhkt-entertainment",
+        "name": "YHKT Entertainment",
+        "titlesCount": 8,
+        "link": "/anime/producer/1958/YHKT_Entertainment"
+    },
+    {
+        "id": 759,
+        "malId": 2194,
+        "slug": "yi-chen-animation",
+        "name": "Yi Chen Animation",
+        "titlesCount": 6,
+        "link": "/anime/producer/2194/Yi_Chen_Animation"
+    },
+    {
+        "id": 760,
+        "malId": 2401,
+        "slug": "yuruppe-inc",
+        "name": "YURUPPE Inc.",
+        "titlesCount": 4,
+        "link": "/anime/producer/2401/YURUPPE_Inc"
+    },
+    {
+        "id": 761,
+        "malId": 3019,
+        "slug": "yoyogi-animation-gakuin",
+        "name": "Yoyogi Animation Gakuin",
+        "titlesCount": 3,
+        "link": "/anime/producer/3019/Yoyogi_Animation_Gakuin"
+    },
+    {
+        "id": 762,
+        "malId": 2569,
+        "slug": "yinhe-changxing-culture",
+        "name": "Yinhe Changxing Culture",
+        "titlesCount": 3,
+        "link": "/anime/producer/2569/Yinhe_Changxing_Culture"
+    },
+    {
+        "id": 763,
+        "malId": 2438,
+        "slug": "yell",
+        "name": "yell",
+        "titlesCount": 2,
+        "link": "/anime/producer/2438/yell"
+    },
+    {
+        "id": 764,
+        "malId": 2096,
+        "slug": "y-n-brothers",
+        "name": "Y&N Brothers",
+        "titlesCount": 2,
+        "link": "/anime/producer/2096/Y_N_Brothers"
+    },
+    {
+        "id": 765,
+        "malId": 1453,
+        "slug": "yoons-color",
+        "name": "Yoon's Color",
+        "titlesCount": 2,
+        "link": "/anime/producer/1453/Yoons_Color"
+    },
+    {
+        "id": 766,
+        "malId": 2964,
+        "slug": "york-animation",
+        "name": "York Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2964/York_Animation"
+    },
+    {
+        "id": 767,
+        "malId": 2531,
+        "slug": "youth-film-studio",
+        "name": "Youth Film Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2531/Youth_Film_Studio"
+    },
+    {
+        "id": 768,
+        "malId": 1665,
+        "slug": "yili-animation-studio",
+        "name": "Yili Animation Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/1665/Yili_Animation_Studio"
+    },
+    {
+        "id": 769,
+        "malId": 2583,
+        "slug": "yuntu-animation",
+        "name": "Yuntu Animation",
+        "titlesCount": 0,
+        "link": "/anime/producer/2583/Yuntu_Animation"
+    },
+    {
+        "id": 770,
+        "malId": 218,
+        "slug": "zexcs",
+        "name": "Zexcs",
+        "titlesCount": 81,
+        "link": "/anime/producer/218/Zexcs"
+    },
+    {
+        "id": 771,
+        "malId": 1379,
+        "slug": "zero-g",
+        "name": "Zero-G",
+        "titlesCount": 37,
+        "link": "/anime/producer/1379/Zero-G"
+    },
+    {
+        "id": 772,
+        "malId": 1131,
+        "slug": "zero-g-room",
+        "name": "Zero-G Room",
+        "titlesCount": 9,
+        "link": "/anime/producer/1131/Zero-G_Room"
+    },
+    {
+        "id": 773,
+        "malId": 2581,
+        "slug": "zhou-shen-studio",
+        "name": "Zhou Shen Studio",
+        "titlesCount": 1,
+        "link": "/anime/producer/2581/Zhou_Shen_Studio"
+    },
+    {
+        "id": 774,
+        "malId": 2473,
+        "slug": "zoland-animation",
+        "name": "Zoland Animation",
+        "titlesCount": 1,
+        "link": "/anime/producer/2473/Zoland_Animation"
+    },
+    {
+        "id": 775,
+        "malId": 1376,
+        "slug": "zoom-enterprise",
+        "name": "ZOOM ENTERPRISE",
+        "titlesCount": 1,
+        "link": "/anime/producer/1376/ZOOM_ENTERPRISE"
+    }
+]

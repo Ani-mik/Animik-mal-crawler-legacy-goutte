@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "slug": "all-anime",
+        "name": "All Anime"
+    },
+    {
+        "id": 2,
+        "slug": "top-airing",
+        "name": "Top Airing"
+    },
+    {
+        "id": 3,
+        "slug": "top-upcoming",
+        "name": "Top Upcoming"
+    },
+    {
+        "id": 4,
+        "slug": "top-tv-series",
+        "name": "Top TV Series"
+    },
+    {
+        "id": 5,
+        "slug": "top-movies",
+        "name": "Top Movies"
+    },
+    {
+        "id": 6,
+        "slug": "top-ovas",
+        "name": "Top OVAs"
+    },
+    {
+        "id": 7,
+        "slug": "top-onas",
+        "name": "Top ONAs"
+    },
+    {
+        "id": 8,
+        "slug": "top-special",
+        "name": "Top Special"
+    },
+    {
+        "id": 9,
+        "slug": "most-popular",
+        "name": "Most Popular"
+    }
+]

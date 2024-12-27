@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "malId": 43,
+        "slug": "josei",
+        "name": "Josei",
+        "titlesCount": 156,
+        "link": "/anime/genre/43/Josei"
+    },
+    {
+        "id": 2,
+        "malId": 15,
+        "slug": "kids",
+        "name": "Kids",
+        "titlesCount": 6751,
+        "link": "/anime/genre/15/Kids"
+    },
+    {
+        "id": 3,
+        "malId": 42,
+        "slug": "seinen",
+        "name": "Seinen",
+        "titlesCount": 1056,
+        "link": "/anime/genre/42/Seinen"
+    },
+    {
+        "id": 4,
+        "malId": 25,
+        "slug": "shoujo",
+        "name": "Shoujo",
+        "titlesCount": 504,
+        "link": "/anime/genre/25/Shoujo"
+    },
+    {
+        "id": 5,
+        "malId": 27,
+        "slug": "shounen",
+        "name": "Shounen",
+        "titlesCount": 2061,
+        "link": "/anime/genre/27/Shounen"
+    }
+]
