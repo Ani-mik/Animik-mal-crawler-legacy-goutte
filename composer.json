@@ -1,6 +1,6 @@
 {
-  "name": "vahe/mal-crawler",
-  "description": "vahe/mal-crawler",
+  "name": "animik/mal-crawler",
+  "description": "mal crawler",
   "type": "library",
   "autoload": {
     "psr-4": {
@@ -37,6 +37,9 @@
       "aliases": [
         "Vahe\\MalCrawler\\Facades\\MalCrawler"
       ]
+    },
+    "funding": {
+      "github": ["w33bvGL"]
     }
   },
   "minimum-stability": "stable"
