@@ -23,7 +23,7 @@ class CrawlStudiosTest extends UnitTest
 	public function testItCrawlsStudios()
 	{
 		$studiosResponse = MalCrawler::crawlStudios();
-		$studiosInformationResponse = MalCrawler::crawlStudioInformation(183);
+		$studiosInformationResponse = MalCrawler::crawlStudioInformation(2);
 
 		$studios = $this->decodeAndValidateJson($studiosResponse);
 		$studiosInformation = $this->decodeAndValidateJson($studiosInformationResponse);
