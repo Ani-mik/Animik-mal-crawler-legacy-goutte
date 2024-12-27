@@ -16,7 +16,9 @@ class CrawlRankings extends BaseService
 	}
 
 	/**
-	 * Get rankings from the specified URL
+	 * Получить рейтинги с указанного URL
+	 *
+	 * Get rankings from the specified URL.
 	 *
 	 * @return JsonResponse
 	 */
@@ -26,7 +28,9 @@ class CrawlRankings extends BaseService
 	}
 
 	/**
-	 * A General Method for Rankings Extraction
+	 * Общий метод для извлечения рейтингов
+	 *
+	 * A General Method for Rankings Extraction.
 	 *
 	 * @param string $selector
 	 * @return JsonResponse
@@ -55,6 +59,7 @@ class CrawlRankings extends BaseService
 		});
 
 		$rankings = array_filter($rankings);
+
 		return response()->json(array_values($rankings));
 	}
 }

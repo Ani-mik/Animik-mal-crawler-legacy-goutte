@@ -18,7 +18,16 @@ class CrawlAnime extends BaseService
 	}
 
 	/**
-	 * Find the maximum anime ID on MyAnimeList
+	 * Находит максимальный ID аниме на MyAnimeList
+	 *
+	 * Finds the maximum anime ID on MyAnimeList.
+	 *
+	 * Метод использует бинарный поиск для нахождения максимального действительного ID аниме.
+	 * Этот процесс начинается с расширения диапазона и затем использует бинарный поиск для точного нахождения ID.
+	 *
+	 * The method uses binary search to find the maximum valid anime ID.
+	 * The process starts by expanding the range, and then binary search is applied
+	 * to precisely find the highest existing ID.
 	 *
 	 * @return int
 	 * @throws TransportExceptionInterface
@@ -60,6 +69,14 @@ class CrawlAnime extends BaseService
 
 	/**
 	 * Вернуть минимальный и максимальный ID в формате JSON
+	 *
+	 * Returns the minimum and maximum anime ID in JSON format.
+	 *
+	 * Этот метод использует метод findMaxAnimeId для нахождения максимального ID,
+	 * а затем возвращает минимальный и максимальный ID в формате JSON.
+	 *
+	 * This method uses the findMaxAnimeId method to find the maximum ID,
+	 * and then returns the minimum and maximum IDs in JSON format.
 	 *
 	 * @return JsonResponse
 	 * @throws TransportExceptionInterface

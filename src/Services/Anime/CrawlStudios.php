@@ -16,7 +16,9 @@ class CrawlStudios extends BaseService
 	}
 
 	/**
-	 * Get studios from the specified URL
+	 * Получить студии с указанного URL
+	 *
+	 * Get studios from the specified URL.
 	 *
 	 * @return JsonResponse
 	 */
@@ -26,7 +28,9 @@ class CrawlStudios extends BaseService
 	}
 
 	/**
-	 * Get description of a genre by malId
+	 * Получить информацию о студии по её malId
+	 *
+	 * Get description of a studio by malId.
 	 *
 	 * @param int $malId
 	 * @return JsonResponse
@@ -77,7 +81,6 @@ class CrawlStudios extends BaseService
 			});
 		}
 
-
 		$japanese = $info['japanese'] ?? null;
 		if ($japanese) {
 			$info['japanese'] = $this->decodeUnicode($japanese);
@@ -107,7 +110,9 @@ class CrawlStudios extends BaseService
 	}
 
 	/**
-	 * A General Method for Genre Extraction
+	 * Общий метод для извлечения студий
+	 *
+	 * A General Method for Studio Extraction.
 	 *
 	 * @param string $selector
 	 * @return JsonResponse

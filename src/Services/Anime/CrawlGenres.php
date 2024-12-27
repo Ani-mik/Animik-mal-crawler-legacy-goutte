@@ -16,7 +16,13 @@ class CrawlGenres extends BaseService
 	}
 
 	/**
-	 * Get genres from the specified URL with ID
+	 * Получить жанры с указанного URL с ID
+	 *
+	 * Get genres from the specified URL with ID.
+	 *
+	 * Этот метод запрашивает данные о жанрах с указанного URL и возвращает их в формате JSON.
+	 *
+	 * This method fetches genre data from a specified URL and returns them in JSON format.
 	 *
 	 * @return JsonResponse
 	 */
@@ -26,7 +32,13 @@ class CrawlGenres extends BaseService
 	}
 
 	/**
-	 * Get explicit genres (eg Ecchi, Hentai) from the page
+	 * Получить явные жанры (например, Ecchi, Hentai) со страницы
+	 *
+	 * Get explicit genres (e.g., Ecchi, Hentai) from the page.
+	 *
+	 * Этот метод фильтрует и возвращает явные жанры в формате JSON.
+	 *
+	 * This method filters and returns explicit genres in JSON format.
 	 *
 	 * @return JsonResponse
 	 */
@@ -36,7 +48,13 @@ class CrawlGenres extends BaseService
 	}
 
 	/**
-	 * Get Anime themes
+	 * Получить темы аниме
+	 *
+	 * Get Anime themes.
+	 *
+	 * Этот метод возвращает темы аниме, извлекая их с указанного URL.
+	 *
+	 * This method returns anime themes by extracting them from a specified URL.
 	 *
 	 * @return JsonResponse
 	 */
@@ -46,7 +64,13 @@ class CrawlGenres extends BaseService
 	}
 
 	/**
-	 * Get Anime Demographics
+	 * Получить демографию аниме
+	 *
+	 * Get Anime demographics.
+	 *
+	 * Этот метод возвращает демографическую информацию о аниме.
+	 *
+	 * This method returns demographic data about anime.
 	 *
 	 * @return JsonResponse
 	 */
@@ -56,7 +80,13 @@ class CrawlGenres extends BaseService
 	}
 
 	/**
-	 * Get description of a genre by malId
+	 * Получить описание жанра по malId
+	 *
+	 * Get description of a genre by malId.
+	 *
+	 * Этот метод извлекает описание жанра с указанным malId и возвращает его в формате JSON.
+	 *
+	 * This method extracts the description of a genre with the specified malId and returns it in JSON format.
 	 *
 	 * @param int $malId
 	 * @return JsonResponse
@@ -86,7 +116,15 @@ class CrawlGenres extends BaseService
 	}
 
 	/**
-	 * A General Method for Genre Extraction
+	 * Общий метод для извлечения жанров
+	 *
+	 * A General Method for Genre Extraction.
+	 *
+	 * Этот метод выполняет парсинг жанров с указанного URL и возвращает их в формате JSON.
+	 * В зависимости от переданного индекса, он может фильтровать данные по категориям.
+	 *
+	 * This method parses genres from a specified URL and returns them in JSON format.
+	 * Depending on the passed index, it can filter the data by categories.
 	 *
 	 * @param string $genreSelector
 	 * @param int|null $index

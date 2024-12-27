@@ -3,7 +3,7 @@
 
 namespace Vahe\MalCrawler\Traits;
 
-trait SlugTrait
+trait HasSlugTrait
 {
 	/**
 	 * Generate slug for genre (converts to lowercase, replaces spaces with hyphens)

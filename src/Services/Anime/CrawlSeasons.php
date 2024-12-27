@@ -16,7 +16,9 @@ class CrawlSeasons extends BaseService
 	}
 
 	/**
-	 * Get rankings from the specified URL
+	 * Получить сезоны с указанного URL
+	 *
+	 * Get seasons from the specified URL.
 	 *
 	 * @return JsonResponse
 	 */
@@ -26,7 +28,9 @@ class CrawlSeasons extends BaseService
 	}
 
 	/**
-	 * A General Method for Rankings Extraction
+	 * Общий метод для извлечения сезонов
+	 *
+	 * A General Method for Seasons Extraction.
 	 *
 	 * @param string $selector
 	 * @return JsonResponse
@@ -39,7 +43,7 @@ class CrawlSeasons extends BaseService
 
 		$idCounter = 1;
 
-		$rankings = $crawler->filter($selector . ' a')->each(function ($node) use (&$idCounter) {
+		$seasons = $crawler->filter($selector . ' a')->each(function ($node) use (&$idCounter) {
 
 			$slug = $this->generateSlug(trim($node->text()));
 
@@ -51,7 +55,7 @@ class CrawlSeasons extends BaseService
 			];
 		});
 
-		$rankings = array_filter($rankings);
-		return response()->json(array_values($rankings));
+		$seasons = array_filter($seasons);
+		return response()->json(array_values($seasons));
 	}
 }

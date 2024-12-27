@@ -3,13 +3,10 @@
 
 namespace Vahe\MalCrawler\Services;
 
-use Vahe\MalCrawler\Traits\SlugTrait;
+use Vahe\MalCrawler\Traits\hasDecodeUnicode;
+use Vahe\MalCrawler\Traits\hasSlugTrait;
 
 abstract class BaseService
 {
-	use SlugTrait;
-
-	function decodeUnicode($str) {
-		return json_decode('"' . $str . '"');
-	}
+	use hasSlugTrait, hasDecodeUnicode;
 }
