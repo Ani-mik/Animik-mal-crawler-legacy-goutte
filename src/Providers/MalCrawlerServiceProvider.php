@@ -3,6 +3,7 @@
 namespace Vahe\MalCrawler\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Vahe\MalCrawler\Services\Anime\CrawlAnime;
 use Vahe\MalCrawler\Services\Anime\CrawlGenres;
 use Vahe\MalCrawler\Services\Anime\CrawlRankings;
 use Vahe\MalCrawler\Services\Anime\CrawlSeasons;
@@ -21,6 +22,7 @@ class MalCrawlerServiceProvider extends ServiceProvider
 			  'studios' => new CrawlStudios(),
 			  'rankings' => new CrawlRankings(),
 			  'seasons' => new CrawlSeasons(),
+			  'anime' => new CrawlAnime(),
 			];
 		});
 
