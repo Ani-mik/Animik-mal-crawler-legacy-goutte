@@ -13,6 +13,9 @@ class MalCrawlerServiceProvider extends ServiceProvider
 {
 	/**
 	 * Register any application services.
+	 *
+	 * Регистрирует сервис mal-crawler и его зависимости в контейнере сервисов.
+	 * Эти сервисы будут отвечать за парсинг жанров аниме, студий, рейтингов, сезонов и самих аниме.
 	 */
 	public function register(): void
 	{
@@ -33,6 +36,8 @@ class MalCrawlerServiceProvider extends ServiceProvider
 
 	/**
 	 * Bootstrap any package services.
+	 *
+	 * Публикует конфигурационный файл mal-crawler для того, чтобы пользователь мог изменить настройки.
 	 */
 	public function boot(): void
 	{
