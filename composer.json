@@ -32,10 +32,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Vahe\\MalCrawler\\Providers\\MalCrawlerServiceProvider"
+        "Animik\\MalCrawler\\Providers\\MalCrawlerServiceProvider"
       ],
       "aliases": [
-        "Vahe\\MalCrawler\\Facades\\MalCrawler"
+        "Animik\\MalCrawler\\Facades\\MalCrawler"
       ]
     },
     "funding": {

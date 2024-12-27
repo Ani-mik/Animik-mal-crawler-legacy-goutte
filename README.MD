@@ -1,4 +1,20 @@
-./vendor/bin/phpunit tests
-./vendor/bin/phpunit tests --filter=CrawlerServiceTest
+# Animik Wiki Crawler
 
-php artisan vendor:publish --provider="Vahe\MalCrawler\MalCrawlerServiceProvider" --tag=config
+**Animik Wiki Crawler** — это пакет для Laravel, предназначенный для парсинга данных о аниме для экосистемы **Animik**.
+
+## Установка
+
+Для установки используйте Composer:
+```bash
+composer require animik/mal-crawler
+```
+
+После установки, опубликуйте конфигурационные файлы:
+```bash
+php artisan vendor:publish --provider="Animik\MalCrawler\MalCrawlerServiceProvider" --tag=config
+```
+
+Для запуска тестов используйте команду:
+```bash
+php artisan vendor:publish --provider="Animik\MalCrawler\MalCrawlerServiceProvider" --tag=config
+```
