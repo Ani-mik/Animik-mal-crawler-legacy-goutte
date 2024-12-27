@@ -4,7 +4,6 @@ namespace Vahe\MalCrawler\Facades;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Facade;
-use Psy\Util\Json;
 
 class MalCrawler extends Facade
 {
