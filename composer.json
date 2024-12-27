@@ -15,7 +15,7 @@
   "authors": [
     {
       "name": "Vahe Sargsyan",
-      "email": "140258231+w33bvGL@users.noreply.github.com"
+      "email": "w33bv.gl@gmail.com"
     }
   ],
   "require": {
@@ -32,10 +32,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Animik\\MalCrawler\\Providers\\MalCrawlerServiceProvider"
+        "Vahe\\MalCrawler\\Providers\\MalCrawlerServiceProvider"
       ],
       "aliases": [
-        "Animik\\MalCrawler\\Facades\\MalCrawler"
+        "Vahe\\MalCrawler\\Facades\\MalCrawler"
       ]
     },
     "funding": {
