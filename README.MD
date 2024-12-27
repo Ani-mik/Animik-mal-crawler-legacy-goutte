@@ -5,16 +5,19 @@
 ## Установка
 
 Для установки используйте Composer:
+
 ```bash
 composer require animik/mal-crawler
 ```
 
 После установки, опубликуйте конфигурационные файлы:
+
 ```bash
 php artisan vendor:publish --provider="Animik\MalCrawler\MalCrawlerServiceProvider" --tag=config
 ```
 
 Для запуска тестов используйте команду:
+
 ```bash
-php artisan vendor:publish --provider="Animik\MalCrawler\MalCrawlerServiceProvider" --tag=config
+./vendor/bin/phpunit tests
 ```
