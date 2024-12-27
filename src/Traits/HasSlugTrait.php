@@ -1,12 +1,13 @@
 <?php
 
-
 namespace Vahe\MalCrawler\Traits;
 
 trait HasSlugTrait
 {
 	/**
-	 * Generate slug for genre (converts to lowercase, replaces spaces with hyphens)
+	 * Генерирует слуг для жанра (переводит в нижний регистр, заменяет пробелы на дефисы).
+	 *
+	 * Converts the string to lowercase and replaces spaces/underscores with hyphens.
 	 *
 	 * @param string $slug
 	 * @return string
